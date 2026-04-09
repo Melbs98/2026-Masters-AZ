@@ -8,47 +8,47 @@
         "score": "-5",
         "today": "",
         "thru": "",
-        "r1": "63.0",
+        "r1": "67.0",
         "r2": "",
         "r3": "",
         "r4": "",
         "numeric_score": -5
       },
       {
-        "pos": "30",
+        "pos": "28",
         "player": "Hideki Matsuyama",
         "score": "E",
         "today": "",
         "thru": "",
-        "r1": "68.0",
+        "r1": "72.0",
         "r2": "",
         "r3": "",
         "r4": "",
         "numeric_score": 0
       },
       {
-        "pos": "47",
+        "pos": "49",
         "player": "J.J. Spaun",
-        "score": "+1",
-        "today": "",
-        "thru": "",
-        "r1": "37.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 1
-      },
-      {
-        "pos": "58",
-        "player": "Ben Griffin",
         "score": "+2",
         "today": "",
         "thru": "",
-        "r1": "29.0",
+        "r1": "49.0",
         "r2": "",
         "r3": "",
         "r4": "",
         "numeric_score": 2
+      },
+      {
+        "pos": "42",
+        "player": "Ben Griffin",
+        "score": "+1",
+        "today": "",
+        "thru": "",
+        "r1": "41.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 1
       },
       {
         "pos": "3",
@@ -63,7 +63,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "25",
+        "pos": "24",
         "player": "Matt McCarty",
         "score": "E",
         "today": "",
@@ -75,7 +75,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "26",
+        "pos": "25",
         "player": "Kristoffer Reitan",
         "score": "E",
         "today": "",
@@ -87,28 +87,28 @@
         "numeric_score": 0
       },
       {
-        "pos": "17",
+        "pos": "18",
         "player": "Brian Campbell",
         "score": "-1",
         "today": "",
         "thru": "",
-        "r1": "60.0",
+        "r1": "71.0",
         "r2": "",
         "r3": "",
         "r4": "",
         "numeric_score": -1
       },
       {
-        "pos": "80",
+        "pos": "87",
         "player": "Mateo Pulcini",
-        "score": "+6",
+        "score": "+8",
         "today": "",
         "thru": "",
-        "r1": "62.0",
+        "r1": "76.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 6
+        "numeric_score": 8
       }
     ],
     "best3_total": -9,
@@ -119,7 +119,7 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "16",
+        "pos": "17",
         "player": "Tommy Fleetwood",
         "score": "-1",
         "today": "",
@@ -131,7 +131,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "53",
+        "pos": "46",
         "player": "Matt Fitzpatrick",
         "score": "+2",
         "today": "",
@@ -143,12 +143,12 @@
         "numeric_score": 2
       },
       {
-        "pos": "60",
+        "pos": "52",
         "player": "Viktor Hovland",
         "score": "+3",
         "today": "",
         "thru": "",
-        "r1": "67.0",
+        "r1": "75.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -167,16 +167,16 @@
         "numeric_score": -3
       },
       {
-        "pos": "13",
+        "pos": "7",
         "player": "Gary Woodland",
-        "score": "-2",
+        "score": "-3",
         "today": "",
         "thru": "",
-        "r1": "21.0",
+        "r1": "33.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": -2
+        "numeric_score": -3
       },
       {
         "pos": "",
@@ -191,7 +191,7 @@
         "numeric_score": null
       },
       {
-        "pos": "14",
+        "pos": "15",
         "player": "Haotong Li",
         "score": "-1",
         "today": "",
@@ -203,28 +203,28 @@
         "numeric_score": -1
       },
       {
-        "pos": "42",
+        "pos": "54",
         "player": "Tom McKibbin",
-        "score": "+1",
+        "score": "+3",
         "today": "",
         "thru": "",
-        "r1": "62.0",
+        "r1": "75.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 1
+        "numeric_score": 3
       },
       {
-        "pos": "19",
+        "pos": "11",
         "player": "Fred Couples",
-        "score": "-1",
+        "score": "-2",
         "today": "",
         "thru": "",
-        "r1": "39.0",
+        "r1": "54.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": -1
+        "numeric_score": -2
       },
       {
         "pos": "",
@@ -239,131 +239,15 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -6,
+    "best3_total": -8,
     "scores_entered": 8,
     "roster_loaded": 10
-  },
-  {
-    "team": "Ross",
-    "golfers": [
-      {
-        "pos": "9",
-        "player": "Scottie Scheffler",
-        "score": "-3",
-        "today": "",
-        "thru": "",
-        "r1": "20.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -3
-      },
-      {
-        "pos": "40",
-        "player": "Akshay Bhatia",
-        "score": "+1",
-        "today": "",
-        "thru": "",
-        "r1": "73.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 1
-      },
-      {
-        "pos": "37",
-        "player": "Chris Gotterup",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "32.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 0
-      },
-      {
-        "pos": "67",
-        "player": "Patrick Cantlay",
-        "score": "+4",
-        "today": "",
-        "thru": "",
-        "r1": "68.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 4
-      },
-      {
-        "pos": "49",
-        "player": "Harris English",
-        "score": "+1",
-        "today": "",
-        "thru": "",
-        "r1": "24.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 1
-      },
-      {
-        "pos": "6",
-        "player": "Aaron Rai",
-        "score": "-3",
-        "today": "",
-        "thru": "",
-        "r1": "37.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -3
-      },
-      {
-        "pos": "75",
-        "player": "Casey Jarvis",
-        "score": "+5",
-        "today": "",
-        "thru": "",
-        "r1": "77.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 5
-      },
-      {
-        "pos": "82",
-        "player": "Fifa Laopakdee",
-        "score": "+6",
-        "today": "",
-        "thru": "",
-        "r1": "50.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 6
-      },
-      {
-        "pos": "34",
-        "player": "Ethan Fang",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "52.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 0
-      }
-    ],
-    "best3_total": -6,
-    "scores_entered": 9,
-    "roster_loaded": 9
   },
   {
     "team": "Coulter",
     "golfers": [
       {
-        "pos": "11",
+        "pos": "10",
         "player": "Xander Schauffele",
         "score": "-2",
         "today": "",
@@ -375,43 +259,43 @@
         "numeric_score": -2
       },
       {
-        "pos": "21",
+        "pos": "13",
         "player": "Jordan Spieth",
-        "score": "-1",
-        "today": "",
-        "thru": "",
-        "r1": "31.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -1
-      },
-      {
-        "pos": "12",
-        "player": "Justin Thomas",
         "score": "-2",
-        "today": "",
-        "thru": "",
-        "r1": "25.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -2
-      },
-      {
-        "pos": "57",
-        "player": "Tyrrell Hatton",
-        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "38.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 2
+        "numeric_score": -2
+      },
+      {
+        "pos": "14",
+        "player": "Justin Thomas",
+        "score": "-2",
+        "today": "",
+        "thru": "",
+        "r1": "38.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -2
       },
       {
         "pos": "39",
+        "player": "Tyrrell Hatton",
+        "score": "+1",
+        "today": "",
+        "thru": "",
+        "r1": "48.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 1
+      },
+      {
+        "pos": "34",
         "player": "Dustin Johnson",
         "score": "+1",
         "today": "",
@@ -435,19 +319,19 @@
         "numeric_score": null
       },
       {
-        "pos": "55",
+        "pos": "53",
         "player": "Andrew Novak",
-        "score": "+2",
+        "score": "+3",
         "today": "",
         "thru": "",
-        "r1": "63.0",
+        "r1": "75.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 2
+        "numeric_score": 3
       },
       {
-        "pos": "88",
+        "pos": "85",
         "player": "Sami Välimäki",
         "score": "+8",
         "today": "",
@@ -459,7 +343,7 @@
         "numeric_score": 8
       },
       {
-        "pos": "51",
+        "pos": "44",
         "player": "José María Olazábal",
         "score": "+2",
         "today": "",
@@ -471,88 +355,168 @@
         "numeric_score": 2
       }
     ],
-    "best3_total": -5,
+    "best3_total": -6,
     "scores_entered": 8,
     "roster_loaded": 9
   },
   {
-    "team": "Dan 'Full Swing' Clark",
+    "team": "Klooster",
     "golfers": [
       {
-        "pos": "7",
-        "player": "Ludvig Åberg",
+        "pos": "6",
+        "player": "Justin Rose",
         "score": "-3",
         "today": "",
         "thru": "",
-        "r1": "29.0",
+        "r1": "37.0",
         "r2": "",
         "r3": "",
         "r4": "",
         "numeric_score": -3
       },
       {
-        "pos": "50",
-        "player": "Si Woo Kim",
-        "score": "+1",
+        "pos": "61",
+        "player": "Robert MacIntyre",
+        "score": "+3",
         "today": "",
         "thru": "",
-        "r1": "24.0",
+        "r1": "39.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 1
+        "numeric_score": 3
       },
       {
-        "pos": "45",
-        "player": "Jacob Bridgeman",
-        "score": "+1",
+        "pos": "56",
+        "player": "Nicolai Højgaard",
+        "score": "+3",
         "today": "",
         "thru": "",
-        "r1": "41.0",
+        "r1": "67.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 1
+        "numeric_score": 3
       },
       {
-        "pos": "10",
-        "player": "Shane Lowry",
-        "score": "-2",
+        "pos": "20",
+        "player": "Adam Scott",
+        "score": "-1",
         "today": "",
         "thru": "",
-        "r1": "70.0",
+        "r1": "55.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": -2
+        "numeric_score": -1
       },
       {
-        "pos": "27",
-        "player": "Keegan Bradley",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 0
-      },
-      {
-        "pos": "77",
-        "player": "Alex Noren",
+        "pos": "78",
+        "player": "Marco Penge",
         "score": "+5",
         "today": "",
         "thru": "",
-        "r1": "69.0",
+        "r1": "37.0",
         "r2": "",
         "r3": "",
         "r4": "",
         "numeric_score": 5
       },
       {
-        "pos": "73",
-        "player": "Rasmus Neergaard-Petersen",
+        "pos": "19",
+        "player": "Wyndham Clark",
+        "score": "-1",
+        "today": "",
+        "thru": "",
+        "r1": "67.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -1
+      },
+      {
+        "pos": "22",
+        "player": "Michael Brennan",
+        "score": "-1",
+        "today": "",
+        "thru": "",
+        "r1": "46.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -1
+      },
+      {
+        "pos": "51",
+        "player": "Charl Schwartzel",
+        "score": "+3",
+        "today": "",
+        "thru": "",
+        "r1": "75.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 3
+      },
+      {
+        "pos": "86",
+        "player": "Mike Weir",
+        "score": "+8",
+        "today": "",
+        "thru": "",
+        "r1": "76.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 8
+      }
+    ],
+    "best3_total": -5,
+    "scores_entered": 9,
+    "roster_loaded": 9
+  },
+  {
+    "team": "Ross",
+    "golfers": [
+      {
+        "pos": "8",
+        "player": "Scottie Scheffler",
+        "score": "-3",
+        "today": "",
+        "thru": "",
+        "r1": "33.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -3
+      },
+      {
+        "pos": "35",
+        "player": "Akshay Bhatia",
+        "score": "+1",
+        "today": "",
+        "thru": "",
+        "r1": "73.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 1
+      },
+      {
+        "pos": "31",
+        "player": "Chris Gotterup",
+        "score": "E",
+        "today": "",
+        "thru": "",
+        "r1": "44.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 0
+      },
+      {
+        "pos": "75",
+        "player": "Patrick Cantlay",
         "score": "+5",
         "today": "",
         "thru": "",
@@ -563,144 +527,64 @@
         "numeric_score": 5
       },
       {
-        "pos": "81",
-        "player": "Davis Riley",
-        "score": "+6",
+        "pos": "50",
+        "player": "Harris English",
+        "score": "+2",
         "today": "",
         "thru": "",
-        "r1": "58.0",
+        "r1": "34.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 6
+        "numeric_score": 2
       },
       {
-        "pos": "89",
-        "player": "Brandon Holtz",
-        "score": "+9",
-        "today": "",
-        "thru": "",
-        "r1": "81.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 9
-      }
-    ],
-    "best3_total": -5,
-    "scores_entered": 9,
-    "roster_loaded": 9
-  },
-  {
-    "team": "Melbye²",
-    "golfers": [
-      {
-        "pos": "66",
-        "player": "Bryson DeChambeau",
-        "score": "+4",
-        "today": "",
-        "thru": "",
-        "r1": "76.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 4
-      },
-      {
-        "pos": "22",
-        "player": "Brooks Koepka",
-        "score": "-1",
-        "today": "",
-        "thru": "",
-        "r1": "31.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -1
-      },
-      {
-        "pos": "38",
-        "player": "Jake Knapp",
-        "score": "+1",
-        "today": "",
-        "thru": "",
-        "r1": "73.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 1
-      },
-      {
-        "pos": "1",
-        "player": "Sam Burns",
-        "score": "-5",
-        "today": "",
-        "thru": "",
-        "r1": "67.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -5
-      },
-      {
-        "pos": "61",
-        "player": "Daniel Berger",
-        "score": "+3",
+        "pos": "12",
+        "player": "Aaron Rai",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "50.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 3
+        "numeric_score": -2
       },
       {
-        "pos": "91",
-        "player": "Aldrich Potgieter",
-        "score": "+12",
-        "today": "",
-        "thru": "",
-        "r1": "84.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 12
-      },
-      {
-        "pos": "84",
-        "player": "Max Greyserman",
-        "score": "+7",
-        "today": "",
-        "thru": "",
-        "r1": "79.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 7
-      },
-      {
-        "pos": "76",
-        "player": "Mason Howell",
+        "pos": "72",
+        "player": "Casey Jarvis",
         "score": "+5",
         "today": "",
         "thru": "",
-        "r1": "73.0",
+        "r1": "77.0",
         "r2": "",
         "r3": "",
         "r4": "",
         "numeric_score": 5
       },
       {
-        "pos": "64",
-        "player": "Jackson Herrington",
+        "pos": "67",
+        "player": "Fifa Laopakdee",
         "score": "+4",
         "today": "",
         "thru": "",
-        "r1": "76.0",
+        "r1": "60.0",
         "r2": "",
         "r3": "",
         "r4": "",
         "numeric_score": 4
+      },
+      {
+        "pos": "48",
+        "player": "Ethan Fang",
+        "score": "+2",
+        "today": "",
+        "thru": "",
+        "r1": "66.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 2
       }
     ],
     "best3_total": -5,
@@ -711,12 +595,12 @@
     "team": "Adam & Kevin",
     "golfers": [
       {
-        "pos": "41",
+        "pos": "37",
         "player": "Cameron Young",
         "score": "+1",
         "today": "",
         "thru": "",
-        "r1": "69.0",
+        "r1": "73.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -735,7 +619,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "52",
+        "pos": "45",
         "player": "Cameron Smith",
         "score": "+2",
         "today": "",
@@ -747,19 +631,19 @@
         "numeric_score": 2
       },
       {
-        "pos": "23",
+        "pos": "32",
         "player": "Sepp Straka",
-        "score": "-1",
+        "score": "E",
         "today": "",
         "thru": "",
-        "r1": "26.0",
+        "r1": "40.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": -1
+        "numeric_score": 0
       },
       {
-        "pos": "74",
+        "pos": "71",
         "player": "Ryan Fox",
         "score": "+5",
         "today": "",
@@ -771,7 +655,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "28",
+        "pos": "27",
         "player": "Ryan Gerard",
         "score": "E",
         "today": "",
@@ -783,7 +667,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "87",
+        "pos": "84",
         "player": "Carlos Ortiz",
         "score": "+8",
         "today": "",
@@ -807,7 +691,7 @@
         "numeric_score": null
       },
       {
-        "pos": "85",
+        "pos": "82",
         "player": "Vijay Singh",
         "score": "+7",
         "today": "",
@@ -819,228 +703,76 @@
         "numeric_score": 7
       }
     ],
-    "best3_total": -4,
+    "best3_total": -3,
     "scores_entered": 8,
     "roster_loaded": 9
   },
   {
-    "team": "Klooster",
+    "team": "Melbye²",
     "golfers": [
       {
-        "pos": "8",
-        "player": "Justin Rose",
-        "score": "-3",
-        "today": "",
-        "thru": "",
-        "r1": "29.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -3
-      },
-      {
-        "pos": "48",
-        "player": "Robert MacIntyre",
-        "score": "+1",
-        "today": "",
-        "thru": "",
-        "r1": "24.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 1
-      },
-      {
-        "pos": "43",
-        "player": "Nicolai Højgaard",
-        "score": "+1",
-        "today": "",
-        "thru": "",
-        "r1": "53.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 1
-      },
-      {
-        "pos": "44",
-        "player": "Adam Scott",
-        "score": "+1",
-        "today": "",
-        "thru": "",
-        "r1": "48.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 1
-      },
-      {
-        "pos": "72",
-        "player": "Marco Penge",
+        "pos": "65",
+        "player": "Bryson DeChambeau",
         "score": "+4",
         "today": "",
         "thru": "",
-        "r1": "27.0",
+        "r1": "76.0",
         "r2": "",
         "r3": "",
         "r4": "",
         "numeric_score": 4
       },
       {
-        "pos": "32",
-        "player": "Wyndham Clark",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "56.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 0
-      },
-      {
-        "pos": "36",
-        "player": "Michael Brennan",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "36.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 0
-      },
-      {
-        "pos": "59",
-        "player": "Charl Schwartzel",
-        "score": "+3",
-        "today": "",
-        "thru": "",
-        "r1": "75.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 3
-      },
-      {
-        "pos": "78",
-        "player": "Mike Weir",
-        "score": "+5",
-        "today": "",
-        "thru": "",
-        "r1": "61.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 5
-      }
-    ],
-    "best3_total": -3,
-    "scores_entered": 9,
-    "roster_loaded": 9
-  },
-  {
-    "team": "Bryan",
-    "golfers": [
-      {
-        "pos": "62",
-        "player": "Jon Rahm",
-        "score": "+3",
-        "today": "",
-        "thru": "",
-        "r1": "35.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 3
-      },
-      {
-        "pos": "29",
-        "player": "Russell Henley",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "68.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 0
-      },
-      {
-        "pos": "35",
-        "player": "Corey Conners",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "40.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 0
-      },
-      {
-        "pos": "71",
-        "player": "Maverick McNealy",
-        "score": "+4",
-        "today": "",
-        "thru": "",
-        "r1": "40.0",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 4
-      },
-      {
-        "pos": "46",
-        "player": "Harry Hall",
+        "pos": "41",
+        "player": "Brooks Koepka",
         "score": "+1",
         "today": "",
         "thru": "",
-        "r1": "37.0",
+        "r1": "41.0",
         "r2": "",
         "r3": "",
         "r4": "",
         "numeric_score": 1
       },
       {
-        "pos": "15",
-        "player": "Nick Taylor",
-        "score": "-1",
+        "pos": "33",
+        "player": "Jake Knapp",
+        "score": "+1",
         "today": "",
         "thru": "",
-        "r1": "71.0",
+        "r1": "73.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": -1
+        "numeric_score": 1
       },
       {
-        "pos": "56",
-        "player": "Michael Kim",
-        "score": "+2",
+        "pos": "1",
+        "player": "Sam Burns",
+        "score": "-5",
         "today": "",
         "thru": "",
-        "r1": "54.0",
+        "r1": "67.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 2
+        "numeric_score": -5
       },
       {
-        "pos": "18",
-        "player": "Danny Willett",
-        "score": "-1",
+        "pos": "58",
+        "player": "Daniel Berger",
+        "score": "+3",
         "today": "",
         "thru": "",
-        "r1": "51.0",
+        "r1": "59.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": -1
+        "numeric_score": 3
       },
       {
-        "pos": "90",
-        "player": "Naoyuki Kataoka",
+        "pos": "91",
+        "player": "Aldrich Potgieter",
         "score": "+12",
         "today": "",
         "thru": "",
@@ -1049,6 +781,158 @@
         "r3": "",
         "r4": "",
         "numeric_score": 12
+      },
+      {
+        "pos": "81",
+        "player": "Max Greyserman",
+        "score": "+7",
+        "today": "",
+        "thru": "",
+        "r1": "79.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 7
+      },
+      {
+        "pos": "73",
+        "player": "Mason Howell",
+        "score": "+5",
+        "today": "",
+        "thru": "",
+        "r1": "77.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 5
+      },
+      {
+        "pos": "63",
+        "player": "Jackson Herrington",
+        "score": "+4",
+        "today": "",
+        "thru": "",
+        "r1": "76.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 4
+      }
+    ],
+    "best3_total": -3,
+    "scores_entered": 9,
+    "roster_loaded": 9
+  },
+  {
+    "team": "Dan 'Full Swing' Clark",
+    "golfers": [
+      {
+        "pos": "40",
+        "player": "Ludvig Åberg",
+        "score": "+1",
+        "today": "",
+        "thru": "",
+        "r1": "45.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 1
+      },
+      {
+        "pos": "43",
+        "player": "Si Woo Kim",
+        "score": "+1",
+        "today": "",
+        "thru": "",
+        "r1": "33.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 1
+      },
+      {
+        "pos": "30",
+        "player": "Jacob Bridgeman",
+        "score": "E",
+        "today": "",
+        "thru": "",
+        "r1": "52.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 0
+      },
+      {
+        "pos": "9",
+        "player": "Shane Lowry",
+        "score": "-2",
+        "today": "",
+        "thru": "",
+        "r1": "70.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -2
+      },
+      {
+        "pos": "26",
+        "player": "Keegan Bradley",
+        "score": "E",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 0
+      },
+      {
+        "pos": "74",
+        "player": "Alex Noren",
+        "score": "+5",
+        "today": "",
+        "thru": "",
+        "r1": "77.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 5
+      },
+      {
+        "pos": "70",
+        "player": "Rasmus Neergaard-Petersen",
+        "score": "+5",
+        "today": "",
+        "thru": "",
+        "r1": "77.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 5
+      },
+      {
+        "pos": "88",
+        "player": "Davis Riley",
+        "score": "+8",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 8
+      },
+      {
+        "pos": "89",
+        "player": "Brandon Holtz",
+        "score": "+9",
+        "today": "",
+        "thru": "",
+        "r1": "81.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 9
       }
     ],
     "best3_total": -2,
@@ -1059,31 +943,31 @@
     "team": "Asshole Garrett",
     "golfers": [
       {
-        "pos": "54",
+        "pos": "47",
         "player": "Collin Morikawa",
         "score": "+2",
         "today": "",
         "thru": "",
-        "r1": "70.0",
+        "r1": "74.0",
         "r2": "",
         "r3": "",
         "r4": "",
         "numeric_score": 2
       },
       {
-        "pos": "70",
+        "pos": "77",
         "player": "Min Woo Lee",
-        "score": "+4",
+        "score": "+5",
         "today": "",
         "thru": "",
-        "r1": "48.0",
+        "r1": "61.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 4
+        "numeric_score": 5
       },
       {
-        "pos": "24",
+        "pos": "23",
         "player": "Max Homa",
         "score": "E",
         "today": "",
@@ -1095,12 +979,12 @@
         "numeric_score": 0
       },
       {
-        "pos": "68",
+        "pos": "66",
         "player": "Sungjae Im",
         "score": "+4",
         "today": "",
         "thru": "",
-        "r1": "68.0",
+        "r1": "76.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -1119,31 +1003,31 @@
         "numeric_score": 6
       },
       {
-        "pos": "69",
+        "pos": "76",
         "player": "Brian Harman",
-        "score": "+4",
+        "score": "+5",
         "today": "",
         "thru": "",
-        "r1": "51.0",
+        "r1": "61.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 4
+        "numeric_score": 5
       },
       {
-        "pos": "33",
+        "pos": "38",
         "player": "Zach Johnson",
-        "score": "E",
+        "score": "+1",
         "today": "",
         "thru": "",
-        "r1": "52.0",
+        "r1": "65.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 0
+        "numeric_score": 1
       },
       {
-        "pos": "65",
+        "pos": "64",
         "player": "Bubba Watson",
         "score": "+4",
         "today": "",
@@ -1155,7 +1039,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "83",
+        "pos": "80",
         "player": "Ángel Cabrera",
         "score": "+7",
         "today": "",
@@ -1167,7 +1051,123 @@
         "numeric_score": 7
       }
     ],
-    "best3_total": 2,
+    "best3_total": 3,
+    "scores_entered": 9,
+    "roster_loaded": 9
+  },
+  {
+    "team": "Bryan",
+    "golfers": [
+      {
+        "pos": "69",
+        "player": "Jon Rahm",
+        "score": "+4",
+        "today": "",
+        "thru": "",
+        "r1": "48.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 4
+      },
+      {
+        "pos": "36",
+        "player": "Russell Henley",
+        "score": "+1",
+        "today": "",
+        "thru": "",
+        "r1": "73.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 1
+      },
+      {
+        "pos": "59",
+        "player": "Corey Conners",
+        "score": "+3",
+        "today": "",
+        "thru": "",
+        "r1": "50.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 3
+      },
+      {
+        "pos": "68",
+        "player": "Maverick McNealy",
+        "score": "+4",
+        "today": "",
+        "thru": "",
+        "r1": "51.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 4
+      },
+      {
+        "pos": "60",
+        "player": "Harry Hall",
+        "score": "+3",
+        "today": "",
+        "thru": "",
+        "r1": "50.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 3
+      },
+      {
+        "pos": "16",
+        "player": "Nick Taylor",
+        "score": "-1",
+        "today": "",
+        "thru": "",
+        "r1": "71.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -1
+      },
+      {
+        "pos": "55",
+        "player": "Michael Kim",
+        "score": "+3",
+        "today": "",
+        "thru": "",
+        "r1": "67.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 3
+      },
+      {
+        "pos": "57",
+        "player": "Danny Willett",
+        "score": "+3",
+        "today": "",
+        "thru": "",
+        "r1": "67.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 3
+      },
+      {
+        "pos": "90",
+        "player": "Naoyuki Kataoka",
+        "score": "+12",
+        "today": "",
+        "thru": "",
+        "r1": "84.0",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 12
+      }
+    ],
+    "best3_total": 3,
     "scores_entered": 9,
     "roster_loaded": 9
   }
