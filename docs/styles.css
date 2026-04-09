@@ -39,6 +39,7 @@ body {
   border-radius: 10px;
   overflow: hidden;
   background: #fff;
+  min-width: 0;
 }
 
 .team-card-header {
@@ -54,8 +55,11 @@ body {
 }
 
 .team-name {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 700;
+  line-height: 1.2;
+  white-space: normal;
+  word-break: break-word;
 }
 
 .team-table {
@@ -74,7 +78,8 @@ body {
 .team-table th:last-child,
 .team-table td:last-child {
   text-align: right;
-  width: 80px;
+  width: 60px;
+  white-space: nowrap;
 }
 
 .team-table thead th {
@@ -89,6 +94,7 @@ body {
 
 .player-name {
   white-space: nowrap;
+  word-break: break-word;
 }
 
 .score-cell {
