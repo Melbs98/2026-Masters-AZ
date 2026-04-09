@@ -92,7 +92,7 @@
         "score": "E",
         "today": "",
         "thru": "",
-        "r1": "40.0",
+        "r1": "44.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -179,7 +179,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "40",
+        "pos": "41",
         "player": "Harris English",
         "score": "E",
         "today": "",
@@ -227,16 +227,16 @@
         "numeric_score": 4
       },
       {
-        "pos": "49",
+        "pos": "37",
         "player": "Ethan Fang",
-        "score": "+1",
+        "score": "E",
         "today": "",
         "thru": "",
-        "r1": "33.0",
+        "r1": "36.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 1
+        "numeric_score": 0
       }
     ],
     "best3_total": -6,
@@ -368,7 +368,7 @@
         "score": "-2",
         "today": "",
         "thru": "",
-        "r1": "14.0",
+        "r1": "18.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -503,7 +503,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "43",
+        "pos": "44",
         "player": "Jake Knapp",
         "score": "+1",
         "today": "",
@@ -672,7 +672,7 @@
         "score": "+3",
         "today": "",
         "thru": "",
-        "r1": "43.0",
+        "r1": "47.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -735,7 +735,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "42",
+        "pos": "43",
         "player": "Cameron Smith",
         "score": "+1",
         "today": "",
@@ -771,7 +771,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "44",
+        "pos": "45",
         "player": "Ryan Gerard",
         "score": "+1",
         "today": "",
@@ -839,7 +839,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "39",
+        "pos": "40",
         "player": "Robert MacIntyre",
         "score": "E",
         "today": "",
@@ -875,7 +875,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "41",
+        "pos": "42",
         "player": "Marco Penge",
         "score": "E",
         "today": "",
@@ -899,7 +899,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "38",
+        "pos": "39",
         "player": "Michael Brennan",
         "score": "E",
         "today": "",
@@ -991,7 +991,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "37",
+        "pos": "38",
         "player": "Harry Hall",
         "score": "E",
         "today": "",
@@ -1015,7 +1015,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "47",
+        "pos": "48",
         "player": "Michael Kim",
         "score": "+1",
         "today": "",
@@ -1027,7 +1027,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "48",
+        "pos": "49",
         "player": "Danny Willett",
         "score": "+1",
         "today": "",
@@ -1059,7 +1059,7 @@
     "team": "Asshole Garrett",
     "golfers": [
       {
-        "pos": "45",
+        "pos": "46",
         "player": "Collin Morikawa",
         "score": "+1",
         "today": "",
