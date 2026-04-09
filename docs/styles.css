@@ -79,7 +79,7 @@ body {
 .team-table th:last-child,
 .team-table td:last-child {
   text-align: right;
-  width: 55px;
+  width: 65px;
   white-space: nowrap;
 }
 
