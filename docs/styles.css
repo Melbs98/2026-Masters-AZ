@@ -65,6 +65,7 @@ body {
 .team-table {
   width: 100%;
   border-collapse: collapse;
+  table-layout: fixed;
 }
 
 .team-table th,
@@ -78,7 +79,7 @@ body {
 .team-table th:last-child,
 .team-table td:last-child {
   text-align: right;
-  width: 60px;
+  width: 55px;
   white-space: nowrap;
 }
 
@@ -93,7 +94,7 @@ body {
 }
 
 .player-name {
-  white-space: nowrap;
+  overflow-wrap: anywhere;
   word-break: break-word;
 }
 
