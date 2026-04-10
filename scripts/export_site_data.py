@@ -13,6 +13,7 @@ OUT_DIR = REPO_ROOT / "docs" / "data"
 ALIASES = {
     "sam stevens": "samuel stevens",
     "nico echavarria": "nicolas echavarria",
+    "johnny keefer": "john keefer",
 }
 
 def normalize_player_name(name):
@@ -20,7 +21,6 @@ def normalize_player_name(name):
         return ""
 
     text = str(name).strip()
-
     text = re.sub(r"\s*\((a|A)\)\s*", "", text)
     text = unicodedata.normalize("NFKD", text)
     text = "".join(ch for ch in text if not unicodedata.combining(ch))
