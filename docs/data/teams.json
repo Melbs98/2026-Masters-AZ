@@ -33,7 +33,7 @@
         "today": "",
         "thru": "",
         "r1": "75.0",
-        "r2": "19.0",
+        "r2": "22.0",
         "r3": "",
         "r4": "",
         "numeric_score": 2
@@ -227,7 +227,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "89",
+        "pos": "88",
         "player": "Mateo Pulcini",
         "score": "+15",
         "today": "",
@@ -423,7 +423,7 @@
         "numeric_score": 8
       },
       {
-        "pos": "90",
+        "pos": "89",
         "player": "Aldrich Potgieter",
         "score": "+15",
         "today": "",
@@ -737,14 +737,14 @@
       {
         "pos": "60",
         "player": "Cameron Smith",
-        "score": "+4",
+        "score": "+5",
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "42.0",
+        "r2": "47.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 4
+        "numeric_score": 5
       },
       {
         "pos": "30",
@@ -905,7 +905,7 @@
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "57.0",
+        "r2": "62.0",
         "r3": "",
         "r4": "",
         "numeric_score": 6
@@ -923,16 +923,16 @@
         "numeric_score": 18
       },
       {
-        "pos": "88",
+        "pos": "90",
         "player": "Brandon Holtz",
-        "score": "+14",
+        "score": "+15",
         "today": "",
         "thru": "",
         "r1": "81.0",
-        "r2": "49.0",
+        "r2": "53.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 14
+        "numeric_score": 15
       }
     ],
     "best3_total": -2,
