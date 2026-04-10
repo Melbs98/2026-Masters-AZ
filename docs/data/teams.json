@@ -167,7 +167,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "43",
+        "pos": "42",
         "player": "Marco Penge",
         "score": "+2",
         "today": "",
@@ -509,7 +509,7 @@
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "0.0",
+        "r2": "4.0",
         "r3": "",
         "r4": "",
         "numeric_score": 5
@@ -595,13 +595,13 @@
         "numeric_score": -1
       },
       {
-        "pos": "45",
+        "pos": "44",
         "player": "Matt Fitzpatrick",
         "score": "+2",
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "9.0",
+        "r2": "13.0",
         "r3": "",
         "r4": "",
         "numeric_score": 2
@@ -613,7 +613,7 @@
         "today": "",
         "thru": "",
         "r1": "75.0",
-        "r2": "0.0",
+        "r2": "4.0",
         "r3": "",
         "r4": "",
         "numeric_score": 3
@@ -691,7 +691,7 @@
         "numeric_score": 9
       },
       {
-        "pos": "46",
+        "pos": "45",
         "player": "Sergio García",
         "score": "+3",
         "today": "",
@@ -875,7 +875,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "44",
+        "pos": "43",
         "player": "Keegan Bradley",
         "score": "+2",
         "today": "",
@@ -1083,16 +1083,16 @@
         "numeric_score": 1
       },
       {
-        "pos": "42",
+        "pos": "46",
         "player": "Corey Conners",
-        "score": "+2",
+        "score": "+3",
         "today": "",
         "thru": "",
         "r1": "75.0",
-        "r2": "63.0",
+        "r2": "68.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 2
+        "numeric_score": 3
       },
       {
         "pos": "48",
@@ -1167,7 +1167,7 @@
         "numeric_score": 11
       }
     ],
-    "best3_total": 4,
+    "best3_total": 5,
     "scores_entered": 9,
     "roster_loaded": 9
   }
