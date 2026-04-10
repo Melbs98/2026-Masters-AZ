@@ -618,7 +618,7 @@
     "today": "",
     "thru": "",
     "r1": "76.0",
-    "r2": "32.0",
+    "r2": "36.0",
     "r3": "",
     "r4": "",
     "numeric_score": 4
@@ -637,18 +637,6 @@
   },
   {
     "pos": "54",
-    "player": "Cameron Smith",
-    "score": "+4",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "18.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 4
-  },
-  {
-    "pos": "55",
     "player": "Danny Willett",
     "score": "+5",
     "today": "",
@@ -660,7 +648,7 @@
     "numeric_score": 5
   },
   {
-    "pos": "56",
+    "pos": "55",
     "player": "Jon Rahm",
     "score": "+5",
     "today": "",
@@ -672,13 +660,25 @@
     "numeric_score": 5
   },
   {
-    "pos": "57",
+    "pos": "56",
     "player": "Rasmus Højgaard",
     "score": "+5",
     "today": "",
     "thru": "",
     "r1": "78.0",
     "r2": "26.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 5
+  },
+  {
+    "pos": "57",
+    "player": "Cameron Smith",
+    "score": "+5",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "23.0",
     "r3": "",
     "r4": "",
     "numeric_score": 5
