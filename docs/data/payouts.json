@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "label": "1st Overall",
+      "winners": [
+        {
+          "name": "Roth",
+          "amount": 300.0
+        }
+      ]
+    },
+    {
+      "label": "2nd Overall",
+      "winners": [
+        {
+          "name": "Cool Tony",
+          "amount": 150.0
+        }
+      ]
+    },
+    {
+      "label": "3rd Overall",
+      "winners": [
+        {
+          "name": "Melbye²",
+          "amount": 75.0
+        }
+      ]
+    },
+    {
+      "label": "3-Man Team",
+      "winners": [
+        {
+          "name": "Roth",
+          "amount": 250.0
+        }
+      ]
+    }
+  ]
+}
