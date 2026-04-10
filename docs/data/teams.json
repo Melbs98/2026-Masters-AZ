@@ -15,7 +15,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "38",
+        "pos": "39",
         "player": "Hideki Matsuyama",
         "score": "+1",
         "today": "",
@@ -503,7 +503,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "8",
+        "pos": "9",
         "player": "Jason Day",
         "score": "-3",
         "today": "",
@@ -711,7 +711,7 @@
     "team": "Adam & Kevin",
     "golfers": [
       {
-        "pos": "39",
+        "pos": "38",
         "player": "Cameron Young",
         "score": "+1",
         "today": "",
@@ -863,13 +863,13 @@
         "numeric_score": 1
       },
       {
-        "pos": "9",
+        "pos": "8",
         "player": "Shane Lowry",
         "score": "-3",
         "today": "",
         "thru": "",
         "r1": "70.0",
-        "r2": "12.0",
+        "r2": "15.0",
         "r3": "",
         "r4": "",
         "numeric_score": -3
