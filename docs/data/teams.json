@@ -15,7 +15,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "28",
+        "pos": "27",
         "player": "Hideki Matsuyama",
         "score": "E",
         "today": "",
@@ -63,7 +63,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "23",
+        "pos": "22",
         "player": "Matt McCarty",
         "score": "E",
         "today": "",
@@ -81,7 +81,7 @@
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "21.0",
+        "r2": "19.0",
         "r3": "",
         "r4": "",
         "numeric_score": -2
@@ -137,7 +137,7 @@
         "today": "",
         "thru": "",
         "r1": "80.0",
-        "r2": "44.0",
+        "r2": "39.0",
         "r3": "",
         "r4": "",
         "numeric_score": 8
@@ -155,16 +155,16 @@
         "numeric_score": 6
       },
       {
-        "pos": "18",
+        "pos": "42",
         "player": "Adam Scott",
-        "score": "E",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "68.0",
+        "r2": "74.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 0
+        "numeric_score": 2
       },
       {
         "pos": "44",
@@ -191,7 +191,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "19",
+        "pos": "18",
         "player": "Michael Brennan",
         "score": "E",
         "today": "",
@@ -259,7 +259,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "37",
+        "pos": "36",
         "player": "Jake Knapp",
         "score": "+1",
         "today": "",
@@ -363,7 +363,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "20",
+        "pos": "19",
         "player": "Jordan Spieth",
         "score": "E",
         "today": "",
@@ -375,7 +375,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "35",
+        "pos": "34",
         "player": "Justin Thomas",
         "score": "+1",
         "today": "",
@@ -399,7 +399,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "26",
+        "pos": "25",
         "player": "Dustin Johnson",
         "score": "E",
         "today": "",
@@ -441,7 +441,7 @@
         "today": "",
         "thru": "",
         "r1": "80.0",
-        "r2": "29.0",
+        "r2": "34.0",
         "r3": "",
         "r4": "",
         "numeric_score": 10
@@ -473,13 +473,13 @@
         "today": "",
         "thru": "",
         "r1": "70.0",
-        "r2": "40.0",
+        "r2": "44.0",
         "r3": "",
         "r4": "",
         "numeric_score": -2
       },
       {
-        "pos": "39",
+        "pos": "38",
         "player": "Akshay Bhatia",
         "score": "+1",
         "today": "",
@@ -515,7 +515,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "21",
+        "pos": "20",
         "player": "Harris English",
         "score": "E",
         "today": "",
@@ -527,7 +527,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "31",
+        "pos": "30",
         "player": "Aaron Rai",
         "score": "+1",
         "today": "",
@@ -583,7 +583,7 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "27",
+        "pos": "26",
         "player": "Tommy Fleetwood",
         "score": "E",
         "today": "",
@@ -631,7 +631,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "36",
+        "pos": "35",
         "player": "Gary Woodland",
         "score": "+1",
         "today": "",
@@ -643,7 +643,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "42",
+        "pos": "41",
         "player": "Sam Stevens",
         "score": "+2",
         "today": "",
@@ -655,7 +655,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "22",
+        "pos": "21",
         "player": "Haotong Li",
         "score": "E",
         "today": "",
@@ -691,7 +691,7 @@
         "numeric_score": 8
       },
       {
-        "pos": "30",
+        "pos": "29",
         "player": "Sergio García",
         "score": "+1",
         "today": "",
@@ -711,7 +711,7 @@
     "team": "Adam & Kevin",
     "golfers": [
       {
-        "pos": "41",
+        "pos": "40",
         "player": "Cameron Young",
         "score": "+1",
         "today": "",
@@ -747,7 +747,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "34",
+        "pos": "33",
         "player": "Sepp Straka",
         "score": "+1",
         "today": "",
@@ -771,7 +771,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "24",
+        "pos": "23",
         "player": "Ryan Gerard",
         "score": "E",
         "today": "",
@@ -827,7 +827,7 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "33",
+        "pos": "32",
         "player": "Ludvig Åberg",
         "score": "+1",
         "today": "",
@@ -851,7 +851,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "32",
+        "pos": "31",
         "player": "Jacob Bridgeman",
         "score": "+1",
         "today": "",
@@ -875,7 +875,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "38",
+        "pos": "37",
         "player": "Keegan Bradley",
         "score": "+1",
         "today": "",
@@ -957,14 +957,14 @@
       {
         "pos": "88",
         "player": "Min Woo Lee",
-        "score": "+11",
+        "score": "+9",
         "today": "",
         "thru": "",
         "r1": "78.0",
         "r2": "73.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 11
+        "numeric_score": 9
       },
       {
         "pos": "16",
@@ -979,7 +979,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "29",
+        "pos": "28",
         "player": "Sungjae Im",
         "score": "+1",
         "today": "",
@@ -1071,7 +1071,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "40",
+        "pos": "39",
         "player": "Russell Henley",
         "score": "+1",
         "today": "",
@@ -1119,7 +1119,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "25",
+        "pos": "24",
         "player": "Nick Taylor",
         "score": "E",
         "today": "",
