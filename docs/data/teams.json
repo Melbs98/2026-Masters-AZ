@@ -551,7 +551,7 @@
         "numeric_score": 14
       },
       {
-        "pos": "80",
+        "pos": "79",
         "player": "Max Greyserman",
         "score": "+10",
         "today": "",
@@ -667,16 +667,16 @@
         "numeric_score": 1
       },
       {
-        "pos": "79",
+        "pos": "81",
         "player": "Carlos Ortiz",
-        "score": "+10",
+        "score": "+11",
         "today": "",
         "thru": "",
         "r1": "80.0",
-        "r2": "70.0",
+        "r2": "75.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 10
+        "numeric_score": 11
       },
       {
         "pos": "83",
@@ -697,7 +697,7 @@
         "today": "",
         "thru": "",
         "r1": "79.0",
-        "r2": "58.0",
+        "r2": "63.0",
         "r3": "",
         "r4": "",
         "numeric_score": 9
@@ -753,7 +753,7 @@
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "26.0",
+        "r2": "31.0",
         "r3": "",
         "r4": "",
         "numeric_score": 4
@@ -795,7 +795,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "81",
+        "pos": "80",
         "player": "Fifa Laopakdee",
         "score": "+11",
         "today": "",
