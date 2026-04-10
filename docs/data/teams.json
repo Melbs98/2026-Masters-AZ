@@ -69,7 +69,7 @@
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "23.0",
+        "r2": "28.0",
         "r3": "",
         "r4": "",
         "numeric_score": 1
@@ -193,14 +193,14 @@
       {
         "pos": "30",
         "player": "Michael Brennan",
-        "score": "E",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "62.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 0
+        "numeric_score": 1
       },
       {
         "pos": "53",
@@ -227,7 +227,7 @@
         "numeric_score": 10
       }
     ],
-    "best3_total": -8,
+    "best3_total": -7,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -253,7 +253,7 @@
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "45.0",
+        "r2": "49.0",
         "r3": "",
         "r4": "",
         "numeric_score": -3
@@ -1065,7 +1065,7 @@
         "today": "",
         "thru": "",
         "r1": "78.0",
-        "r2": "51.0",
+        "r2": "55.0",
         "r3": "",
         "r4": "",
         "numeric_score": 5
@@ -1145,14 +1145,14 @@
       {
         "pos": "55",
         "player": "Danny Willett",
-        "score": "+7",
+        "score": "+5",
         "today": "",
         "thru": "",
         "r1": "76.0",
         "r2": "73.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 7
+        "numeric_score": 5
       },
       {
         "pos": "89",
