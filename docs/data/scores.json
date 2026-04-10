@@ -918,7 +918,7 @@
     "today": "",
     "thru": "",
     "r1": "78.0",
-    "r2": "66.0",
+    "r2": "70.0",
     "r3": "",
     "r4": "",
     "numeric_score": 8
@@ -1033,24 +1033,24 @@
   },
   {
     "pos": "87",
-    "player": "Fifa Laopakdee",
-    "score": "+11",
-    "today": "",
-    "thru": "",
-    "r1": "80.0",
-    "r2": "67.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 11
-  },
-  {
-    "pos": "88",
     "player": "Min Woo Lee",
     "score": "+11",
     "today": "",
     "thru": "",
     "r1": "78.0",
     "r2": "69.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 11
+  },
+  {
+    "pos": "88",
+    "player": "Fifa Laopakdee",
+    "score": "+11",
+    "today": "",
+    "thru": "",
+    "r1": "80.0",
+    "r2": "67.0",
     "r3": "",
     "r4": "",
     "numeric_score": 11
