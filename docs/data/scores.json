@@ -97,24 +97,24 @@
   },
   {
     "pos": "9",
-    "player": "Jason Day",
+    "player": "Tommy Fleetwood",
     "score": "-4",
     "today": "",
     "thru": "",
-    "r1": "69.0",
-    "r2": "51.0",
+    "r1": "71.0",
+    "r2": "49.0",
     "r3": "",
     "r4": "",
     "numeric_score": -4
   },
   {
     "pos": "10",
-    "player": "Tommy Fleetwood",
+    "player": "Jason Day",
     "score": "-4",
     "today": "",
     "thru": "",
-    "r1": "71.0",
-    "r2": "44.0",
+    "r1": "69.0",
+    "r2": "51.0",
     "r3": "",
     "r4": "",
     "numeric_score": -4
@@ -162,7 +162,7 @@
     "today": "",
     "thru": "",
     "r1": "70.0",
-    "r2": "51.0",
+    "r2": "55.0",
     "r3": "",
     "r4": "",
     "numeric_score": -3
@@ -570,7 +570,7 @@
     "today": "",
     "thru": "",
     "r1": "77.0",
-    "r2": "34.0",
+    "r2": "38.0",
     "r3": "",
     "r4": "",
     "numeric_score": 3

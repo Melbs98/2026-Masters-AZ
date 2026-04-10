@@ -119,13 +119,13 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "10",
+        "pos": "9",
         "player": "Tommy Fleetwood",
         "score": "-4",
         "today": "",
         "thru": "",
         "r1": "71.0",
-        "r2": "44.0",
+        "r2": "49.0",
         "r3": "",
         "r4": "",
         "numeric_score": -4
@@ -155,7 +155,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "9",
+        "pos": "10",
         "player": "Jason Day",
         "score": "-4",
         "today": "",
@@ -753,7 +753,7 @@
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "34.0",
+        "r2": "38.0",
         "r3": "",
         "r4": "",
         "numeric_score": 3
@@ -869,7 +869,7 @@
         "today": "",
         "thru": "",
         "r1": "70.0",
-        "r2": "51.0",
+        "r2": "55.0",
         "r3": "",
         "r4": "",
         "numeric_score": -3
