@@ -42,7 +42,7 @@
     "today": "",
     "thru": "",
     "r1": "67.0",
-    "r2": "27.0",
+    "r2": "32.0",
     "r3": "",
     "r4": "",
     "numeric_score": -5
@@ -217,6 +217,18 @@
   },
   {
     "pos": "19",
+    "player": "Jake Knapp",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "30.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -1
+  },
+  {
+    "pos": "20",
     "player": "Akshay Bhatia",
     "score": "-1",
     "today": "",
@@ -228,7 +240,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "20",
+    "pos": "21",
     "player": "Tommy Fleetwood",
     "score": "-1",
     "today": "",
@@ -240,7 +252,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "21",
+    "pos": "22",
     "player": "Brian Campbell",
     "score": "E",
     "today": "",
@@ -252,7 +264,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "22",
+    "pos": "23",
     "player": "Jordan Spieth",
     "score": "E",
     "today": "",
@@ -264,7 +276,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "23",
+    "pos": "24",
     "player": "Harris English",
     "score": "E",
     "today": "",
@@ -276,25 +288,13 @@
     "numeric_score": 0
   },
   {
-    "pos": "24",
+    "pos": "25",
     "player": "Matt McCarty",
     "score": "E",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "40.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 0
-  },
-  {
-    "pos": "25",
-    "player": "Jake Knapp",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "26.0",
     "r3": "",
     "r4": "",
     "numeric_score": 0
@@ -829,6 +829,18 @@
   },
   {
     "pos": "70",
+    "player": "Nico Echavarria",
+    "score": "+7",
+    "today": "",
+    "thru": "",
+    "r1": "79.0",
+    "r2": "36.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 7
+  },
+  {
+    "pos": "71",
     "player": "Bubba Watson",
     "score": "+7",
     "today": "",
@@ -840,7 +852,7 @@
     "numeric_score": 7
   },
   {
-    "pos": "71",
+    "pos": "72",
     "player": "Mason Howell",
     "score": "+7",
     "today": "",
@@ -852,7 +864,7 @@
     "numeric_score": 7
   },
   {
-    "pos": "72",
+    "pos": "73",
     "player": "Daniel Berger",
     "score": "+8",
     "today": "",
@@ -864,7 +876,7 @@
     "numeric_score": 8
   },
   {
-    "pos": "73",
+    "pos": "74",
     "player": "Michael Kim",
     "score": "+8",
     "today": "",
@@ -876,7 +888,7 @@
     "numeric_score": 8
   },
   {
-    "pos": "74",
+    "pos": "75",
     "player": "Ethan Fang",
     "score": "+8",
     "today": "",
@@ -888,7 +900,7 @@
     "numeric_score": 8
   },
   {
-    "pos": "75",
+    "pos": "76",
     "player": "Carlos Ortiz",
     "score": "+8",
     "today": "",
@@ -900,25 +912,13 @@
     "numeric_score": 8
   },
   {
-    "pos": "76",
+    "pos": "77",
     "player": "Vijay Singh",
     "score": "+8",
     "today": "",
     "thru": "",
     "r1": "79.0",
     "r2": "41.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 8
-  },
-  {
-    "pos": "77",
-    "player": "Nico Echavarria",
-    "score": "+8",
-    "today": "",
-    "thru": "",
-    "r1": "79.0",
-    "r2": "36.0",
     "r3": "",
     "r4": "",
     "numeric_score": 8
