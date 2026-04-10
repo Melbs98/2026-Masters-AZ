@@ -30,7 +30,7 @@
     "today": "",
     "thru": "",
     "r1": "67.0",
-    "r2": "32.0",
+    "r2": "36.0",
     "r3": "",
     "r4": "",
     "numeric_score": -5
@@ -73,6 +73,18 @@
   },
   {
     "pos": "7",
+    "player": "Chris Gotterup",
+    "score": "-3",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "69.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -3
+  },
+  {
+    "pos": "8",
     "player": "Brooks Koepka",
     "score": "-3",
     "today": "",
@@ -84,7 +96,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "8",
+    "pos": "9",
     "player": "Ben Griffin",
     "score": "-3",
     "today": "",
@@ -96,7 +108,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "9",
+    "pos": "10",
     "player": "Shane Lowry",
     "score": "-3",
     "today": "",
@@ -108,7 +120,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "10",
+    "pos": "11",
     "player": "Jason Day",
     "score": "-3",
     "today": "",
@@ -118,18 +130,6 @@
     "r3": "",
     "r4": "",
     "numeric_score": -3
-  },
-  {
-    "pos": "11",
-    "player": "Chris Gotterup",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "66.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -2
   },
   {
     "pos": "12",
@@ -505,6 +505,18 @@
   },
   {
     "pos": "43",
+    "player": "Collin Morikawa",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "20.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 2
+  },
+  {
+    "pos": "44",
     "player": "Viktor Hovland",
     "score": "+2",
     "today": "",
@@ -516,7 +528,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "44",
+    "pos": "45",
     "player": "Maverick McNealy",
     "score": "+3",
     "today": "",
@@ -528,7 +540,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "45",
+    "pos": "46",
     "player": "Sergio García",
     "score": "+3",
     "today": "",
@@ -540,7 +552,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "46",
+    "pos": "47",
     "player": "Si Woo Kim",
     "score": "+3",
     "today": "",
@@ -552,25 +564,13 @@
     "numeric_score": 3
   },
   {
-    "pos": "47",
+    "pos": "48",
     "player": "Keegan Bradley",
     "score": "+3",
     "today": "",
     "thru": "",
     "r1": "72.0",
-    "r2": "30.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 3
-  },
-  {
-    "pos": "48",
-    "player": "Collin Morikawa",
-    "score": "+3",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "17.0",
+    "r2": "35.0",
     "r3": "",
     "r4": "",
     "numeric_score": 3
