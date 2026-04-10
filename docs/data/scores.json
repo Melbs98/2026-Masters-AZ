@@ -421,24 +421,24 @@
   },
   {
     "pos": "36",
-    "player": "Dustin Johnson",
+    "player": "Keegan Bradley",
     "score": "+1",
     "today": "",
     "thru": "",
-    "r1": "73.0",
-    "r2": "4.0",
+    "r1": "72.0",
+    "r2": "10.0",
     "r3": "",
     "r4": "",
     "numeric_score": 1
   },
   {
     "pos": "37",
-    "player": "Keegan Bradley",
+    "player": "Dustin Johnson",
     "score": "+1",
     "today": "",
     "thru": "",
-    "r1": "72.0",
-    "r2": "5.0",
+    "r1": "73.0",
+    "r2": "4.0",
     "r3": "",
     "r4": "",
     "numeric_score": 1
@@ -638,14 +638,14 @@
   {
     "pos": "54",
     "player": "Bubba Watson",
-    "score": "+4",
+    "score": "+5",
     "today": "",
     "thru": "",
     "r1": "76.0",
     "r2": "13.0",
     "r3": "",
     "r4": "",
-    "numeric_score": 4
+    "numeric_score": 5
   },
   {
     "pos": "55",
@@ -918,7 +918,7 @@
     "today": "",
     "thru": "",
     "r1": "74.0",
-    "r2": "74.0",
+    "r2": "78.0",
     "r3": "",
     "r4": "",
     "numeric_score": 8
@@ -1062,7 +1062,7 @@
     "today": "",
     "thru": "",
     "r1": "84.0",
-    "r2": "28.0",
+    "r2": "33.0",
     "r3": "",
     "r4": "",
     "numeric_score": 13
