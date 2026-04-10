@@ -27,7 +27,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "56",
+        "pos": "57",
         "player": "J.J. Spaun",
         "score": "+5",
         "today": "",
@@ -155,7 +155,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "41",
+        "pos": "40",
         "player": "Adam Scott",
         "score": "+2",
         "today": "",
@@ -241,7 +241,7 @@
         "today": "",
         "thru": "",
         "r1": "70.0",
-        "r2": "9.0",
+        "r2": "13.0",
         "r3": "",
         "r4": "",
         "numeric_score": -2
@@ -351,16 +351,16 @@
     "team": "Melbye²",
     "golfers": [
       {
-        "pos": "59",
+        "pos": "55",
         "player": "Bryson DeChambeau",
-        "score": "+5",
+        "score": "+4",
         "today": "",
         "thru": "",
         "r1": "76.0",
-        "r2": "10.0",
+        "r2": "13.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 5
+        "numeric_score": 4
       },
       {
         "pos": "7",
@@ -479,7 +479,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "18",
+        "pos": "19",
         "player": "Akshay Bhatia",
         "score": "-1",
         "today": "",
@@ -545,7 +545,7 @@
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "28.0",
+        "r2": "33.0",
         "r3": "",
         "r4": "",
         "numeric_score": 6
@@ -583,13 +583,13 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "19",
+        "pos": "18",
         "player": "Tommy Fleetwood",
         "score": "-1",
         "today": "",
         "thru": "",
         "r1": "71.0",
-        "r2": "13.0",
+        "r2": "16.0",
         "r3": "",
         "r4": "",
         "numeric_score": -1
@@ -631,19 +631,19 @@
         "numeric_score": -3
       },
       {
-        "pos": "35",
+        "pos": "41",
         "player": "Gary Woodland",
-        "score": "+1",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "71.0",
-        "r2": "49.0",
+        "r2": "55.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 1
+        "numeric_score": 2
       },
       {
-        "pos": "40",
+        "pos": "39",
         "player": "Sam Stevens",
         "score": "+2",
         "today": "",
@@ -711,7 +711,7 @@
     "team": "Adam & Kevin",
     "golfers": [
       {
-        "pos": "39",
+        "pos": "38",
         "player": "Cameron Young",
         "score": "+1",
         "today": "",
@@ -735,7 +735,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "58",
+        "pos": "59",
         "player": "Cameron Smith",
         "score": "+5",
         "today": "",
@@ -943,7 +943,7 @@
     "team": "Asshole Garrett",
     "golfers": [
       {
-        "pos": "37",
+        "pos": "36",
         "player": "Collin Morikawa",
         "score": "+1",
         "today": "",
@@ -1059,7 +1059,7 @@
     "team": "Bryan",
     "golfers": [
       {
-        "pos": "57",
+        "pos": "58",
         "player": "Jon Rahm",
         "score": "+5",
         "today": "",
@@ -1071,7 +1071,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "38",
+        "pos": "37",
         "player": "Russell Henley",
         "score": "+1",
         "today": "",
@@ -1119,7 +1119,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "36",
+        "pos": "35",
         "player": "Nick Taylor",
         "score": "+1",
         "today": "",
@@ -1143,7 +1143,7 @@
         "numeric_score": 8
       },
       {
-        "pos": "55",
+        "pos": "56",
         "player": "Danny Willett",
         "score": "+5",
         "today": "",
