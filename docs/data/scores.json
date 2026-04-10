@@ -49,6 +49,18 @@
   },
   {
     "pos": "5",
+    "player": "Patrick Reed",
+    "score": "-5",
+    "today": "",
+    "thru": "",
+    "r1": "69.0",
+    "r2": "30.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -5
+  },
+  {
+    "pos": "6",
     "player": "Tyrrell Hatton",
     "score": "-4",
     "today": "",
@@ -60,7 +72,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "6",
+    "pos": "7",
     "player": "Wyndham Clark",
     "score": "-4",
     "today": "",
@@ -72,25 +84,13 @@
     "numeric_score": -4
   },
   {
-    "pos": "7",
+    "pos": "8",
     "player": "Haotong Li",
     "score": "-4",
     "today": "",
     "thru": "",
     "r1": "71.0",
     "r2": "61.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -4
-  },
-  {
-    "pos": "8",
-    "player": "Patrick Reed",
-    "score": "-4",
-    "today": "",
-    "thru": "",
-    "r1": "69.0",
-    "r2": "26.0",
     "r3": "",
     "r4": "",
     "numeric_score": -4
@@ -126,7 +126,7 @@
     "today": "",
     "thru": "",
     "r1": "72.0",
-    "r2": "65.0",
+    "r2": "69.0",
     "r3": "",
     "r4": "",
     "numeric_score": -3
@@ -145,24 +145,24 @@
   },
   {
     "pos": "13",
-    "player": "Tommy Fleetwood",
+    "player": "Shane Lowry",
     "score": "-3",
     "today": "",
     "thru": "",
-    "r1": "71.0",
-    "r2": "30.0",
+    "r1": "70.0",
+    "r2": "35.0",
     "r3": "",
     "r4": "",
     "numeric_score": -3
   },
   {
     "pos": "14",
-    "player": "Shane Lowry",
+    "player": "Tommy Fleetwood",
     "score": "-3",
     "today": "",
     "thru": "",
-    "r1": "70.0",
-    "r2": "31.0",
+    "r1": "71.0",
+    "r2": "30.0",
     "r3": "",
     "r4": "",
     "numeric_score": -3
