@@ -57,13 +57,13 @@
         "today": "",
         "thru": "",
         "r1": "69.0",
-        "r2": "67.0",
+        "r2": "70.0",
         "r3": "",
         "r4": "",
         "numeric_score": 3
       },
       {
-        "pos": "27",
+        "pos": "26",
         "player": "Matt McCarty",
         "score": "E",
         "today": "",
@@ -87,7 +87,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "25",
+        "pos": "24",
         "player": "Brian Campbell",
         "score": "E",
         "today": "",
@@ -131,7 +131,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "28",
+        "pos": "27",
         "player": "Matt Fitzpatrick",
         "score": "E",
         "today": "",
@@ -203,7 +203,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "69",
+        "pos": "68",
         "player": "Tom McKibbin",
         "score": "+7",
         "today": "",
@@ -259,7 +259,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "66",
+        "pos": "65",
         "player": "Robert MacIntyre",
         "score": "+7",
         "today": "",
@@ -435,7 +435,7 @@
         "numeric_score": 13
       },
       {
-        "pos": "68",
+        "pos": "67",
         "player": "Andrew Novak",
         "score": "+7",
         "today": "",
@@ -595,16 +595,16 @@
     "team": "Adam & Kevin",
     "golfers": [
       {
-        "pos": "22",
+        "pos": "30",
         "player": "Cameron Young",
-        "score": "-1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "34.0",
+        "r2": "39.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -1
+        "numeric_score": 0
       },
       {
         "pos": "2",
@@ -703,7 +703,7 @@
         "numeric_score": 9
       }
     ],
-    "best3_total": -6,
+    "best3_total": -5,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -711,7 +711,7 @@
     "team": "Ross",
     "golfers": [
       {
-        "pos": "26",
+        "pos": "25",
         "player": "Scottie Scheffler",
         "score": "E",
         "today": "",
@@ -759,7 +759,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "24",
+        "pos": "23",
         "player": "Harris English",
         "score": "E",
         "today": "",
@@ -783,16 +783,16 @@
         "numeric_score": 1
       },
       {
-        "pos": "64",
+        "pos": "69",
         "player": "Casey Jarvis",
-        "score": "+6",
+        "score": "+7",
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "62.0",
+        "r2": "66.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 6
+        "numeric_score": 7
       },
       {
         "pos": "80",
@@ -827,7 +827,7 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "23",
+        "pos": "22",
         "player": "Ludvig Åberg",
         "score": "E",
         "today": "",
@@ -887,7 +887,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "65",
+        "pos": "64",
         "player": "Alex Noren",
         "score": "+6",
         "today": "",
@@ -899,7 +899,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "67",
+        "pos": "66",
         "player": "Rasmus Neergaard-Petersen",
         "score": "+7",
         "today": "",
@@ -943,7 +943,7 @@
     "team": "Asshole Garrett",
     "golfers": [
       {
-        "pos": "29",
+        "pos": "28",
         "player": "Collin Morikawa",
         "score": "E",
         "today": "",
@@ -1071,7 +1071,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "30",
+        "pos": "29",
         "player": "Russell Henley",
         "score": "E",
         "today": "",
