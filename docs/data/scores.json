@@ -205,18 +205,6 @@
   },
   {
     "pos": "18",
-    "player": "Nick Taylor",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "67.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -2
-  },
-  {
-    "pos": "19",
     "player": "Xander Schauffele",
     "score": "-2",
     "today": "",
@@ -228,7 +216,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "20",
+    "pos": "19",
     "player": "Hideki Matsuyama",
     "score": "-2",
     "today": "",
@@ -240,13 +228,25 @@
     "numeric_score": -2
   },
   {
-    "pos": "21",
+    "pos": "20",
     "player": "Michael Brennan",
     "score": "-1",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "71.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -1
+  },
+  {
+    "pos": "21",
+    "player": "Nick Taylor",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "72.0",
     "r3": "",
     "r4": "",
     "numeric_score": -1
@@ -553,6 +553,18 @@
   },
   {
     "pos": "47",
+    "player": "Bryson DeChambeau",
+    "score": "+3",
+    "today": "",
+    "thru": "",
+    "r1": "76.0",
+    "r2": "60.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 3
+  },
+  {
+    "pos": "48",
     "player": "Brian Harman",
     "score": "+4",
     "today": "",
@@ -564,7 +576,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "48",
+    "pos": "49",
     "player": "Jon Rahm",
     "score": "+4",
     "today": "",
@@ -576,7 +588,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "49",
+    "pos": "50",
     "player": "Rasmus Højgaard",
     "score": "+4",
     "today": "",
@@ -588,7 +600,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "50",
+    "pos": "51",
     "player": "Corey Conners",
     "score": "+4",
     "today": "",
@@ -600,7 +612,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "51",
+    "pos": "52",
     "player": "Si Woo Kim",
     "score": "+4",
     "today": "",
@@ -612,7 +624,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "52",
+    "pos": "53",
     "player": "Charl Schwartzel",
     "score": "+4",
     "today": "",
@@ -624,25 +636,13 @@
     "numeric_score": 4
   },
   {
-    "pos": "53",
+    "pos": "54",
     "player": "Kurt Kitayama",
     "score": "+4",
     "today": "",
     "thru": "",
     "r1": "69.0",
     "r2": "79.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 4
-  },
-  {
-    "pos": "54",
-    "player": "Bryson DeChambeau",
-    "score": "+4",
-    "today": "",
-    "thru": "",
-    "r1": "76.0",
-    "r2": "56.0",
     "r3": "",
     "r4": "",
     "numeric_score": 4
