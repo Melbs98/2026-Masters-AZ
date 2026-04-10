@@ -203,16 +203,16 @@
         "numeric_score": 0
       },
       {
-        "pos": "54",
+        "pos": "49",
         "player": "Charl Schwartzel",
-        "score": "+4",
+        "score": "+3",
         "today": "",
         "thru": "",
         "r1": "75.0",
-        "r2": "33.0",
+        "r2": "36.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 4
+        "numeric_score": 3
       },
       {
         "pos": "83",
@@ -393,7 +393,7 @@
         "today": "",
         "thru": "",
         "r1": "67.0",
-        "r2": "21.0",
+        "r2": "24.0",
         "r3": "",
         "r4": "",
         "numeric_score": -4
@@ -429,7 +429,7 @@
         "today": "",
         "thru": "",
         "r1": "79.0",
-        "r2": "35.0",
+        "r2": "39.0",
         "r3": "",
         "r4": "",
         "numeric_score": 10
@@ -447,7 +447,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "52",
+        "pos": "53",
         "player": "Jackson Herrington",
         "score": "+4",
         "today": "",
@@ -607,7 +607,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "49",
+        "pos": "50",
         "player": "Viktor Hovland",
         "score": "+3",
         "today": "",
@@ -765,7 +765,7 @@
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "33.0",
+        "r2": "37.0",
         "r3": "",
         "r4": "",
         "numeric_score": 6
@@ -839,7 +839,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "51",
+        "pos": "52",
         "player": "Si Woo Kim",
         "score": "+4",
         "today": "",
@@ -991,7 +991,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "53",
+        "pos": "54",
         "player": "Rasmus Højgaard",
         "score": "+4",
         "today": "",
@@ -1003,7 +1003,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "50",
+        "pos": "51",
         "player": "Brian Harman",
         "score": "+4",
         "today": "",
@@ -1033,7 +1033,7 @@
         "today": "",
         "thru": "",
         "r1": "76.0",
-        "r2": "25.0",
+        "r2": "29.0",
         "r3": "",
         "r4": "",
         "numeric_score": 6
