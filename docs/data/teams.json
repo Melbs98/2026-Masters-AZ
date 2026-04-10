@@ -63,7 +63,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "35",
+        "pos": "36",
         "player": "Matt McCarty",
         "score": "+1",
         "today": "",
@@ -203,7 +203,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "52",
+        "pos": "53",
         "player": "Charl Schwartzel",
         "score": "+4",
         "today": "",
@@ -491,7 +491,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "31",
+        "pos": "32",
         "player": "Jordan Spieth",
         "score": "+1",
         "today": "",
@@ -527,16 +527,16 @@
         "numeric_score": -4
       },
       {
-        "pos": "36",
+        "pos": "27",
         "player": "Dustin Johnson",
-        "score": "+1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "27.0",
+        "r2": "31.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 1
+        "numeric_score": 0
       },
       {
         "pos": "70",
@@ -587,7 +587,7 @@
         "numeric_score": 9
       }
     ],
-    "best3_total": -5,
+    "best3_total": -6,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -655,7 +655,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "32",
+        "pos": "33",
         "player": "Aaron Rai",
         "score": "+1",
         "today": "",
@@ -711,7 +711,7 @@
     "team": "Adam & Kevin",
     "golfers": [
       {
-        "pos": "29",
+        "pos": "30",
         "player": "Cameron Young",
         "score": "E",
         "today": "",
@@ -747,7 +747,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "34",
+        "pos": "35",
         "player": "Sepp Straka",
         "score": "+1",
         "today": "",
@@ -771,7 +771,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "26",
+        "pos": "28",
         "player": "Ryan Gerard",
         "score": "E",
         "today": "",
@@ -851,7 +851,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Jacob Bridgeman",
         "score": "+1",
         "today": "",
@@ -979,7 +979,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "30",
+        "pos": "31",
         "player": "Sungjae Im",
         "score": "+1",
         "today": "",
@@ -991,13 +991,13 @@
         "numeric_score": 1
       },
       {
-        "pos": "53",
+        "pos": "52",
         "player": "Rasmus Højgaard",
         "score": "+4",
         "today": "",
         "thru": "",
         "r1": "78.0",
-        "r2": "42.0",
+        "r2": "45.0",
         "r3": "",
         "r4": "",
         "numeric_score": 4
@@ -1071,7 +1071,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "28",
+        "pos": "29",
         "player": "Russell Henley",
         "score": "E",
         "today": "",
@@ -1119,13 +1119,13 @@
         "numeric_score": 5
       },
       {
-        "pos": "27",
+        "pos": "26",
         "player": "Nick Taylor",
         "score": "E",
         "today": "",
         "thru": "",
         "r1": "71.0",
-        "r2": "33.0",
+        "r2": "37.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
