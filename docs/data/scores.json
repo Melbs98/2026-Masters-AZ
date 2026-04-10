@@ -157,18 +157,6 @@
   },
   {
     "pos": "14",
-    "player": "Max Homa",
-    "score": "-3",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "65.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -3
-  },
-  {
-    "pos": "15",
     "player": "Sam Burns",
     "score": "-3",
     "today": "",
@@ -180,7 +168,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "16",
+    "pos": "15",
     "player": "Shane Lowry",
     "score": "-3",
     "today": "",
@@ -190,6 +178,18 @@
     "r3": "",
     "r4": "",
     "numeric_score": -3
+  },
+  {
+    "pos": "16",
+    "player": "Max Homa",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "70.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -2
   },
   {
     "pos": "17",
@@ -1021,18 +1021,6 @@
   },
   {
     "pos": "86",
-    "player": "Naoyuki Kataoka",
-    "score": "+14",
-    "today": "",
-    "thru": "",
-    "r1": "84.0",
-    "r2": "70.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 14
-  },
-  {
-    "pos": "87",
     "player": "Aldrich Potgieter",
     "score": "+14",
     "today": "",
@@ -1044,25 +1032,37 @@
     "numeric_score": 14
   },
   {
-    "pos": "88",
-    "player": "Mateo Pulcini",
+    "pos": "87",
+    "player": "Naoyuki Kataoka",
     "score": "+15",
     "today": "",
     "thru": "",
-    "r1": "81.0",
-    "r2": "78.0",
+    "r1": "84.0",
+    "r2": "75.0",
     "r3": "",
     "r4": "",
     "numeric_score": 15
   },
   {
-    "pos": "89",
+    "pos": "88",
     "player": "Ángel Cabrera",
     "score": "+15",
     "today": "",
     "thru": "",
     "r1": "79.0",
     "r2": "76.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 15
+  },
+  {
+    "pos": "89",
+    "player": "Mateo Pulcini",
+    "score": "+15",
+    "today": "",
+    "thru": "",
+    "r1": "81.0",
+    "r2": "78.0",
     "r3": "",
     "r4": "",
     "numeric_score": 15
