@@ -63,16 +63,16 @@
         "numeric_score": 3
       },
       {
-        "pos": "26",
+        "pos": "35",
         "player": "Matt McCarty",
-        "score": "E",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "64.0",
+        "r2": "69.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 0
+        "numeric_score": 1
       },
       {
         "pos": "4",
@@ -131,7 +131,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "27",
+        "pos": "26",
         "player": "Matt Fitzpatrick",
         "score": "E",
         "today": "",
@@ -295,7 +295,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "31",
+        "pos": "30",
         "player": "Marco Penge",
         "score": "+1",
         "today": "",
@@ -375,7 +375,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "33",
+        "pos": "32",
         "player": "Jordan Spieth",
         "score": "+1",
         "today": "",
@@ -595,7 +595,7 @@
     "team": "Adam & Kevin",
     "golfers": [
       {
-        "pos": "29",
+        "pos": "28",
         "player": "Cameron Young",
         "score": "E",
         "today": "",
@@ -631,7 +631,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "32",
+        "pos": "31",
         "player": "Sepp Straka",
         "score": "+1",
         "today": "",
@@ -771,7 +771,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "34",
+        "pos": "33",
         "player": "Aaron Rai",
         "score": "+1",
         "today": "",
@@ -851,7 +851,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "35",
+        "pos": "34",
         "player": "Jacob Bridgeman",
         "score": "+1",
         "today": "",
@@ -945,14 +945,14 @@
       {
         "pos": "37",
         "player": "Collin Morikawa",
-        "score": "E",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "38.0",
+        "r2": "43.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 0
+        "numeric_score": 1
       },
       {
         "pos": "82",
@@ -979,7 +979,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "30",
+        "pos": "29",
         "player": "Sungjae Im",
         "score": "+1",
         "today": "",
@@ -1051,7 +1051,7 @@
         "numeric_score": 16
       }
     ],
-    "best3_total": -1,
+    "best3_total": 0,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -1071,7 +1071,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "28",
+        "pos": "27",
         "player": "Russell Henley",
         "score": "E",
         "today": "",
