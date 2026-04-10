@@ -15,16 +15,16 @@
         "numeric_score": -11
       },
       {
-        "pos": "16",
+        "pos": "18",
         "player": "Hideki Matsuyama",
-        "score": "-3",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "65.0",
+        "r2": "70.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -3
+        "numeric_score": -2
       },
       {
         "pos": "59",
@@ -271,7 +271,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "17",
+        "pos": "16",
         "player": "Jake Knapp",
         "score": "-2",
         "today": "",
@@ -551,7 +551,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "21",
+        "pos": "22",
         "player": "Michael Brennan",
         "score": "-1",
         "today": "",
@@ -943,13 +943,13 @@
     "team": "Asshole Garrett",
     "golfers": [
       {
-        "pos": "23",
+        "pos": "21",
         "player": "Collin Morikawa",
         "score": "-1",
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "65.0",
+        "r2": "69.0",
         "r3": "",
         "r4": "",
         "numeric_score": -1
@@ -967,7 +967,7 @@
         "numeric_score": 11
       },
       {
-        "pos": "18",
+        "pos": "17",
         "player": "Max Homa",
         "score": "-2",
         "today": "",
@@ -1119,7 +1119,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Nick Taylor",
         "score": "-1",
         "today": "",
