@@ -29,14 +29,14 @@
       {
         "pos": "64",
         "player": "J.J. Spaun",
-        "score": "+6",
+        "score": "+5",
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "65.0",
+        "r2": "67.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 6
+        "numeric_score": 5
       },
       {
         "pos": "8",
@@ -661,7 +661,7 @@
         "today": "",
         "thru": "",
         "r1": "71.0",
-        "r2": "41.0",
+        "r2": "45.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
@@ -725,14 +725,14 @@
       {
         "pos": "6",
         "player": "Patrick Reed",
-        "score": "-3",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "69.0",
         "r2": "12.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -3
+        "numeric_score": -4
       },
       {
         "pos": "57",
@@ -819,7 +819,7 @@
         "numeric_score": 8
       }
     ],
-    "best3_total": -2,
+    "best3_total": -3,
     "scores_entered": 9,
     "roster_loaded": 9
   },
