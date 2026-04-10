@@ -215,7 +215,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "81",
+        "pos": "82",
         "player": "Mike Weir",
         "score": "+10",
         "today": "",
@@ -301,13 +301,13 @@
         "today": "",
         "thru": "",
         "r1": "84.0",
-        "r2": "55.0",
+        "r2": "59.0",
         "r3": "",
         "r4": "",
         "numeric_score": 15
       },
       {
-        "pos": "83",
+        "pos": "84",
         "player": "Max Greyserman",
         "score": "+10",
         "today": "",
@@ -423,16 +423,16 @@
         "numeric_score": 2
       },
       {
-        "pos": "13",
+        "pos": "11",
         "player": "Haotong Li",
-        "score": "-2",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "71.0",
-        "r2": "55.0",
+        "r2": "59.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -2
+        "numeric_score": -3
       },
       {
         "pos": "68",
@@ -471,7 +471,7 @@
         "numeric_score": 3
       }
     ],
-    "best3_total": -7,
+    "best3_total": -8,
     "scores_entered": 10,
     "roster_loaded": 10
   },
@@ -527,7 +527,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Dustin Johnson",
         "score": "E",
         "today": "",
@@ -563,19 +563,19 @@
         "numeric_score": 7
       },
       {
-        "pos": "82",
+        "pos": "79",
         "player": "Sami Välimäki",
-        "score": "+10",
+        "score": "+9",
         "today": "",
         "thru": "",
         "r1": "80.0",
-        "r2": "49.0",
+        "r2": "53.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 10
+        "numeric_score": 9
       },
       {
-        "pos": "79",
+        "pos": "80",
         "player": "José María Olazábal",
         "score": "+9",
         "today": "",
@@ -679,7 +679,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "84",
+        "pos": "85",
         "player": "Fifa Laopakdee",
         "score": "+11",
         "today": "",
@@ -771,13 +771,13 @@
         "numeric_score": 6
       },
       {
-        "pos": "28",
+        "pos": "26",
         "player": "Ryan Gerard",
         "score": "E",
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "32.0",
+        "r2": "36.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
@@ -795,16 +795,16 @@
         "numeric_score": 9
       },
       {
-        "pos": "86",
+        "pos": "83",
         "player": "Johnny Keefer",
-        "score": "+11",
+        "score": "+10",
         "today": "",
         "thru": "",
         "r1": "76.0",
-        "r2": "63.0",
+        "r2": "67.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 11
+        "numeric_score": 10
       },
       {
         "pos": "76",
@@ -863,13 +863,13 @@
         "numeric_score": 1
       },
       {
-        "pos": "11",
+        "pos": "12",
         "player": "Shane Lowry",
         "score": "-3",
         "today": "",
         "thru": "",
         "r1": "70.0",
-        "r2": "26.0",
+        "r2": "31.0",
         "r3": "",
         "r4": "",
         "numeric_score": -3
@@ -955,7 +955,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "85",
+        "pos": "86",
         "player": "Min Woo Lee",
         "score": "+11",
         "today": "",
@@ -967,7 +967,7 @@
         "numeric_score": 11
       },
       {
-        "pos": "12",
+        "pos": "13",
         "player": "Max Homa",
         "score": "-2",
         "today": "",
@@ -1039,7 +1039,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "80",
+        "pos": "81",
         "player": "Ángel Cabrera",
         "score": "+9",
         "today": "",
@@ -1077,7 +1077,7 @@
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "19.0",
+        "r2": "22.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
@@ -1119,7 +1119,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "26",
+        "pos": "27",
         "player": "Nick Taylor",
         "score": "E",
         "today": "",
