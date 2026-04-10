@@ -32,14 +32,27 @@ def normalize_player_name(name):
 def score_to_number(value):
     if value is None or value == "":
         return None
+
     text = str(value).strip().upper()
+
     if text in {"E", "(E)"}:
         return 0
+
     if text in {"CUT", "WD", "DQ"}:
         return None
+
     text = text.replace("(", "").replace(")", "")
+
     try:
         return int(text)
+    except ValueError:
+        return None
+
+def round_score_to_number(value):
+    if value is None or value == "":
+        return None
+    try:
+        return int(str(value).strip())
     except ValueError:
         return None
 
@@ -73,6 +86,47 @@ def is_real_score_row(pos, player, score, thru):
 
     return True
 
+def split_payout(label, winners, total_amount):
+    if not winners:
+        return None
+
+    share = round(total_amount / len(winners), 2)
+    return {
+        "label": label,
+        "winners": [{"name": winner, "amount": share} for winner in winners]
+    }
+
+def rank_with_ties(items, score_key):
+    valid = [item for item in items if item.get(score_key) is not None]
+    valid.sort(key=lambda x: (x[score_key], x["name"]))
+
+    ranked_groups = []
+    i = 0
+    place = 1
+
+    while i < len(valid):
+        score = valid[i][score_key]
+        tied = [valid[i]]
+        i += 1
+        while i < len(valid) and valid[i][score_key] == score:
+            tied.append(valid[i])
+            i += 1
+
+        ranked_groups.append({
+            "place": place,
+            "score": score,
+            "items": tied
+        })
+        place += len(tied)
+
+    return ranked_groups
+
+def get_group_starting_at_place(groups, place):
+    for g in groups:
+        if g["place"] == place:
+            return g
+    return None
+
 def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -95,6 +149,15 @@ def main():
         lookup_name = normalize_player_name(player)
         numeric_score = score_to_number(score)
 
+        r1 = round_score_to_number(row[6])
+        r2 = round_score_to_number(row[7])
+        r3 = round_score_to_number(row[8])
+        r4 = round_score_to_number(row[9])
+
+        day1_total = r1 if r1 is not None else None
+        day2_total = (r1 + r2) if r1 is not None and r2 is not None else None
+        day3_total = (r1 + r2 + r3) if r1 is not None and r2 is not None and r3 is not None else None
+
         entry = {
             "pos": str(pos).strip(),
             "player": str(player).strip(),
@@ -106,6 +169,9 @@ def main():
             "r3": "" if row[8] is None else str(row[8]).strip(),
             "r4": "" if row[9] is None else str(row[9]).strip(),
             "numeric_score": numeric_score,
+            "day1_total": day1_total,
+            "day2_total": day2_total,
+            "day3_total": day3_total,
         }
 
         scores_lookup[lookup_name] = entry
@@ -129,6 +195,7 @@ def main():
         teams_map[team_name].append(player_name)
 
     teams = []
+    final_team_rank_items = []
 
     for team_name, golfers in teams_map.items():
         golfer_details = []
@@ -146,6 +213,9 @@ def main():
                 "r3": "",
                 "r4": "",
                 "numeric_score": None,
+                "day1_total": None,
+                "day2_total": None,
+                "day3_total": None,
             })
 
             golfer_details.append(info)
@@ -164,16 +234,70 @@ def main():
             "roster_loaded": len(golfers),
         })
 
+        final_team_rank_items.append({
+            "name": team_name,
+            "final_score": best_three_total,
+        })
+
     teams_sorted = sorted(
         teams,
         key=lambda t: (99999 if t["best3_total"] is None else t["best3_total"], t["team"])
     )
+
+    payouts = []
+
+    # Day 1 leader - $75
+    day1_players = [{"name": s["player"], "score": s["day1_total"]} for s in score_rows if s["day1_total"] is not None]
+    if day1_players:
+        best_day1 = min(p["score"] for p in day1_players)
+        payouts.append(split_payout("Leader after Day 1", [p["name"] for p in day1_players if p["score"] == best_day1], 75))
+
+    # Day 2 leader - $75
+    day2_players = [{"name": s["player"], "score": s["day2_total"]} for s in score_rows if s["day2_total"] is not None]
+    if day2_players:
+        best_day2 = min(p["score"] for p in day2_players)
+        payouts.append(split_payout("Leader after Day 2", [p["name"] for p in day2_players if p["score"] == best_day2], 75))
+
+    # Day 3 leader - $75
+    day3_players = [{"name": s["player"], "score": s["day3_total"]} for s in score_rows if s["day3_total"] is not None]
+    if day3_players:
+        best_day3 = min(p["score"] for p in day3_players)
+        payouts.append(split_payout("Leader after Day 3", [p["name"] for p in day3_players if p["score"] == best_day3], 75))
+
+    ranked = rank_with_ties(final_team_rank_items, "final_score")
+
+    first_group = get_group_starting_at_place(ranked, 1)
+    second_group = get_group_starting_at_place(ranked, 2)
+    third_group = get_group_starting_at_place(ranked, 3)
+
+    if first_group:
+        payouts.append(split_payout("1st Overall", [i["name"] for i in first_group["items"]], 300))
+
+    if second_group:
+        if len(second_group["items"]) > 1:
+            combined = 150 + 75
+            payouts.append(split_payout("Tied for 2nd Overall", [i["name"] for i in second_group["items"]], combined))
+        else:
+            payouts.append(split_payout("2nd Overall", [i["name"] for i in second_group["items"]], 150))
+            if third_group:
+                payouts.append(split_payout("3rd Overall", [i["name"] for i in third_group["items"]], 75))
+
+    valid_best3 = [t for t in teams if t["best3_total"] is not None]
+    if valid_best3:
+        best_score = min(t["best3_total"] for t in valid_best3)
+        winners = [t["team"] for t in valid_best3 if t["best3_total"] == best_score]
+        payouts.append(split_payout("3-Man Team", winners, 250))
+
+    payouts = [p for p in payouts if p is not None]
 
     with open(OUT_DIR / "teams.json", "w", encoding="utf-8") as f:
         json.dump(teams_sorted, f, indent=2, ensure_ascii=False)
 
     with open(OUT_DIR / "scores.json", "w", encoding="utf-8") as f:
         json.dump(score_rows, f, indent=2, ensure_ascii=False)
+
+    with open(OUT_DIR / "payouts.json", "w", encoding="utf-8") as f:
+        json.dump({"items": payouts}, f, indent=2, ensure_ascii=False)
 
     with open(OUT_DIR / "meta.json", "w", encoding="utf-8") as f:
         json.dump(
@@ -182,7 +306,7 @@ def main():
             indent=2
         )
 
-    print("Exported website data.")
+    print("Exported website data with payouts.")
 
 if __name__ == "__main__":
     main()
