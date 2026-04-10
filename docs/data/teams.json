@@ -551,7 +551,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "80",
+        "pos": "79",
         "player": "Carlos Ortiz",
         "score": "+10",
         "today": "",
@@ -563,7 +563,7 @@
         "numeric_score": 10
       },
       {
-        "pos": "79",
+        "pos": "80",
         "player": "Johnny Keefer",
         "score": "+10",
         "today": "",
@@ -1077,7 +1077,7 @@
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "26.0",
+        "r2": "31.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
