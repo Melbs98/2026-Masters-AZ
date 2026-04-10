@@ -99,7 +99,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "89",
+        "pos": "88",
         "player": "Mateo Pulcini",
         "score": "+15",
         "today": "",
@@ -137,7 +137,7 @@
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "35.0",
+        "r2": "39.0",
         "r3": "",
         "r4": "",
         "numeric_score": 1
@@ -149,7 +149,7 @@
         "today": "",
         "thru": "",
         "r1": "75.0",
-        "r2": "28.0",
+        "r2": "22.0",
         "r3": "",
         "r4": "",
         "numeric_score": 4
@@ -217,14 +217,14 @@
       {
         "pos": "75",
         "player": "Fred Couples",
-        "score": "+9",
+        "score": "+6",
         "today": "",
         "thru": "",
         "r1": "78.0",
         "r2": "75.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 9
+        "numeric_score": 6
       },
       {
         "pos": "45",
@@ -429,7 +429,7 @@
         "today": "",
         "thru": "",
         "r1": "79.0",
-        "r2": "56.0",
+        "r2": "60.0",
         "r3": "",
         "r4": "",
         "numeric_score": 11
@@ -481,14 +481,14 @@
       {
         "pos": "47",
         "player": "Bryson DeChambeau",
-        "score": "+3",
+        "score": "+4",
         "today": "",
         "thru": "",
         "r1": "76.0",
         "r2": "39.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 3
+        "numeric_score": 4
       },
       {
         "pos": "12",
@@ -923,16 +923,16 @@
         "numeric_score": 5
       },
       {
-        "pos": "88",
+        "pos": "89",
         "player": "Ángel Cabrera",
-        "score": "+14",
+        "score": "+15",
         "today": "",
         "thru": "",
         "r1": "79.0",
-        "r2": "71.0",
+        "r2": "76.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 14
+        "numeric_score": 15
       }
     ],
     "best3_total": -2,
@@ -957,14 +957,14 @@
       {
         "pos": "51",
         "player": "Si Woo Kim",
-        "score": "+4",
+        "score": "+3",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 4
+        "numeric_score": 3
       },
       {
         "pos": "36",
@@ -1041,14 +1041,14 @@
       {
         "pos": "90",
         "player": "Brandon Holtz",
-        "score": "+16",
+        "score": "+17",
         "today": "",
         "thru": "",
         "r1": "81.0",
-        "r2": "59.0",
+        "r2": "64.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 16
+        "numeric_score": 17
       }
     ],
     "best3_total": -2,
@@ -1077,7 +1077,7 @@
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "34.0",
+        "r2": "31.0",
         "r3": "",
         "r4": "",
         "numeric_score": -1
