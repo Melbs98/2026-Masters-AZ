@@ -661,24 +661,24 @@
   },
   {
     "pos": "56",
-    "player": "Jackson Herrington",
+    "player": "Rasmus Højgaard",
     "score": "+5",
     "today": "",
     "thru": "",
-    "r1": "76.0",
-    "r2": "28.0",
+    "r1": "78.0",
+    "r2": "26.0",
     "r3": "",
     "r4": "",
     "numeric_score": 5
   },
   {
     "pos": "57",
-    "player": "Rasmus Højgaard",
+    "player": "Jackson Herrington",
     "score": "+5",
     "today": "",
     "thru": "",
-    "r1": "78.0",
-    "r2": "22.0",
+    "r1": "76.0",
+    "r2": "28.0",
     "r3": "",
     "r4": "",
     "numeric_score": 5
@@ -877,6 +877,18 @@
   },
   {
     "pos": "74",
+    "player": "Daniel Berger",
+    "score": "+8",
+    "today": "",
+    "thru": "",
+    "r1": "76.0",
+    "r2": "76.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 8
+  },
+  {
+    "pos": "75",
     "player": "Michael Kim",
     "score": "+8",
     "today": "",
@@ -888,7 +900,7 @@
     "numeric_score": 8
   },
   {
-    "pos": "75",
+    "pos": "76",
     "player": "Ethan Fang",
     "score": "+8",
     "today": "",
@@ -900,7 +912,7 @@
     "numeric_score": 8
   },
   {
-    "pos": "76",
+    "pos": "77",
     "player": "Fred Couples",
     "score": "+8",
     "today": "",
@@ -912,7 +924,7 @@
     "numeric_score": 8
   },
   {
-    "pos": "77",
+    "pos": "78",
     "player": "Robert MacIntyre",
     "score": "+8",
     "today": "",
@@ -924,7 +936,7 @@
     "numeric_score": 8
   },
   {
-    "pos": "78",
+    "pos": "79",
     "player": "Vijay Singh",
     "score": "+8",
     "today": "",
@@ -936,7 +948,7 @@
     "numeric_score": 8
   },
   {
-    "pos": "79",
+    "pos": "80",
     "player": "Brandon Holtz",
     "score": "+8",
     "today": "",
@@ -948,7 +960,7 @@
     "numeric_score": 8
   },
   {
-    "pos": "80",
+    "pos": "81",
     "player": "Nico Echavarria",
     "score": "+8",
     "today": "",
@@ -958,18 +970,6 @@
     "r3": "",
     "r4": "",
     "numeric_score": 8
-  },
-  {
-    "pos": "81",
-    "player": "Daniel Berger",
-    "score": "+9",
-    "today": "",
-    "thru": "",
-    "r1": "76.0",
-    "r2": "73.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 9
   },
   {
     "pos": "82",
