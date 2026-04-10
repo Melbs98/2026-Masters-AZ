@@ -121,14 +121,14 @@
       {
         "pos": "4",
         "player": "Tommy Fleetwood",
-        "score": "-6",
+        "score": "-5",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "68.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -6
+        "numeric_score": -5
       },
       {
         "pos": "23",
@@ -239,7 +239,7 @@
         "numeric_score": 3
       }
     ],
-    "best3_total": -14,
+    "best3_total": -13,
     "scores_entered": 10,
     "roster_loaded": 10
   },
