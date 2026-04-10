@@ -1,137 +1,21 @@
 [
   {
-    "team": "Roth",
-    "golfers": [
-      {
-        "pos": "1",
-        "player": "Rory McIlroy",
-        "score": "-7",
-        "today": "",
-        "thru": "",
-        "r1": "67.0",
-        "r2": "25.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -7
-      },
-      {
-        "pos": "20",
-        "player": "Hideki Matsuyama",
-        "score": "-1",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "31.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -1
-      },
-      {
-        "pos": "58",
-        "player": "J.J. Spaun",
-        "score": "+5",
-        "today": "",
-        "thru": "",
-        "r1": "74.0",
-        "r2": "75.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 5
-      },
-      {
-        "pos": "11",
-        "player": "Ben Griffin",
-        "score": "-3",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "69.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -3
-      },
-      {
-        "pos": "27",
-        "player": "Kurt Kitayama",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "69.0",
-        "r2": "55.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 0
-      },
-      {
-        "pos": "26",
-        "player": "Matt McCarty",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "56.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 0
-      },
-      {
-        "pos": "13",
-        "player": "Kristoffer Reitan",
-        "score": "-3",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "49.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -3
-      },
-      {
-        "pos": "24",
-        "player": "Brian Campbell",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "71.0",
-        "r2": "73.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 0
-      },
-      {
-        "pos": "88",
-        "player": "Mateo Pulcini",
-        "score": "+15",
-        "today": "",
-        "thru": "",
-        "r1": "81.0",
-        "r2": "78.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 15
-      }
-    ],
-    "best3_total": -13,
-    "scores_entered": 9,
-    "roster_loaded": 9
-  },
-  {
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "15",
+        "pos": "9",
         "player": "Tommy Fleetwood",
-        "score": "-3",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "34.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -3
+        "numeric_score": -4
       },
       {
-        "pos": "36",
+        "pos": "37",
         "player": "Matt Fitzpatrick",
         "score": "+1",
         "today": "",
@@ -167,7 +51,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "41",
+        "pos": "42",
         "player": "Gary Woodland",
         "score": "+2",
         "today": "",
@@ -179,7 +63,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "38",
+        "pos": "39",
         "player": "Sam Stevens",
         "score": "+2",
         "today": "",
@@ -239,9 +123,125 @@
         "numeric_score": 3
       }
     ],
-    "best3_total": -12,
+    "best3_total": -13,
     "scores_entered": 10,
     "roster_loaded": 10
+  },
+  {
+    "team": "Roth",
+    "golfers": [
+      {
+        "pos": "1",
+        "player": "Rory McIlroy",
+        "score": "-7",
+        "today": "",
+        "thru": "",
+        "r1": "67.0",
+        "r2": "25.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -7
+      },
+      {
+        "pos": "20",
+        "player": "Hideki Matsuyama",
+        "score": "-1",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "31.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -1
+      },
+      {
+        "pos": "58",
+        "player": "J.J. Spaun",
+        "score": "+5",
+        "today": "",
+        "thru": "",
+        "r1": "74.0",
+        "r2": "75.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 5
+      },
+      {
+        "pos": "12",
+        "player": "Ben Griffin",
+        "score": "-3",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "69.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -3
+      },
+      {
+        "pos": "27",
+        "player": "Kurt Kitayama",
+        "score": "E",
+        "today": "",
+        "thru": "",
+        "r1": "69.0",
+        "r2": "55.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 0
+      },
+      {
+        "pos": "26",
+        "player": "Matt McCarty",
+        "score": "E",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "56.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 0
+      },
+      {
+        "pos": "14",
+        "player": "Kristoffer Reitan",
+        "score": "-3",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "49.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -3
+      },
+      {
+        "pos": "24",
+        "player": "Brian Campbell",
+        "score": "E",
+        "today": "",
+        "thru": "",
+        "r1": "71.0",
+        "r2": "73.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 0
+      },
+      {
+        "pos": "88",
+        "player": "Mateo Pulcini",
+        "score": "+15",
+        "today": "",
+        "thru": "",
+        "r1": "81.0",
+        "r2": "78.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 15
+      }
+    ],
+    "best3_total": -13,
+    "scores_entered": 9,
+    "roster_loaded": 9
   },
   {
     "team": "Klooster",
@@ -283,7 +283,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "39",
+        "pos": "40",
         "player": "Adam Scott",
         "score": "+2",
         "today": "",
@@ -387,7 +387,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "40",
+        "pos": "41",
         "player": "Justin Thomas",
         "score": "+2",
         "today": "",
@@ -453,7 +453,7 @@
         "today": "",
         "thru": "",
         "r1": "80.0",
-        "r2": "63.0",
+        "r2": "66.0",
         "r3": "",
         "r4": "",
         "numeric_score": 10
@@ -539,16 +539,16 @@
         "numeric_score": 5
       },
       {
-        "pos": "43",
+        "pos": "36",
         "player": "Ryan Gerard",
-        "score": "+2",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "46.0",
+        "r2": "48.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 2
+        "numeric_score": 1
       },
       {
         "pos": "79",
@@ -607,7 +607,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "10",
+        "pos": "11",
         "player": "Brooks Koepka",
         "score": "-3",
         "today": "",
@@ -619,7 +619,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "42",
+        "pos": "43",
         "player": "Jake Knapp",
         "score": "+2",
         "today": "",
@@ -735,7 +735,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "9",
+        "pos": "10",
         "player": "Chris Gotterup",
         "score": "-3",
         "today": "",
@@ -863,7 +863,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "14",
+        "pos": "15",
         "player": "Shane Lowry",
         "score": "-3",
         "today": "",
@@ -943,7 +943,7 @@
     "team": "Asshole Garrett",
     "golfers": [
       {
-        "pos": "37",
+        "pos": "38",
         "player": "Collin Morikawa",
         "score": "+1",
         "today": "",
@@ -967,7 +967,7 @@
         "numeric_score": 11
       },
       {
-        "pos": "12",
+        "pos": "13",
         "player": "Max Homa",
         "score": "-3",
         "today": "",
