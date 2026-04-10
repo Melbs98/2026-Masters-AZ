@@ -210,7 +210,7 @@
     "today": "",
     "thru": "",
     "r1": "73.0",
-    "r2": "34.0",
+    "r2": "38.0",
     "r3": "",
     "r4": "",
     "numeric_score": -1
@@ -469,24 +469,24 @@
   },
   {
     "pos": "40",
-    "player": "Gary Woodland",
+    "player": "Marco Penge",
     "score": "+2",
     "today": "",
     "thru": "",
-    "r1": "71.0",
-    "r2": "67.0",
+    "r1": "76.0",
+    "r2": "62.0",
     "r3": "",
     "r4": "",
     "numeric_score": 2
   },
   {
     "pos": "41",
-    "player": "Marco Penge",
+    "player": "Gary Woodland",
     "score": "+2",
     "today": "",
     "thru": "",
-    "r1": "76.0",
-    "r2": "59.0",
+    "r1": "71.0",
+    "r2": "67.0",
     "r3": "",
     "r4": "",
     "numeric_score": 2
@@ -558,25 +558,13 @@
     "today": "",
     "thru": "",
     "r1": "74.0",
-    "r2": "24.0",
+    "r2": "28.0",
     "r3": "",
     "r4": "",
     "numeric_score": 3
   },
   {
     "pos": "48",
-    "player": "Cameron Smith",
-    "score": "+4",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "38.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 4
-  },
-  {
-    "pos": "49",
     "player": "Brian Harman",
     "score": "+4",
     "today": "",
@@ -588,7 +576,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "50",
+    "pos": "49",
     "player": "Jon Rahm",
     "score": "+4",
     "today": "",
@@ -600,7 +588,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "51",
+    "pos": "50",
     "player": "Corey Conners",
     "score": "+4",
     "today": "",
@@ -612,7 +600,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "52",
+    "pos": "51",
     "player": "Si Woo Kim",
     "score": "+4",
     "today": "",
@@ -624,7 +612,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "53",
+    "pos": "52",
     "player": "Rasmus Højgaard",
     "score": "+4",
     "today": "",
@@ -636,13 +624,25 @@
     "numeric_score": 4
   },
   {
-    "pos": "54",
+    "pos": "53",
     "player": "Charl Schwartzel",
     "score": "+4",
     "today": "",
     "thru": "",
     "r1": "75.0",
     "r2": "48.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 4
+  },
+  {
+    "pos": "54",
+    "player": "Cameron Smith",
+    "score": "+4",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "42.0",
     "r3": "",
     "r4": "",
     "numeric_score": 4
