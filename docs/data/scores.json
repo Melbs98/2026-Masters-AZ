@@ -1,24 +1,24 @@
 [
   {
     "pos": "1",
-    "player": "Rory McIlroy",
-    "score": "-7",
-    "today": "",
-    "thru": "",
-    "r1": "67.0",
-    "r2": "34.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -7
-  },
-  {
-    "pos": "2",
     "player": "Patrick Reed",
     "score": "-6",
     "today": "",
     "thru": "",
     "r1": "69.0",
     "r2": "44.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -6
+  },
+  {
+    "pos": "2",
+    "player": "Rory McIlroy",
+    "score": "-6",
+    "today": "",
+    "thru": "",
+    "r1": "67.0",
+    "r2": "39.0",
     "r3": "",
     "r4": "",
     "numeric_score": -6
@@ -642,7 +642,7 @@
     "today": "",
     "thru": "",
     "r1": "75.0",
-    "r2": "69.0",
+    "r2": "73.0",
     "r3": "",
     "r4": "",
     "numeric_score": 4
@@ -906,7 +906,7 @@
     "today": "",
     "thru": "",
     "r1": "79.0",
-    "r2": "66.0",
+    "r2": "70.0",
     "r3": "",
     "r4": "",
     "numeric_score": 9
@@ -918,7 +918,7 @@
     "today": "",
     "thru": "",
     "r1": "77.0",
-    "r2": "40.0",
+    "r2": "44.0",
     "r3": "",
     "r4": "",
     "numeric_score": 9
