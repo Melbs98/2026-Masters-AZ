@@ -306,7 +306,7 @@
     "today": "",
     "thru": "",
     "r1": "72.0",
-    "r2": "20.0",
+    "r2": "23.0",
     "r3": "",
     "r4": "",
     "numeric_score": 0
@@ -373,24 +373,24 @@
   },
   {
     "pos": "32",
-    "player": "Sepp Straka",
+    "player": "Justin Thomas",
     "score": "+1",
     "today": "",
     "thru": "",
-    "r1": "73.0",
-    "r2": "52.0",
+    "r1": "72.0",
+    "r2": "57.0",
     "r3": "",
     "r4": "",
     "numeric_score": 1
   },
   {
     "pos": "33",
-    "player": "Justin Thomas",
+    "player": "Sepp Straka",
     "score": "+1",
     "today": "",
     "thru": "",
-    "r1": "72.0",
-    "r2": "53.0",
+    "r1": "73.0",
+    "r2": "56.0",
     "r3": "",
     "r4": "",
     "numeric_score": 1
@@ -942,7 +942,7 @@
     "today": "",
     "thru": "",
     "r1": "79.0",
-    "r2": "38.0",
+    "r2": "42.0",
     "r3": "",
     "r4": "",
     "numeric_score": 9
