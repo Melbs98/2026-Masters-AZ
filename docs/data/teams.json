@@ -363,19 +363,19 @@
         "numeric_score": -1
       },
       {
-        "pos": "42",
+        "pos": "48",
         "player": "Matt Fitzpatrick",
-        "score": "+2",
+        "score": "+3",
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "20.0",
+        "r2": "24.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 2
+        "numeric_score": 3
       },
       {
-        "pos": "44",
+        "pos": "43",
         "player": "Viktor Hovland",
         "score": "+2",
         "today": "",
@@ -459,7 +459,7 @@
         "numeric_score": 9
       },
       {
-        "pos": "46",
+        "pos": "45",
         "player": "Sergio García",
         "score": "+3",
         "today": "",
@@ -637,7 +637,7 @@
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "12.0",
+        "r2": "15.0",
         "r3": "",
         "r4": "",
         "numeric_score": 4
@@ -765,7 +765,7 @@
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "45.0",
+        "r2": "48.0",
         "r3": "",
         "r4": "",
         "numeric_score": 6
@@ -839,13 +839,13 @@
         "numeric_score": 0
       },
       {
-        "pos": "47",
+        "pos": "46",
         "player": "Si Woo Kim",
         "score": "+3",
         "today": "",
         "thru": "",
         "r1": "75.0",
-        "r2": "56.0",
+        "r2": "61.0",
         "r3": "",
         "r4": "",
         "numeric_score": 3
@@ -875,7 +875,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "48",
+        "pos": "47",
         "player": "Keegan Bradley",
         "score": "+3",
         "today": "",
@@ -943,7 +943,7 @@
     "team": "Asshole Garrett",
     "golfers": [
       {
-        "pos": "43",
+        "pos": "42",
         "player": "Collin Morikawa",
         "score": "+2",
         "today": "",
@@ -1095,7 +1095,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "45",
+        "pos": "44",
         "player": "Maverick McNealy",
         "score": "+3",
         "today": "",
