@@ -15,7 +15,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "39",
+        "pos": "38",
         "player": "Hideki Matsuyama",
         "score": "+1",
         "today": "",
@@ -155,7 +155,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "41",
+        "pos": "40",
         "player": "Adam Scott",
         "score": "+2",
         "today": "",
@@ -167,7 +167,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "43",
+        "pos": "42",
         "player": "Marco Penge",
         "score": "+2",
         "today": "",
@@ -319,7 +319,7 @@
         "numeric_score": 7
       },
       {
-        "pos": "85",
+        "pos": "84",
         "player": "Sami Välimäki",
         "score": "+10",
         "today": "",
@@ -411,19 +411,19 @@
         "numeric_score": 8
       },
       {
-        "pos": "84",
+        "pos": "89",
         "player": "Aldrich Potgieter",
-        "score": "+10",
+        "score": "+11",
         "today": "",
         "thru": "",
         "r1": "84.0",
-        "r2": "34.0",
+        "r2": "39.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 10
+        "numeric_score": 11
       },
       {
-        "pos": "86",
+        "pos": "85",
         "player": "Max Greyserman",
         "score": "+10",
         "today": "",
@@ -551,7 +551,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "87",
+        "pos": "86",
         "player": "Fifa Laopakdee",
         "score": "+11",
         "today": "",
@@ -643,7 +643,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "40",
+        "pos": "39",
         "player": "Sam Stevens",
         "score": "+2",
         "today": "",
@@ -697,7 +697,7 @@
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "71.0",
+        "r2": "75.0",
         "r3": "",
         "r4": "",
         "numeric_score": 3
@@ -711,7 +711,7 @@
     "team": "Adam & Kevin",
     "golfers": [
       {
-        "pos": "38",
+        "pos": "37",
         "player": "Cameron Young",
         "score": "+1",
         "today": "",
@@ -875,16 +875,16 @@
         "numeric_score": -3
       },
       {
-        "pos": "35",
+        "pos": "43",
         "player": "Keegan Bradley",
-        "score": "+1",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "17.0",
+        "r2": "22.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 1
+        "numeric_score": 2
       },
       {
         "pos": "61",
@@ -905,7 +905,7 @@
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "37.0",
+        "r2": "42.0",
         "r3": "",
         "r4": "",
         "numeric_score": 6
@@ -955,7 +955,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "88",
+        "pos": "87",
         "player": "Min Woo Lee",
         "score": "+11",
         "today": "",
@@ -1065,13 +1065,13 @@
         "today": "",
         "thru": "",
         "r1": "78.0",
-        "r2": "55.0",
+        "r2": "60.0",
         "r3": "",
         "r4": "",
         "numeric_score": 5
       },
       {
-        "pos": "37",
+        "pos": "36",
         "player": "Russell Henley",
         "score": "+1",
         "today": "",
@@ -1083,7 +1083,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "42",
+        "pos": "41",
         "player": "Corey Conners",
         "score": "+2",
         "today": "",
@@ -1119,7 +1119,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "36",
+        "pos": "35",
         "player": "Nick Taylor",
         "score": "+1",
         "today": "",
@@ -1155,7 +1155,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "89",
+        "pos": "88",
         "player": "Naoyuki Kataoka",
         "score": "+11",
         "today": "",
