@@ -493,6 +493,18 @@
   },
   {
     "pos": "42",
+    "player": "Patrick Cantlay",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "41.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 2
+  },
+  {
+    "pos": "43",
     "player": "Maverick McNealy",
     "score": "+3",
     "today": "",
@@ -504,7 +516,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "43",
+    "pos": "44",
     "player": "Sergio García",
     "score": "+3",
     "today": "",
@@ -516,7 +528,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "44",
+    "pos": "45",
     "player": "Kurt Kitayama",
     "score": "+3",
     "today": "",
@@ -528,25 +540,13 @@
     "numeric_score": 3
   },
   {
-    "pos": "45",
+    "pos": "46",
     "player": "Keegan Bradley",
     "score": "+3",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "64.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 3
-  },
-  {
-    "pos": "46",
-    "player": "Bryson DeChambeau",
-    "score": "+3",
-    "today": "",
-    "thru": "",
-    "r1": "76.0",
-    "r2": "46.0",
     "r3": "",
     "r4": "",
     "numeric_score": 3
@@ -565,18 +565,6 @@
   },
   {
     "pos": "48",
-    "player": "Patrick Cantlay",
-    "score": "+3",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "38.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 3
-  },
-  {
-    "pos": "49",
     "player": "Brian Harman",
     "score": "+4",
     "today": "",
@@ -588,7 +576,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "50",
+    "pos": "49",
     "player": "Jon Rahm",
     "score": "+4",
     "today": "",
@@ -600,7 +588,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "51",
+    "pos": "50",
     "player": "Rasmus Højgaard",
     "score": "+4",
     "today": "",
@@ -612,7 +600,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "52",
+    "pos": "51",
     "player": "Corey Conners",
     "score": "+4",
     "today": "",
@@ -624,7 +612,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "53",
+    "pos": "52",
     "player": "Si Woo Kim",
     "score": "+4",
     "today": "",
@@ -636,7 +624,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "54",
+    "pos": "53",
     "player": "Charl Schwartzel",
     "score": "+4",
     "today": "",
@@ -648,7 +636,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "55",
+    "pos": "54",
     "player": "Bubba Watson",
     "score": "+4",
     "today": "",
@@ -660,13 +648,25 @@
     "numeric_score": 4
   },
   {
-    "pos": "56",
+    "pos": "55",
     "player": "Akshay Bhatia",
     "score": "+4",
     "today": "",
     "thru": "",
     "r1": "73.0",
     "r2": "59.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 4
+  },
+  {
+    "pos": "56",
+    "player": "Bryson DeChambeau",
+    "score": "+4",
+    "today": "",
+    "thru": "",
+    "r1": "76.0",
+    "r2": "52.0",
     "r3": "",
     "r4": "",
     "numeric_score": 4
