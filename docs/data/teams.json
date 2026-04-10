@@ -595,13 +595,13 @@
     "team": "Ross",
     "golfers": [
       {
-        "pos": "25",
+        "pos": "24",
         "player": "Scottie Scheffler",
         "score": "E",
         "today": "",
         "thru": "",
         "r1": "70.0",
-        "r2": "63.0",
+        "r2": "66.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
@@ -643,7 +643,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Harris English",
         "score": "E",
         "today": "",
@@ -789,7 +789,7 @@
         "today": "",
         "thru": "",
         "r1": "80.0",
-        "r2": "53.0",
+        "r2": "57.0",
         "r3": "",
         "r4": "",
         "numeric_score": 9
@@ -893,7 +893,7 @@
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "13.0",
+        "r2": "16.0",
         "r3": "",
         "r4": "",
         "numeric_score": 5
@@ -1157,14 +1157,14 @@
       {
         "pos": "88",
         "player": "Naoyuki Kataoka",
-        "score": "+13",
+        "score": "+14",
         "today": "",
         "thru": "",
         "r1": "84.0",
-        "r2": "53.0",
+        "r2": "58.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 13
+        "numeric_score": 14
       }
     ],
     "best3_total": 3,
