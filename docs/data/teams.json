@@ -87,7 +87,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "24",
+        "pos": "23",
         "player": "Brian Campbell",
         "score": "E",
         "today": "",
@@ -411,7 +411,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "21",
+        "pos": "20",
         "player": "Dustin Johnson",
         "score": "-1",
         "today": "",
@@ -503,16 +503,16 @@
         "numeric_score": -3
       },
       {
-        "pos": "19",
+        "pos": "25",
         "player": "Jake Knapp",
-        "score": "-1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "54.0",
+        "r2": "60.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -1
+        "numeric_score": 0
       },
       {
         "pos": "13",
@@ -587,7 +587,7 @@
         "numeric_score": 8
       }
     ],
-    "best3_total": -7,
+    "best3_total": -6,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -711,7 +711,7 @@
     "team": "Ross",
     "golfers": [
       {
-        "pos": "25",
+        "pos": "24",
         "player": "Scottie Scheffler",
         "score": "E",
         "today": "",
@@ -759,7 +759,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "23",
+        "pos": "22",
         "player": "Harris English",
         "score": "E",
         "today": "",
@@ -827,7 +827,7 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "22",
+        "pos": "21",
         "player": "Ludvig Åberg",
         "score": "E",
         "today": "",
@@ -923,16 +923,16 @@
         "numeric_score": 18
       },
       {
-        "pos": "90",
+        "pos": "89",
         "player": "Brandon Holtz",
-        "score": "+16",
+        "score": "+15",
         "today": "",
         "thru": "",
         "r1": "81.0",
-        "r2": "68.0",
+        "r2": "70.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 16
+        "numeric_score": 15
       }
     ],
     "best3_total": -2,
@@ -1039,7 +1039,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "89",
+        "pos": "90",
         "player": "Ángel Cabrera",
         "score": "+16",
         "today": "",
@@ -1119,7 +1119,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "20",
+        "pos": "19",
         "player": "Nick Taylor",
         "score": "-1",
         "today": "",
