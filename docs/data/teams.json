@@ -15,16 +15,16 @@
         "numeric_score": -7
       },
       {
-        "pos": "20",
+        "pos": "17",
         "player": "Hideki Matsuyama",
-        "score": "-1",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "31.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -1
+        "numeric_score": -2
       },
       {
         "pos": "58",
@@ -319,7 +319,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "17",
+        "pos": "18",
         "player": "Michael Brennan",
         "score": "-1",
         "today": "",
@@ -411,7 +411,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "19",
+        "pos": "20",
         "player": "Dustin Johnson",
         "score": "-1",
         "today": "",
@@ -1119,7 +1119,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "18",
+        "pos": "19",
         "player": "Nick Taylor",
         "score": "-1",
         "today": "",
