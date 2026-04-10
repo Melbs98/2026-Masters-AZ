@@ -1,6 +1,7 @@
 from pathlib import Path
 import json
 import re
+import unicodedata
 from datetime import datetime, timezone
 from collections import OrderedDict
 from openpyxl import load_workbook
@@ -9,13 +10,24 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 WORKBOOK_PATH = REPO_ROOT / "data" / "2026 Masters Draft & Scoreboard AZ.xlsx"
 OUT_DIR = REPO_ROOT / "docs" / "data"
 
+ALIASES = {
+    "sam stevens": "samuel stevens",
+    "nico echavarria": "nicolas echavarria",
+}
+
 def normalize_player_name(name):
     if name is None:
         return ""
+
     text = str(name).strip()
+
     text = re.sub(r"\s*\((a|A)\)\s*", "", text)
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(ch for ch in text if not unicodedata.combining(ch))
+    text = text.lower().strip()
     text = re.sub(r"\s+", " ", text)
-    return text
+
+    return ALIASES.get(text, text)
 
 def score_to_number(value):
     if value is None or value == "":
