@@ -266,14 +266,14 @@
   {
     "pos": "23",
     "player": "Matt Fitzpatrick",
-    "score": "-1",
+    "score": "E",
     "today": "",
     "thru": "",
     "r1": "74.0",
     "r2": "65.0",
     "r3": "",
     "r4": "",
-    "numeric_score": -1
+    "numeric_score": 0
   },
   {
     "pos": "24",
@@ -366,7 +366,7 @@
     "today": "",
     "thru": "",
     "r1": "76.0",
-    "r2": "69.0",
+    "r2": "58.0",
     "r3": "",
     "r4": "",
     "numeric_score": 1
@@ -554,14 +554,14 @@
   {
     "pos": "47",
     "player": "Bryson DeChambeau",
-    "score": "+3",
+    "score": "+4",
     "today": "",
     "thru": "",
     "r1": "76.0",
     "r2": "67.0",
     "r3": "",
     "r4": "",
-    "numeric_score": 3
+    "numeric_score": 4
   },
   {
     "pos": "48",
@@ -654,7 +654,7 @@
     "today": "",
     "thru": "",
     "r1": "77.0",
-    "r2": "55.0",
+    "r2": "60.0",
     "r3": "",
     "r4": "",
     "numeric_score": 4
@@ -926,14 +926,14 @@
   {
     "pos": "78",
     "player": "Vijay Singh",
-    "score": "+10",
+    "score": "+9",
     "today": "",
     "thru": "",
     "r1": "79.0",
     "r2": "75.0",
     "r3": "",
     "r4": "",
-    "numeric_score": 10
+    "numeric_score": 9
   },
   {
     "pos": "79",
