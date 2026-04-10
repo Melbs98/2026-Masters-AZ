@@ -259,7 +259,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "31",
+        "pos": "32",
         "player": "Justin Thomas",
         "score": "+1",
         "today": "",
@@ -283,7 +283,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Dustin Johnson",
         "score": "E",
         "today": "",
@@ -375,16 +375,16 @@
         "numeric_score": -3
       },
       {
-        "pos": "34",
+        "pos": "25",
         "player": "Jake Knapp",
-        "score": "+1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "20.0",
+        "r2": "22.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 1
+        "numeric_score": 0
       },
       {
         "pos": "5",
@@ -459,7 +459,7 @@
         "numeric_score": 4
       }
     ],
-    "best3_total": -6,
+    "best3_total": -7,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -515,7 +515,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "32",
+        "pos": "33",
         "player": "Harris English",
         "score": "+1",
         "today": "",
@@ -527,7 +527,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "28",
+        "pos": "30",
         "player": "Aaron Rai",
         "score": "+1",
         "today": "",
@@ -631,7 +631,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Gary Woodland",
         "score": "+1",
         "today": "",
@@ -747,7 +747,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "30",
+        "pos": "31",
         "player": "Sepp Straka",
         "score": "+1",
         "today": "",
@@ -771,7 +771,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "26",
+        "pos": "27",
         "player": "Ryan Gerard",
         "score": "E",
         "today": "",
@@ -857,7 +857,7 @@
         "today": "",
         "thru": "",
         "r1": "71.0",
-        "r2": "70.0",
+        "r2": "74.0",
         "r3": "",
         "r4": "",
         "numeric_score": 1
@@ -979,7 +979,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Sungjae Im",
         "score": "+1",
         "today": "",
