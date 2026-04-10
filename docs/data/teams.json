@@ -203,7 +203,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "68",
+        "pos": "67",
         "player": "Tom McKibbin",
         "score": "+7",
         "today": "",
@@ -259,7 +259,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "65",
+        "pos": "64",
         "player": "Robert MacIntyre",
         "score": "+7",
         "today": "",
@@ -271,7 +271,7 @@
         "numeric_score": 7
       },
       {
-        "pos": "63",
+        "pos": "62",
         "player": "Nicolai Højgaard",
         "score": "+6",
         "today": "",
@@ -343,7 +343,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "78",
+        "pos": "77",
         "player": "Mike Weir",
         "score": "+10",
         "today": "",
@@ -435,7 +435,7 @@
         "numeric_score": 12
       },
       {
-        "pos": "67",
+        "pos": "66",
         "player": "Andrew Novak",
         "score": "+7",
         "today": "",
@@ -563,7 +563,7 @@
         "numeric_score": 12
       },
       {
-        "pos": "77",
+        "pos": "76",
         "player": "Mason Howell",
         "score": "+9",
         "today": "",
@@ -601,7 +601,7 @@
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "39.0",
+        "r2": "43.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
@@ -619,16 +619,16 @@
         "numeric_score": -6
       },
       {
-        "pos": "61",
+        "pos": "69",
         "player": "Cameron Smith",
-        "score": "+5",
+        "score": "+7",
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "64.0",
+        "r2": "69.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 5
+        "numeric_score": 7
       },
       {
         "pos": "32",
@@ -691,16 +691,16 @@
         "numeric_score": 11
       },
       {
-        "pos": "76",
+        "pos": "78",
         "player": "Vijay Singh",
-        "score": "+9",
+        "score": "+10",
         "today": "",
         "thru": "",
         "r1": "79.0",
-        "r2": "70.0",
+        "r2": "75.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 9
+        "numeric_score": 10
       }
     ],
     "best3_total": -5,
@@ -783,7 +783,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "69",
+        "pos": "68",
         "player": "Casey Jarvis",
         "score": "+7",
         "today": "",
@@ -887,7 +887,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "62",
+        "pos": "61",
         "player": "Alex Noren",
         "score": "+5",
         "today": "",
@@ -899,7 +899,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "66",
+        "pos": "65",
         "player": "Rasmus Neergaard-Petersen",
         "score": "+7",
         "today": "",
@@ -1015,7 +1015,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "64",
+        "pos": "63",
         "player": "Zach Johnson",
         "score": "+6",
         "today": "",
