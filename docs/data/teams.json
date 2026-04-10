@@ -167,13 +167,13 @@
         "numeric_score": 2
       },
       {
-        "pos": "41",
+        "pos": "40",
         "player": "Marco Penge",
         "score": "+2",
         "today": "",
         "thru": "",
         "r1": "76.0",
-        "r2": "50.0",
+        "r2": "54.0",
         "r3": "",
         "r4": "",
         "numeric_score": 2
@@ -235,7 +235,7 @@
     "team": "Melbye²",
     "golfers": [
       {
-        "pos": "54",
+        "pos": "55",
         "player": "Bryson DeChambeau",
         "score": "+4",
         "today": "",
@@ -331,7 +331,7 @@
         "numeric_score": 7
       },
       {
-        "pos": "58",
+        "pos": "59",
         "player": "Jackson Herrington",
         "score": "+5",
         "today": "",
@@ -417,7 +417,7 @@
         "today": "",
         "thru": "",
         "r1": "79.0",
-        "r2": "33.0",
+        "r2": "36.0",
         "r3": "",
         "r4": "",
         "numeric_score": 8
@@ -491,7 +491,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "44",
+        "pos": "43",
         "player": "Viktor Hovland",
         "score": "+2",
         "today": "",
@@ -515,7 +515,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "40",
+        "pos": "41",
         "player": "Gary Woodland",
         "score": "+2",
         "today": "",
@@ -575,7 +575,7 @@
         "numeric_score": 9
       },
       {
-        "pos": "45",
+        "pos": "44",
         "player": "Sergio García",
         "score": "+3",
         "today": "",
@@ -619,16 +619,16 @@
         "numeric_score": -4
       },
       {
-        "pos": "59",
+        "pos": "54",
         "player": "Cameron Smith",
-        "score": "+5",
+        "score": "+4",
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "30.0",
+        "r2": "34.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 5
+        "numeric_score": 4
       },
       {
         "pos": "35",
@@ -747,7 +747,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "55",
+        "pos": "56",
         "player": "Patrick Cantlay",
         "score": "+4",
         "today": "",
@@ -839,7 +839,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "47",
+        "pos": "46",
         "player": "Si Woo Kim",
         "score": "+3",
         "today": "",
@@ -875,7 +875,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "48",
+        "pos": "47",
         "player": "Keegan Bradley",
         "score": "+3",
         "today": "",
@@ -943,16 +943,16 @@
     "team": "Asshole Garrett",
     "golfers": [
       {
-        "pos": "43",
+        "pos": "48",
         "player": "Collin Morikawa",
-        "score": "+2",
+        "score": "+3",
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "13.0",
+        "r2": "17.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 2
+        "numeric_score": 3
       },
       {
         "pos": "87",
@@ -1051,7 +1051,7 @@
         "numeric_score": 9
       }
     ],
-    "best3_total": 2,
+    "best3_total": 3,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -1095,7 +1095,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "46",
+        "pos": "45",
         "player": "Maverick McNealy",
         "score": "+3",
         "today": "",
@@ -1107,7 +1107,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "56",
+        "pos": "57",
         "player": "Harry Hall",
         "score": "+5",
         "today": "",
@@ -1143,7 +1143,7 @@
         "numeric_score": 8
       },
       {
-        "pos": "57",
+        "pos": "58",
         "player": "Danny Willett",
         "score": "+5",
         "today": "",
