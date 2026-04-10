@@ -54,7 +54,7 @@
     "today": "",
     "thru": "",
     "r1": "74.0",
-    "r2": "42.0",
+    "r2": "47.0",
     "r3": "",
     "r4": "",
     "numeric_score": -3
@@ -121,6 +121,18 @@
   },
   {
     "pos": "11",
+    "player": "Scottie Scheffler",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "70.0",
+    "r2": "40.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -2
+  },
+  {
+    "pos": "12",
     "player": "Kurt Kitayama",
     "score": "-2",
     "today": "",
@@ -132,7 +144,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "12",
+    "pos": "13",
     "player": "Xander Schauffele",
     "score": "-2",
     "today": "",
@@ -144,7 +156,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "13",
+    "pos": "14",
     "player": "Jordan Spieth",
     "score": "-1",
     "today": "",
@@ -156,25 +168,13 @@
     "numeric_score": -1
   },
   {
-    "pos": "14",
+    "pos": "15",
     "player": "Brooks Koepka",
     "score": "-1",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "43.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -1
-  },
-  {
-    "pos": "15",
-    "player": "Scottie Scheffler",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "70.0",
-    "r2": "37.0",
     "r3": "",
     "r4": "",
     "numeric_score": -1
@@ -937,18 +937,6 @@
   },
   {
     "pos": "79",
-    "player": "Vijay Singh",
-    "score": "+8",
-    "today": "",
-    "thru": "",
-    "r1": "79.0",
-    "r2": "17.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 8
-  },
-  {
-    "pos": "80",
     "player": "Brandon Holtz",
     "score": "+8",
     "today": "",
@@ -960,7 +948,7 @@
     "numeric_score": 8
   },
   {
-    "pos": "81",
+    "pos": "80",
     "player": "Daniel Berger",
     "score": "+9",
     "today": "",
@@ -972,7 +960,7 @@
     "numeric_score": 9
   },
   {
-    "pos": "82",
+    "pos": "81",
     "player": "Carlos Ortiz",
     "score": "+9",
     "today": "",
@@ -984,7 +972,7 @@
     "numeric_score": 9
   },
   {
-    "pos": "83",
+    "pos": "82",
     "player": "Sami Välimäki",
     "score": "+9",
     "today": "",
@@ -996,13 +984,25 @@
     "numeric_score": 9
   },
   {
-    "pos": "84",
+    "pos": "83",
     "player": "Max Greyserman",
     "score": "+9",
     "today": "",
     "thru": "",
     "r1": "79.0",
     "r2": "25.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 9
+  },
+  {
+    "pos": "84",
+    "player": "Vijay Singh",
+    "score": "+9",
+    "today": "",
+    "thru": "",
+    "r1": "79.0",
+    "r2": "22.0",
     "r3": "",
     "r4": "",
     "numeric_score": 9
