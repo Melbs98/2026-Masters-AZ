@@ -9,7 +9,7 @@
         "today": "",
         "thru": "",
         "r1": "67.0",
-        "r2": "8.0",
+        "r2": "11.0",
         "r3": "",
         "r4": "",
         "numeric_score": -6
@@ -75,7 +75,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "12",
+        "pos": "13",
         "player": "Kristoffer Reitan",
         "score": "-2",
         "today": "",
@@ -191,7 +191,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "14",
+        "pos": "15",
         "player": "Michael Brennan",
         "score": "-1",
         "today": "",
@@ -351,7 +351,7 @@
     "team": "Coulter",
     "golfers": [
       {
-        "pos": "13",
+        "pos": "14",
         "player": "Xander Schauffele",
         "score": "-2",
         "today": "",
@@ -381,7 +381,7 @@
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "57.0",
+        "r2": "62.0",
         "r3": "",
         "r4": "",
         "numeric_score": 1
@@ -601,7 +601,7 @@
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "8.0",
+        "r2": "12.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
@@ -735,16 +735,16 @@
         "numeric_score": -1
       },
       {
-        "pos": "15",
+        "pos": "12",
         "player": "Chris Gotterup",
-        "score": "-1",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "63.0",
+        "r2": "66.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -1
+        "numeric_score": -2
       },
       {
         "pos": "55",
@@ -819,7 +819,7 @@
         "numeric_score": 8
       }
     ],
-    "best3_total": -3,
+    "best3_total": -4,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -845,7 +845,7 @@
         "today": "",
         "thru": "",
         "r1": "75.0",
-        "r2": "52.0",
+        "r2": "56.0",
         "r3": "",
         "r4": "",
         "numeric_score": 3
