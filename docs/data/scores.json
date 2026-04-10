@@ -90,7 +90,7 @@
     "today": "",
     "thru": "",
     "r1": "67.0",
-    "r2": "45.0",
+    "r2": "48.0",
     "r3": "",
     "r4": "",
     "numeric_score": -4
@@ -145,6 +145,18 @@
   },
   {
     "pos": "13",
+    "player": "Kristoffer Reitan",
+    "score": "-3",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "49.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -3
+  },
+  {
+    "pos": "14",
     "player": "Shane Lowry",
     "score": "-3",
     "today": "",
@@ -156,7 +168,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "14",
+    "pos": "15",
     "player": "Tommy Fleetwood",
     "score": "-3",
     "today": "",
@@ -168,7 +180,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "15",
+    "pos": "16",
     "player": "Xander Schauffele",
     "score": "-3",
     "today": "",
@@ -178,18 +190,6 @@
     "r3": "",
     "r4": "",
     "numeric_score": -3
-  },
-  {
-    "pos": "16",
-    "player": "Kristoffer Reitan",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "45.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -2
   },
   {
     "pos": "17",
@@ -342,7 +342,7 @@
     "today": "",
     "thru": "",
     "r1": "71.0",
-    "r2": "41.0",
+    "r2": "45.0",
     "r3": "",
     "r4": "",
     "numeric_score": 0
@@ -618,7 +618,7 @@
     "today": "",
     "thru": "",
     "r1": "75.0",
-    "r2": "69.0",
+    "r2": "73.0",
     "r3": "",
     "r4": "",
     "numeric_score": 4

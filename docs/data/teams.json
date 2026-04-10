@@ -1,9 +1,125 @@
 [
   {
+    "team": "Roth",
+    "golfers": [
+      {
+        "pos": "1",
+        "player": "Rory McIlroy",
+        "score": "-7",
+        "today": "",
+        "thru": "",
+        "r1": "67.0",
+        "r2": "25.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -7
+      },
+      {
+        "pos": "21",
+        "player": "Hideki Matsuyama",
+        "score": "-1",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "26.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -1
+      },
+      {
+        "pos": "58",
+        "player": "J.J. Spaun",
+        "score": "+5",
+        "today": "",
+        "thru": "",
+        "r1": "74.0",
+        "r2": "75.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 5
+      },
+      {
+        "pos": "11",
+        "player": "Ben Griffin",
+        "score": "-3",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "69.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -3
+      },
+      {
+        "pos": "27",
+        "player": "Kurt Kitayama",
+        "score": "E",
+        "today": "",
+        "thru": "",
+        "r1": "69.0",
+        "r2": "55.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 0
+      },
+      {
+        "pos": "26",
+        "player": "Matt McCarty",
+        "score": "E",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "52.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 0
+      },
+      {
+        "pos": "13",
+        "player": "Kristoffer Reitan",
+        "score": "-3",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "49.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -3
+      },
+      {
+        "pos": "24",
+        "player": "Brian Campbell",
+        "score": "E",
+        "today": "",
+        "thru": "",
+        "r1": "71.0",
+        "r2": "73.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 0
+      },
+      {
+        "pos": "88",
+        "player": "Mateo Pulcini",
+        "score": "+15",
+        "today": "",
+        "thru": "",
+        "r1": "81.0",
+        "r2": "78.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 15
+      }
+    ],
+    "best3_total": -13,
+    "scores_entered": 9,
+    "roster_loaded": 9
+  },
+  {
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "14",
+        "pos": "15",
         "player": "Tommy Fleetwood",
         "score": "-3",
         "today": "",
@@ -128,122 +244,6 @@
     "roster_loaded": 10
   },
   {
-    "team": "Roth",
-    "golfers": [
-      {
-        "pos": "1",
-        "player": "Rory McIlroy",
-        "score": "-7",
-        "today": "",
-        "thru": "",
-        "r1": "67.0",
-        "r2": "25.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -7
-      },
-      {
-        "pos": "21",
-        "player": "Hideki Matsuyama",
-        "score": "-1",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "26.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -1
-      },
-      {
-        "pos": "58",
-        "player": "J.J. Spaun",
-        "score": "+5",
-        "today": "",
-        "thru": "",
-        "r1": "74.0",
-        "r2": "75.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 5
-      },
-      {
-        "pos": "11",
-        "player": "Ben Griffin",
-        "score": "-3",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "69.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -3
-      },
-      {
-        "pos": "27",
-        "player": "Kurt Kitayama",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "69.0",
-        "r2": "55.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 0
-      },
-      {
-        "pos": "26",
-        "player": "Matt McCarty",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "52.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 0
-      },
-      {
-        "pos": "16",
-        "player": "Kristoffer Reitan",
-        "score": "-2",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "45.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -2
-      },
-      {
-        "pos": "24",
-        "player": "Brian Campbell",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "71.0",
-        "r2": "73.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 0
-      },
-      {
-        "pos": "88",
-        "player": "Mateo Pulcini",
-        "score": "+15",
-        "today": "",
-        "thru": "",
-        "r1": "81.0",
-        "r2": "78.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 15
-      }
-    ],
-    "best3_total": -12,
-    "scores_entered": 9,
-    "roster_loaded": 9
-  },
-  {
     "team": "Klooster",
     "golfers": [
       {
@@ -363,7 +363,7 @@
     "team": "Coulter",
     "golfers": [
       {
-        "pos": "15",
+        "pos": "16",
         "player": "Xander Schauffele",
         "score": "-3",
         "today": "",
@@ -521,7 +521,7 @@
         "today": "",
         "thru": "",
         "r1": "67.0",
-        "r2": "45.0",
+        "r2": "48.0",
         "r3": "",
         "r4": "",
         "numeric_score": -4
@@ -845,7 +845,7 @@
         "today": "",
         "thru": "",
         "r1": "75.0",
-        "r2": "69.0",
+        "r2": "73.0",
         "r3": "",
         "r4": "",
         "numeric_score": 4
@@ -863,7 +863,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "13",
+        "pos": "14",
         "player": "Shane Lowry",
         "score": "-3",
         "today": "",
@@ -1125,7 +1125,7 @@
         "today": "",
         "thru": "",
         "r1": "71.0",
-        "r2": "41.0",
+        "r2": "45.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
