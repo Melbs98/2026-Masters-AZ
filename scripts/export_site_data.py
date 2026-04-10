@@ -10,12 +10,6 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 WORKBOOK_PATH = REPO_ROOT / "data" / "2026 Masters Draft & Scoreboard AZ.xlsx"
 OUT_DIR = REPO_ROOT / "docs" / "data"
 
-# 1 = after Day 1
-# 2 = after Day 2
-# 3 = after Day 3
-# 4 = final
-CURRENT_STAGE = 2
-
 ALIASES = {
     "sam stevens": "samuel stevens",
     "nico echavarria": "nicolas echavarria",
@@ -51,14 +45,6 @@ def score_to_number(value):
 
     try:
         return int(text)
-    except ValueError:
-        return None
-
-def round_score_to_number(value):
-    if value is None or value == "":
-        return None
-    try:
-        return int(str(value).strip())
     except ValueError:
         return None
 
@@ -103,38 +89,6 @@ def split_payout(label, winners, total_amount):
         "winners": [{"name": winner, "amount": share} for winner in winners]
     }
 
-def rank_with_ties(items, score_key):
-    valid = [item for item in items if item.get(score_key) is not None]
-    valid.sort(key=lambda x: (x[score_key], x["name"]))
-
-    ranked_groups = []
-    i = 0
-    place = 1
-
-    while i < len(valid):
-        score = valid[i][score_key]
-        tied = [valid[i]]
-        i += 1
-
-        while i < len(valid) and valid[i][score_key] == score:
-            tied.append(valid[i])
-            i += 1
-
-        ranked_groups.append({
-            "place": place,
-            "score": score,
-            "items": tied
-        })
-        place += len(tied)
-
-    return ranked_groups
-
-def get_group_starting_at_place(groups, place):
-    for g in groups:
-        if g["place"] == place:
-            return g
-    return None
-
 def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -169,15 +123,6 @@ def main():
         lookup_name = normalize_player_name(player)
         numeric_score = score_to_number(score)
 
-        r1 = round_score_to_number(row[6])
-        r2 = round_score_to_number(row[7])
-        r3 = round_score_to_number(row[8])
-        r4 = round_score_to_number(row[9])
-
-        day1_total = r1 if r1 is not None else None
-        day2_total = (r1 + r2) if r1 is not None and r2 is not None else None
-        day3_total = (r1 + r2 + r3) if r1 is not None and r2 is not None and r3 is not None else None
-
         entry = {
             "pos": str(pos).strip(),
             "player": str(player).strip(),
@@ -189,9 +134,6 @@ def main():
             "r3": "" if row[8] is None else str(row[8]).strip(),
             "r4": "" if row[9] is None else str(row[9]).strip(),
             "numeric_score": numeric_score,
-            "day1_total": day1_total,
-            "day2_total": day2_total,
-            "day3_total": day3_total,
         }
 
         scores_lookup[lookup_name] = entry
@@ -206,7 +148,6 @@ def main():
             teams_map[team_name].append(player_name)
 
     teams = []
-    final_team_rank_items = []
 
     for team_name, golfers in teams_map.items():
         golfer_details = []
@@ -224,9 +165,6 @@ def main():
                 "r3": "",
                 "r4": "",
                 "numeric_score": None,
-                "day1_total": None,
-                "day2_total": None,
-                "day3_total": None,
             })
 
             golfer_details.append(info)
@@ -245,11 +183,6 @@ def main():
             "roster_loaded": len(golfers),
         })
 
-        final_team_rank_items.append({
-            "name": team_name,
-            "final_score": best_three_total,
-        })
-
     teams_sorted = sorted(
         teams,
         key=lambda t: (99999 if t["best3_total"] is None else t["best3_total"], t["team"])
@@ -257,86 +190,20 @@ def main():
 
     payouts = []
 
-    if CURRENT_STAGE >= 1:
-        day1_players = [s for s in score_rows if s["day1_total"] is not None]
-        if day1_players:
-            best_day1 = min(p["day1_total"] for p in day1_players)
-            winning_players = [p for p in day1_players if p["day1_total"] == best_day1]
+    # Leader after Day 2 - based on current live player leaderboard
+    live_players = [s for s in score_rows if s["numeric_score"] is not None]
+    if live_players:
+        best_live_score = min(p["numeric_score"] for p in live_players)
+        winning_players = [p for p in live_players if p["numeric_score"] == best_live_score]
 
-            winning_teams = []
-            for p in winning_players:
-                lookup_name = normalize_player_name(p["player"])
-                winning_teams.extend(player_to_teams.get(lookup_name, []))
+        winning_teams = []
+        for p in winning_players:
+            lookup_name = normalize_player_name(p["player"])
+            winning_teams.extend(player_to_teams.get(lookup_name, []))
 
-            item = split_payout("Leader after Day 1", winning_teams, 75)
-            if item:
-                payouts.append(item)
-
-    if CURRENT_STAGE >= 2:
-        day2_players = [s for s in score_rows if s["day2_total"] is not None]
-        if day2_players:
-            best_day2 = min(p["day2_total"] for p in day2_players)
-            winning_players = [p for p in day2_players if p["day2_total"] == best_day2]
-
-            winning_teams = []
-            for p in winning_players:
-                lookup_name = normalize_player_name(p["player"])
-                winning_teams.extend(player_to_teams.get(lookup_name, []))
-
-            item = split_payout("Leader after Day 2", winning_teams, 75)
-            if item:
-                payouts.append(item)
-
-    if CURRENT_STAGE >= 3:
-        day3_players = [s for s in score_rows if s["day3_total"] is not None]
-        if day3_players:
-            best_day3 = min(p["day3_total"] for p in day3_players)
-            winning_players = [p for p in day3_players if p["day3_total"] == best_day3]
-
-            winning_teams = []
-            for p in winning_players:
-                lookup_name = normalize_player_name(p["player"])
-                winning_teams.extend(player_to_teams.get(lookup_name, []))
-
-            item = split_payout("Leader after Day 3", winning_teams, 75)
-            if item:
-                payouts.append(item)
-
-    if CURRENT_STAGE >= 4:
-        ranked = rank_with_ties(final_team_rank_items, "final_score")
-
-        first_group = get_group_starting_at_place(ranked, 1)
-        second_group = get_group_starting_at_place(ranked, 2)
-        third_group = get_group_starting_at_place(ranked, 3)
-
-        if first_group:
-            item = split_payout("1st Overall", [i["name"] for i in first_group["items"]], 300)
-            if item:
-                payouts.append(item)
-
-        if second_group:
-            if len(second_group["items"]) > 1:
-                combined = 150 + 75
-                item = split_payout("Tied for 2nd Overall", [i["name"] for i in second_group["items"]], combined)
-                if item:
-                    payouts.append(item)
-            else:
-                item = split_payout("2nd Overall", [i["name"] for i in second_group["items"]], 150)
-                if item:
-                    payouts.append(item)
-
-                if third_group:
-                    item = split_payout("3rd Overall", [i["name"] for i in third_group["items"]], 75)
-                    if item:
-                        payouts.append(item)
-
-        valid_best3 = [t for t in teams if t["best3_total"] is not None]
-        if valid_best3:
-            best_score = min(t["best3_total"] for t in valid_best3)
-            winners = [t["team"] for t in valid_best3 if t["best3_total"] == best_score]
-            item = split_payout("3-Man Team", winners, 250)
-            if item:
-                payouts.append(item)
+        item = split_payout("Leader after Day 2", winning_teams, 75)
+        if item:
+            payouts.append(item)
 
     with open(OUT_DIR / "teams.json", "w", encoding="utf-8") as f:
         json.dump(teams_sorted, f, indent=2, ensure_ascii=False)
@@ -350,7 +217,7 @@ def main():
     with open(OUT_DIR / "meta.json", "w", encoding="utf-8") as f:
         json.dump({"last_updated": datetime.now(timezone.utc).isoformat()}, f, indent=2)
 
-    print("Exported website data with payouts.")
+    print("Exported website data with Day 2 payouts.")
 
 if __name__ == "__main__":
     main()
