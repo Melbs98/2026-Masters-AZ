@@ -15,16 +15,16 @@
         "numeric_score": -6
       },
       {
-        "pos": "17",
+        "pos": "20",
         "player": "Hideki Matsuyama",
-        "score": "-2",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "42.0",
+        "r2": "46.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -2
+        "numeric_score": -1
       },
       {
         "pos": "59",
@@ -87,7 +87,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "24",
+        "pos": "23",
         "player": "Brian Campbell",
         "score": "E",
         "today": "",
@@ -131,7 +131,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "27",
+        "pos": "26",
         "player": "Matt Fitzpatrick",
         "score": "E",
         "today": "",
@@ -319,7 +319,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "18",
+        "pos": "17",
         "player": "Michael Brennan",
         "score": "-1",
         "today": "",
@@ -411,7 +411,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "19",
+        "pos": "18",
         "player": "Dustin Johnson",
         "score": "-1",
         "today": "",
@@ -503,7 +503,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "26",
+        "pos": "25",
         "player": "Jake Knapp",
         "score": "E",
         "today": "",
@@ -711,7 +711,7 @@
     "team": "Ross",
     "golfers": [
       {
-        "pos": "25",
+        "pos": "24",
         "player": "Scottie Scheffler",
         "score": "E",
         "today": "",
@@ -759,7 +759,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "23",
+        "pos": "22",
         "player": "Harris English",
         "score": "E",
         "today": "",
@@ -827,7 +827,7 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "22",
+        "pos": "21",
         "player": "Ludvig Åberg",
         "score": "E",
         "today": "",
@@ -943,7 +943,7 @@
     "team": "Asshole Garrett",
     "golfers": [
       {
-        "pos": "28",
+        "pos": "27",
         "player": "Collin Morikawa",
         "score": "E",
         "today": "",
@@ -1071,16 +1071,16 @@
         "numeric_score": 4
       },
       {
-        "pos": "21",
+        "pos": "28",
         "player": "Russell Henley",
-        "score": "-1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "45.0",
+        "r2": "46.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -1
+        "numeric_score": 0
       },
       {
         "pos": "51",
@@ -1119,7 +1119,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "20",
+        "pos": "19",
         "player": "Nick Taylor",
         "score": "-1",
         "today": "",
@@ -1167,7 +1167,7 @@
         "numeric_score": 15
       }
     ],
-    "best3_total": 1,
+    "best3_total": 2,
     "scores_entered": 9,
     "roster_loaded": 9
   }
