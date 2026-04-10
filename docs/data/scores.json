@@ -25,24 +25,24 @@
   },
   {
     "pos": "3",
-    "player": "Tommy Fleetwood",
+    "player": "Patrick Reed",
     "score": "-6",
     "today": "",
     "thru": "",
-    "r1": "71.0",
-    "r2": "56.0",
+    "r1": "69.0",
+    "r2": "61.0",
     "r3": "",
     "r4": "",
     "numeric_score": -6
   },
   {
     "pos": "4",
-    "player": "Patrick Reed",
+    "player": "Tommy Fleetwood",
     "score": "-6",
     "today": "",
     "thru": "",
-    "r1": "69.0",
-    "r2": "58.0",
+    "r1": "71.0",
+    "r2": "56.0",
     "r3": "",
     "r4": "",
     "numeric_score": -6
@@ -266,14 +266,14 @@
   {
     "pos": "23",
     "player": "Hideki Matsuyama",
-    "score": "-1",
+    "score": "-2",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "51.0",
     "r3": "",
     "r4": "",
-    "numeric_score": -1
+    "numeric_score": -2
   },
   {
     "pos": "24",
