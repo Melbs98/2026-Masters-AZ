@@ -210,7 +210,7 @@
     "today": "",
     "thru": "",
     "r1": "71.0",
-    "r2": "4.0",
+    "r2": "9.0",
     "r3": "",
     "r4": "",
     "numeric_score": -1
@@ -258,7 +258,7 @@
     "today": "",
     "thru": "",
     "r1": "72.0",
-    "r2": "52.0",
+    "r2": "56.0",
     "r3": "",
     "r4": "",
     "numeric_score": 0
@@ -493,24 +493,24 @@
   },
   {
     "pos": "42",
-    "player": "Jacob Bridgeman",
+    "player": "Corey Conners",
     "score": "+2",
     "today": "",
     "thru": "",
-    "r1": "71.0",
-    "r2": "59.0",
+    "r1": "75.0",
+    "r2": "55.0",
     "r3": "",
     "r4": "",
     "numeric_score": 2
   },
   {
     "pos": "43",
-    "player": "Corey Conners",
+    "player": "Jacob Bridgeman",
     "score": "+2",
     "today": "",
     "thru": "",
-    "r1": "75.0",
-    "r2": "51.0",
+    "r1": "71.0",
+    "r2": "59.0",
     "r3": "",
     "r4": "",
     "numeric_score": 2
