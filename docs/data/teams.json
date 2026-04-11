@@ -39,7 +39,7 @@
         "numeric_score": null
       },
       {
-        "pos": "19",
+        "pos": "18",
         "player": "Ben Griffin",
         "score": "-3",
         "today": "",
@@ -75,7 +75,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "15",
+        "pos": "14",
         "player": "Kristoffer Reitan",
         "score": "-4",
         "today": "",
@@ -131,7 +131,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "18",
+        "pos": "17",
         "player": "Matt Fitzpatrick",
         "score": "-3",
         "today": "",
@@ -155,7 +155,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "14",
+        "pos": "13",
         "player": "Jason Day",
         "score": "-4",
         "today": "",
@@ -314,7 +314,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "72.0",
-        "r3": "42.0",
+        "r3": "45.0",
         "r4": "",
         "numeric_score": -2
       },
@@ -387,16 +387,16 @@
         "numeric_score": null
       },
       {
-        "pos": "13",
+        "pos": "19",
         "player": "Chris Gotterup",
-        "score": "-4",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
-        "r3": "15.0",
+        "r3": "20.0",
         "r4": "",
-        "numeric_score": -4
+        "numeric_score": -3
       },
       {
         "pos": "10",
@@ -471,7 +471,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -13,
+    "best3_total": -12,
     "scores_entered": 5,
     "roster_loaded": 9
   },
@@ -955,7 +955,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "17",
+        "pos": "16",
         "player": "Russell Henley",
         "score": "-3",
         "today": "",
@@ -1095,7 +1095,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "16",
+        "pos": "15",
         "player": "Tyrrell Hatton",
         "score": "-4",
         "today": "",
