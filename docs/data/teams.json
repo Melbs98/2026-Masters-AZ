@@ -15,7 +15,7 @@
         "numeric_score": -9
       },
       {
-        "pos": "8",
+        "pos": "9",
         "player": "Patrick Reed",
         "score": "-7",
         "today": "",
@@ -162,7 +162,7 @@
         "thru": "",
         "r1": "69.0",
         "r2": "71.0",
-        "r3": "39.0",
+        "r3": "43.0",
         "r4": "",
         "numeric_score": -5
       },
@@ -363,16 +363,16 @@
     "team": "Klooster",
     "golfers": [
       {
-        "pos": "11",
+        "pos": "8",
         "player": "Justin Rose",
-        "score": "-6",
+        "score": "-7",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "69.0",
-        "r3": "26.0",
+        "r3": "30.0",
         "r4": "",
-        "numeric_score": -6
+        "numeric_score": -7
       },
       {
         "pos": "64",
@@ -471,7 +471,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -17,
+    "best3_total": -18,
     "scores_entered": 6,
     "roster_loaded": 9
   },
@@ -515,7 +515,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "9",
+        "pos": "10",
         "player": "Patrick Cantlay",
         "score": "-6",
         "today": "",
@@ -834,7 +834,7 @@
         "thru": "",
         "r1": "74.0",
         "r2": "69.0",
-        "r3": "",
+        "r3": "64.0",
         "r4": "",
         "numeric_score": -5
       },
@@ -955,7 +955,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "10",
+        "pos": "11",
         "player": "Russell Henley",
         "score": "-6",
         "today": "",
@@ -1010,7 +1010,7 @@
         "thru": "",
         "r1": "71.0",
         "r2": "72.0",
-        "r3": "59.0",
+        "r3": "62.0",
         "r4": "",
         "numeric_score": -3
       },
@@ -1061,14 +1061,14 @@
       {
         "pos": "19",
         "player": "Xander Schauffele",
-        "score": "-3",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "72.0",
         "r3": "54.0",
         "r4": "",
-        "numeric_score": -3
+        "numeric_score": -4
       },
       {
         "pos": "33",
@@ -1167,7 +1167,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -7,
+    "best3_total": -8,
     "scores_entered": 5,
     "roster_loaded": 9
   }
