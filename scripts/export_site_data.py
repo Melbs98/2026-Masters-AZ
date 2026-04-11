@@ -19,7 +19,6 @@ ALIASES = {
 def normalize_player_name(name):
     if name is None:
         return ""
-
     text = str(name).strip()
     text = re.sub(r"\s*\((a|A)\)\s*", "", text)
     text = unicodedata.normalize("NFKD", text)
@@ -46,7 +45,6 @@ def normalize_score_display(pos, score, thru, today):
 def score_to_number(value):
     if value is None or value == "":
         return None
-
     text = str(value).strip().upper()
 
     if text in {"E", "(E)"}:
@@ -98,12 +96,30 @@ def split_payout(label, winners, total_amount):
         "winners": [{"name": winner, "amount": share} for winner in winners]
     }
 
+def get_scores_header_map(scores_ws):
+    header_row = [cell.value for cell in scores_ws[1]]
+
+    normalized = {}
+    for idx, value in enumerate(header_row):
+        key = "" if value is None else str(value).strip().upper()
+        if key:
+            normalized[key] = idx
+
+    required = ["POS", "PLAYER", "SCORE", "TODAY", "THRU", "R1", "R2", "R3", "R4"]
+    missing = [k for k in required if k not in normalized]
+    if missing:
+        raise RuntimeError(f"Missing Scores headers: {missing}")
+
+    return normalized
+
 def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
     wb = load_workbook(WORKBOOK_PATH, data_only=True)
     scores_ws = wb["Scores"]
     draft_ws = wb["Draft_Import"]
+
+    col = get_scores_header_map(scores_ws)
 
     scores_lookup = {}
     score_rows = []
@@ -119,12 +135,12 @@ def main():
         player_name = normalize_player_name(player)
         player_to_teams[player_name].add(team_name)
 
-    for row in scores_ws.iter_rows(min_row=2, max_row=scores_ws.max_row, min_col=1, max_col=11, values_only=True):
-        pos = row[1]
-        player = row[3]
-        score = row[4]
-        today = row[5]
-        thru = row[6]
+    for row in scores_ws.iter_rows(min_row=2, max_row=scores_ws.max_row, values_only=True):
+        pos = row[col["POS"]]
+        player = row[col["PLAYER"]]
+        score = row[col["SCORE"]]
+        today = row[col["TODAY"]]
+        thru = row[col["THRU"]]
 
         if not is_real_score_row(pos, player, score, thru):
             continue
@@ -139,10 +155,10 @@ def main():
             "score": display_score,
             "today": "" if today is None else str(today).strip(),
             "thru": "" if thru is None else str(thru).strip(),
-            "r1": "" if row[7] is None else str(row[7]).strip(),
-            "r2": "" if row[8] is None else str(row[8]).strip(),
-            "r3": "" if row[9] is None else str(row[9]).strip(),
-            "r4": "" if row[10] is None else str(row[10]).strip(),
+            "r1": "" if row[col["R1"]] is None else str(row[col["R1"]]).strip(),
+            "r2": "" if row[col["R2"]] is None else str(row[col["R2"]]).strip(),
+            "r3": "" if row[col["R3"]] is None else str(row[col["R3"]]).strip(),
+            "r4": "" if row[col["R4"]] is None else str(row[col["R4"]]).strip(),
             "numeric_score": numeric_score,
         }
 
@@ -224,7 +240,7 @@ def main():
     with open(OUT_DIR / "meta.json", "w", encoding="utf-8") as f:
         json.dump({"last_updated": datetime.now(timezone.utc).isoformat()}, f, indent=2)
 
-    print("Exported website data with Day 2 payouts.")
+    print(f"Exported website data for {len(score_rows)} golfers.")
     
 if __name__ == "__main__":
     main()
