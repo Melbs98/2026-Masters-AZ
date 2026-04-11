@@ -15,7 +15,7 @@
         "numeric_score": -12
       },
       {
-        "pos": "18",
+        "pos": "19",
         "player": "Hideki Matsuyama",
         "score": "-2",
         "today": "",
@@ -283,7 +283,7 @@
         "numeric_score": 7
       },
       {
-        "pos": "20",
+        "pos": "21",
         "player": "Sepp Straka",
         "score": "-1",
         "today": "",
@@ -307,7 +307,7 @@
         "numeric_score": null
       },
       {
-        "pos": "25",
+        "pos": "16",
         "player": "Ryan Gerard",
         "score": "-1",
         "today": "",
@@ -387,7 +387,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "16",
+        "pos": "17",
         "player": "Jake Knapp",
         "score": "-2",
         "today": "",
@@ -595,7 +595,7 @@
     "team": "Coulter",
     "golfers": [
       {
-        "pos": "19",
+        "pos": "20",
         "player": "Xander Schauffele",
         "score": "-2",
         "today": "",
@@ -863,7 +863,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Patrick Cantlay",
         "score": "-1",
         "today": "",
@@ -875,7 +875,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Harris English",
         "score": "-1",
         "today": "",
@@ -967,7 +967,7 @@
         "numeric_score": 11
       },
       {
-        "pos": "17",
+        "pos": "18",
         "player": "Max Homa",
         "score": "-2",
         "today": "",
@@ -979,7 +979,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "21",
+        "pos": "22",
         "player": "Sungjae Im",
         "score": "-1",
         "today": "",
@@ -1071,7 +1071,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "23",
+        "pos": "24",
         "player": "Russell Henley",
         "score": "-1",
         "today": "",
