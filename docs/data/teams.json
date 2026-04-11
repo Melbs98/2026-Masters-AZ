@@ -15,7 +15,7 @@
         "numeric_score": -12
       },
       {
-        "pos": "9",
+        "pos": "8",
         "player": "Hideki Matsuyama",
         "score": "-4",
         "today": "",
@@ -119,7 +119,7 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "6",
+        "pos": "5",
         "player": "Tommy Fleetwood",
         "score": "-5",
         "today": "",
@@ -271,14 +271,14 @@
         "numeric_score": null
       },
       {
-        "pos": "5",
+        "pos": "10",
         "player": "Chris Gotterup",
         "score": "-5",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
-        "r3": "11.0",
+        "r3": "15.0",
         "r4": "",
         "numeric_score": -5
       },
@@ -595,7 +595,7 @@
     "team": "Klooster",
     "golfers": [
       {
-        "pos": "7",
+        "pos": "6",
         "player": "Justin Rose",
         "score": "-5",
         "today": "",
@@ -735,7 +735,7 @@
         "numeric_score": null
       },
       {
-        "pos": "10",
+        "pos": "9",
         "player": "Max Homa",
         "score": "-4",
         "today": "",
@@ -1095,7 +1095,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "8",
+        "pos": "7",
         "player": "Shane Lowry",
         "score": "-5",
         "today": "",
