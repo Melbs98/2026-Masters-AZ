@@ -39,7 +39,7 @@
         "numeric_score": null
       },
       {
-        "pos": "26",
+        "pos": "27",
         "player": "Sepp Straka",
         "score": "-2",
         "today": "",
@@ -131,7 +131,7 @@
         "numeric_score": -12
       },
       {
-        "pos": "21",
+        "pos": "22",
         "player": "Hideki Matsuyama",
         "score": "-3",
         "today": "",
@@ -191,7 +191,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "23",
+        "pos": "24",
         "player": "Kristoffer Reitan",
         "score": "-3",
         "today": "",
@@ -203,16 +203,16 @@
         "numeric_score": -3
       },
       {
-        "pos": "28",
+        "pos": "19",
         "player": "Brian Campbell",
-        "score": "-2",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "73.0",
-        "r3": "54.0",
+        "r3": "58.0",
         "r4": "",
-        "numeric_score": -2
+        "numeric_score": -3
       },
       {
         "pos": "88",
@@ -435,7 +435,7 @@
         "numeric_score": -6
       },
       {
-        "pos": "20",
+        "pos": "21",
         "player": "Michael Brennan",
         "score": "-3",
         "today": "",
@@ -503,7 +503,7 @@
         "numeric_score": null
       },
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Chris Gotterup",
         "score": "-3",
         "today": "",
@@ -619,7 +619,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Jacob Bridgeman",
         "score": "-2",
         "today": "",
@@ -754,7 +754,7 @@
         "thru": "",
         "r1": "67.0",
         "r2": "71.0",
-        "r3": "14.0",
+        "r3": "18.0",
         "r4": "",
         "numeric_score": -8
       },
@@ -827,7 +827,7 @@
     "team": "Asshole Garrett",
     "golfers": [
       {
-        "pos": "19",
+        "pos": "20",
         "player": "Collin Morikawa",
         "score": "-3",
         "today": "",
@@ -863,7 +863,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Sungjae Im",
         "score": "-2",
         "today": "",
@@ -1066,7 +1066,7 @@
         "thru": "",
         "r1": "70.0",
         "r2": "72.0",
-        "r3": "44.0",
+        "r3": "47.0",
         "r4": "",
         "numeric_score": -2
       },
@@ -1095,7 +1095,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Tyrrell Hatton",
         "score": "-3",
         "today": "",
