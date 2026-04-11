@@ -15,16 +15,16 @@
         "numeric_score": -11
       },
       {
-        "pos": "9",
+        "pos": "11",
         "player": "Patrick Reed",
-        "score": "-7",
+        "score": "-6",
         "today": "",
         "thru": "",
         "r1": "69.0",
         "r2": "69.0",
-        "r3": "67.0",
+        "r3": "72.0",
         "r4": "",
-        "numeric_score": -7
+        "numeric_score": -6
       },
       {
         "pos": "68",
@@ -111,7 +111,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -22,
+    "best3_total": -21,
     "scores_entered": 4,
     "roster_loaded": 9
   },
@@ -515,7 +515,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "10",
+        "pos": "9",
         "player": "Patrick Cantlay",
         "score": "-6",
         "today": "",
@@ -1071,7 +1071,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "11",
+        "pos": "10",
         "player": "Russell Henley",
         "score": "-6",
         "today": "",

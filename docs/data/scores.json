@@ -97,18 +97,6 @@
   },
   {
     "pos": "9",
-    "player": "Patrick Reed",
-    "score": "-7",
-    "today": "",
-    "thru": "",
-    "r1": "69.0",
-    "r2": "69.0",
-    "r3": "67.0",
-    "r4": "",
-    "numeric_score": -7
-  },
-  {
-    "pos": "10",
     "player": "Patrick Cantlay",
     "score": "-6",
     "today": "",
@@ -120,7 +108,7 @@
     "numeric_score": -6
   },
   {
-    "pos": "11",
+    "pos": "10",
     "player": "Russell Henley",
     "score": "-6",
     "today": "",
@@ -128,6 +116,18 @@
     "r1": "73.0",
     "r2": "71.0",
     "r3": "66.0",
+    "r4": "",
+    "numeric_score": -6
+  },
+  {
+    "pos": "11",
+    "player": "Patrick Reed",
+    "score": "-6",
+    "today": "",
+    "thru": "",
+    "r1": "69.0",
+    "r2": "69.0",
+    "r3": "72.0",
     "r4": "",
     "numeric_score": -6
   },
