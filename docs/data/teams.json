@@ -191,7 +191,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Kristoffer Reitan",
         "score": "-3",
         "today": "",
@@ -203,7 +203,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "21",
+        "pos": "22",
         "player": "Brian Campbell",
         "score": "-3",
         "today": "",
@@ -235,7 +235,7 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "19",
+        "pos": "20",
         "player": "Tommy Fleetwood",
         "score": "-4",
         "today": "",
@@ -247,7 +247,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Matt Fitzpatrick",
         "score": "-3",
         "today": "",
@@ -551,7 +551,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "23",
+        "pos": "24",
         "player": "Michael Brennan",
         "score": "-3",
         "today": "",
@@ -619,7 +619,7 @@
         "numeric_score": null
       },
       {
-        "pos": "26",
+        "pos": "27",
         "player": "Chris Gotterup",
         "score": "-3",
         "today": "",
@@ -711,7 +711,7 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "20",
+        "pos": "21",
         "player": "Ludvig Åberg",
         "score": "-3",
         "today": "",
@@ -851,7 +851,7 @@
         "numeric_score": null
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Max Homa",
         "score": "-3",
         "today": "",
@@ -940,6 +940,122 @@
     "roster_loaded": 9
   },
   {
+    "team": "Coulter",
+    "golfers": [
+      {
+        "pos": "17",
+        "player": "Xander Schauffele",
+        "score": "-4",
+        "today": "",
+        "thru": "",
+        "r1": "70.0",
+        "r2": "72.0",
+        "r3": "70.0",
+        "r4": "",
+        "numeric_score": -4
+      },
+      {
+        "pos": "34",
+        "player": "Jordan Spieth",
+        "score": "-1",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "73.0",
+        "r3": "70.0",
+        "r4": "",
+        "numeric_score": -1
+      },
+      {
+        "pos": "42",
+        "player": "Justin Thomas",
+        "score": "+1",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "74.0",
+        "r3": "71.0",
+        "r4": "",
+        "numeric_score": 1
+      },
+      {
+        "pos": "19",
+        "player": "Tyrrell Hatton",
+        "score": "-4",
+        "today": "",
+        "thru": "",
+        "r1": "74.0",
+        "r2": "66.0",
+        "r3": "72.0",
+        "r4": "",
+        "numeric_score": -4
+      },
+      {
+        "pos": "46",
+        "player": "Dustin Johnson",
+        "score": "+3",
+        "today": "",
+        "thru": "",
+        "r1": "73.0",
+        "r2": "71.0",
+        "r3": "75.0",
+        "r4": "",
+        "numeric_score": 3
+      },
+      {
+        "pos": "85",
+        "player": "Nico Echavarria",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "79.0",
+        "r2": "78.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "66",
+        "player": "Andrew Novak",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "75.0",
+        "r2": "76.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "81",
+        "player": "Sami Välimäki",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "80.0",
+        "r2": "75.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "76",
+        "player": "José María Olazábal",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "74.0",
+        "r2": "79.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      }
+    ],
+    "best3_total": -9,
+    "scores_entered": 5,
+    "roster_loaded": 9
+  },
+  {
     "team": "Bryan",
     "golfers": [
       {
@@ -1003,7 +1119,7 @@
         "numeric_score": null
       },
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Nick Taylor",
         "score": "-3",
         "today": "",
@@ -1046,122 +1162,6 @@
         "thru": "",
         "r1": "84.0",
         "r2": "75.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      }
-    ],
-    "best3_total": -8,
-    "scores_entered": 5,
-    "roster_loaded": 9
-  },
-  {
-    "team": "Coulter",
-    "golfers": [
-      {
-        "pos": "17",
-        "player": "Xander Schauffele",
-        "score": "-4",
-        "today": "",
-        "thru": "",
-        "r1": "70.0",
-        "r2": "72.0",
-        "r3": "70.0",
-        "r4": "",
-        "numeric_score": -4
-      },
-      {
-        "pos": "34",
-        "player": "Jordan Spieth",
-        "score": "-1",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "73.0",
-        "r3": "70.0",
-        "r4": "",
-        "numeric_score": -1
-      },
-      {
-        "pos": "42",
-        "player": "Justin Thomas",
-        "score": "+1",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "74.0",
-        "r3": "71.0",
-        "r4": "",
-        "numeric_score": 1
-      },
-      {
-        "pos": "28",
-        "player": "Tyrrell Hatton",
-        "score": "-3",
-        "today": "",
-        "thru": "",
-        "r1": "74.0",
-        "r2": "66.0",
-        "r3": "69.0",
-        "r4": "",
-        "numeric_score": -3
-      },
-      {
-        "pos": "46",
-        "player": "Dustin Johnson",
-        "score": "+3",
-        "today": "",
-        "thru": "",
-        "r1": "73.0",
-        "r2": "71.0",
-        "r3": "75.0",
-        "r4": "",
-        "numeric_score": 3
-      },
-      {
-        "pos": "85",
-        "player": "Nico Echavarria",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "79.0",
-        "r2": "78.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "66",
-        "player": "Andrew Novak",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "75.0",
-        "r2": "76.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "81",
-        "player": "Sami Välimäki",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "80.0",
-        "r2": "75.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "76",
-        "player": "José María Olazábal",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "74.0",
-        "r2": "79.0",
         "r3": "0.0",
         "r4": "",
         "numeric_score": null
