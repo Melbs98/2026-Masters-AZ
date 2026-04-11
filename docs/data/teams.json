@@ -3,19 +3,19 @@
     "team": "Adam & Kevin",
     "golfers": [
       {
-        "pos": "5",
+        "pos": "2",
         "player": "Cameron Young",
-        "score": "-7",
+        "score": "-8",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "67.0",
         "r3": "28.0",
         "r4": "",
-        "numeric_score": -7
+        "numeric_score": -8
       },
       {
-        "pos": "3",
+        "pos": "4",
         "player": "Patrick Reed",
         "score": "-8",
         "today": "",
@@ -111,7 +111,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -20,
+    "best3_total": -21,
     "scores_entered": 4,
     "roster_loaded": 9
   },
@@ -210,7 +210,7 @@
         "thru": "",
         "r1": "71.0",
         "r2": "73.0",
-        "r3": "50.0",
+        "r3": "54.0",
         "r4": "",
         "numeric_score": -2
       },
@@ -515,7 +515,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "4",
+        "pos": "5",
         "player": "Sam Burns",
         "score": "-8",
         "today": "",
@@ -747,7 +747,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "2",
+        "pos": "3",
         "player": "Shane Lowry",
         "score": "-8",
         "today": "",
