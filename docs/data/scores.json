@@ -103,7 +103,7 @@
     "thru": "",
     "r1": "72.0",
     "r2": "70.0",
-    "r3": "14.0",
+    "r3": "18.0",
     "r4": "",
     "numeric_score": -4
   },
@@ -145,6 +145,18 @@
   },
   {
     "pos": "13",
+    "player": "Tyrrell Hatton",
+    "score": "-4",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "66.0",
+    "r3": "4.0",
+    "r4": "",
+    "numeric_score": -4
+  },
+  {
+    "pos": "14",
     "player": "Kristoffer Reitan",
     "score": "-4",
     "today": "",
@@ -156,7 +168,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "14",
+    "pos": "15",
     "player": "Haotong Li",
     "score": "-4",
     "today": "",
@@ -164,18 +176,6 @@
     "r1": "71.0",
     "r2": "69.0",
     "r3": "4.0",
-    "r4": "",
-    "numeric_score": -4
-  },
-  {
-    "pos": "15",
-    "player": "Tyrrell Hatton",
-    "score": "-4",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "66.0",
-    "r3": "0.0",
     "r4": "",
     "numeric_score": -4
   },
