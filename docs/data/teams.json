@@ -10,7 +10,7 @@
         "thru": "",
         "r1": "73.0",
         "r2": "67.0",
-        "r3": "35.0",
+        "r3": "39.0",
         "r4": "",
         "numeric_score": -9
       },
@@ -63,7 +63,7 @@
         "numeric_score": null
       },
       {
-        "pos": "16",
+        "pos": "17",
         "player": "Ryan Gerard",
         "score": "-4",
         "today": "",
@@ -119,7 +119,7 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "15",
+        "pos": "16",
         "player": "Tommy Fleetwood",
         "score": "-5",
         "today": "",
@@ -155,7 +155,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "14",
+        "pos": "15",
         "player": "Jason Day",
         "score": "-5",
         "today": "",
@@ -435,7 +435,7 @@
         "numeric_score": -7
       },
       {
-        "pos": "17",
+        "pos": "18",
         "player": "Michael Brennan",
         "score": "-4",
         "today": "",
@@ -851,16 +851,16 @@
         "numeric_score": null
       },
       {
-        "pos": "18",
+        "pos": "14",
         "player": "Max Homa",
-        "score": "-4",
+        "score": "-5",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "70.0",
-        "r3": "45.0",
+        "r3": "49.0",
         "r4": "",
-        "numeric_score": -4
+        "numeric_score": -5
       },
       {
         "pos": "28",
@@ -935,7 +935,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -11,
+    "best3_total": -12,
     "scores_entered": 5,
     "roster_loaded": 9
   },
