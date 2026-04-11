@@ -119,7 +119,7 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "20",
+        "pos": "19",
         "player": "Tommy Fleetwood",
         "score": "-4",
         "today": "",
@@ -131,7 +131,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "23",
+        "pos": "22",
         "player": "Matt Fitzpatrick",
         "score": "-3",
         "today": "",
@@ -249,14 +249,14 @@
       {
         "pos": "2",
         "player": "Rory McIlroy",
-        "score": "-11",
+        "score": "-10",
         "today": "",
         "thru": "",
         "r1": "67.0",
         "r2": "65.0",
-        "r3": "45.0",
+        "r3": "49.0",
         "r4": "",
-        "numeric_score": -11
+        "numeric_score": -10
       },
       {
         "pos": "30",
@@ -331,7 +331,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "22",
+        "pos": "21",
         "player": "Brian Campbell",
         "score": "-3",
         "today": "",
@@ -355,7 +355,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -19,
+    "best3_total": -18,
     "scores_entered": 7,
     "roster_loaded": 9
   },
@@ -551,7 +551,7 @@
         "numeric_score": -6
       },
       {
-        "pos": "24",
+        "pos": "23",
         "player": "Michael Brennan",
         "score": "-3",
         "today": "",
@@ -711,7 +711,7 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "21",
+        "pos": "20",
         "player": "Ludvig Åberg",
         "score": "-3",
         "today": "",
@@ -851,16 +851,16 @@
         "numeric_score": null
       },
       {
-        "pos": "18",
+        "pos": "25",
         "player": "Max Homa",
-        "score": "-4",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "70.0",
-        "r3": "66.0",
+        "r3": "71.0",
         "r4": "",
-        "numeric_score": -4
+        "numeric_score": -3
       },
       {
         "pos": "27",
@@ -935,7 +935,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -11,
+    "best3_total": -10,
     "scores_entered": 5,
     "roster_loaded": 9
   },
@@ -979,7 +979,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "19",
+        "pos": "18",
         "player": "Tyrrell Hatton",
         "score": "-4",
         "today": "",
@@ -1119,7 +1119,7 @@
         "numeric_score": null
       },
       {
-        "pos": "25",
+        "pos": "24",
         "player": "Nick Taylor",
         "score": "-3",
         "today": "",
