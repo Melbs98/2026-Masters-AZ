@@ -206,14 +206,14 @@
   {
     "pos": "18",
     "player": "Brian Campbell",
-    "score": "-1",
+    "score": "-2",
     "today": "",
     "thru": "",
     "r1": "71.0",
     "r2": "73.0",
     "r3": "14.0",
     "r4": "",
-    "numeric_score": -1
+    "numeric_score": -2
   },
   {
     "pos": "19",
@@ -253,6 +253,18 @@
   },
   {
     "pos": "22",
+    "player": "Jake Knapp",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "69.0",
+    "r3": "4.0",
+    "r4": "",
+    "numeric_score": -2
+  },
+  {
+    "pos": "23",
     "player": "Hideki Matsuyama",
     "score": "-2",
     "today": "",
@@ -264,37 +276,25 @@
     "numeric_score": -2
   },
   {
-    "pos": "23",
-    "player": "Jake Knapp",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "69.0",
-    "r3": "0.0",
-    "r4": "",
-    "numeric_score": -2
-  },
-  {
     "pos": "24",
-    "player": "Max Homa",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "70.0",
-    "r3": "0.0",
-    "r4": "",
-    "numeric_score": -2
-  },
-  {
-    "pos": "25",
     "player": "Xander Schauffele",
     "score": "-2",
     "today": "",
     "thru": "",
     "r1": "70.0",
     "r2": "72.0",
+    "r3": "4.0",
+    "r4": "",
+    "numeric_score": -2
+  },
+  {
+    "pos": "25",
+    "player": "Max Homa",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "70.0",
     "r3": "0.0",
     "r4": "",
     "numeric_score": -2
@@ -403,7 +403,7 @@
     "thru": "",
     "r1": "79.0",
     "r2": "69.0",
-    "r3": "52.0",
+    "r3": "57.0",
     "r4": "",
     "numeric_score": 0
   },
@@ -463,7 +463,7 @@
     "thru": "",
     "r1": "72.0",
     "r2": "74.0",
-    "r3": "39.0",
+    "r3": "43.0",
     "r4": "",
     "numeric_score": 1
   },
@@ -571,7 +571,7 @@
     "thru": "",
     "r1": "75.0",
     "r2": "73.0",
-    "r3": "60.0",
+    "r3": "63.0",
     "r4": "",
     "numeric_score": 3
   },
