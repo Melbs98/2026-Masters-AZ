@@ -61,18 +61,6 @@
   },
   {
     "pos": "6",
-    "player": "Haotong Li",
-    "score": "-6",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "69.0",
-    "r3": "14.0",
-    "r4": "",
-    "numeric_score": -6
-  },
-  {
-    "pos": "7",
     "player": "Wyndham Clark",
     "score": "-6",
     "today": "",
@@ -80,6 +68,18 @@
     "r1": "72.0",
     "r2": "68.0",
     "r3": "11.0",
+    "r4": "",
+    "numeric_score": -6
+  },
+  {
+    "pos": "7",
+    "player": "Haotong Li",
+    "score": "-6",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "69.0",
+    "r3": "14.0",
     "r4": "",
     "numeric_score": -6
   },
@@ -301,18 +301,6 @@
   },
   {
     "pos": "26",
-    "player": "Sepp Straka",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "72.0",
-    "r3": "61.0",
-    "r4": "",
-    "numeric_score": -2
-  },
-  {
-    "pos": "27",
     "player": "Ludvig Åberg",
     "score": "-2",
     "today": "",
@@ -324,7 +312,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "28",
+    "pos": "27",
     "player": "Brian Campbell",
     "score": "-2",
     "today": "",
@@ -336,7 +324,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "29",
+    "pos": "28",
     "player": "Michael Brennan",
     "score": "-2",
     "today": "",
@@ -348,7 +336,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "30",
+    "pos": "29",
     "player": "Brooks Koepka",
     "score": "-2",
     "today": "",
@@ -360,7 +348,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "31",
+    "pos": "30",
     "player": "Brian Harman",
     "score": "-1",
     "today": "",
@@ -368,6 +356,18 @@
     "r1": "79.0",
     "r2": "69.0",
     "r3": "67.0",
+    "r4": "",
+    "numeric_score": -1
+  },
+  {
+    "pos": "31",
+    "player": "Sepp Straka",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "72.0",
+    "r3": "66.0",
     "r4": "",
     "numeric_score": -1
   },
