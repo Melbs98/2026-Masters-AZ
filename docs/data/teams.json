@@ -227,7 +227,7 @@
         "numeric_score": 9
       },
       {
-        "pos": "46",
+        "pos": "47",
         "player": "Sergio García",
         "score": "+3",
         "today": "",
@@ -771,7 +771,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "47",
+        "pos": "48",
         "player": "Alex Noren",
         "score": "+4",
         "today": "",
@@ -1003,7 +1003,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "48",
+        "pos": "49",
         "player": "Brian Harman",
         "score": "+4",
         "today": "",
@@ -1059,7 +1059,7 @@
     "team": "Bryan",
     "golfers": [
       {
-        "pos": "49",
+        "pos": "45",
         "player": "Jon Rahm",
         "score": "+4",
         "today": "",
@@ -1095,7 +1095,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "45",
+        "pos": "46",
         "player": "Maverick McNealy",
         "score": "+3",
         "today": "",
