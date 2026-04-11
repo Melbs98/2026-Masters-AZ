@@ -39,16 +39,16 @@
         "numeric_score": null
       },
       {
-        "pos": "31",
+        "pos": "25",
         "player": "Sepp Straka",
-        "score": "-1",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "72.0",
-        "r3": "66.0",
+        "r3": "69.0",
         "r4": "",
-        "numeric_score": -1
+        "numeric_score": -2
       },
       {
         "pos": "56",
@@ -63,7 +63,7 @@
         "numeric_score": null
       },
       {
-        "pos": "13",
+        "pos": "14",
         "player": "Ryan Gerard",
         "score": "-4",
         "today": "",
@@ -131,7 +131,7 @@
         "numeric_score": -11
       },
       {
-        "pos": "15",
+        "pos": "16",
         "player": "Hideki Matsuyama",
         "score": "-4",
         "today": "",
@@ -155,7 +155,7 @@
         "numeric_score": null
       },
       {
-        "pos": "17",
+        "pos": "18",
         "player": "Ben Griffin",
         "score": "-4",
         "today": "",
@@ -191,7 +191,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "29",
+        "pos": "30",
         "player": "Kristoffer Reitan",
         "score": "-2",
         "today": "",
@@ -203,7 +203,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Brian Campbell",
         "score": "-2",
         "today": "",
@@ -247,7 +247,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "14",
+        "pos": "15",
         "player": "Matt Fitzpatrick",
         "score": "-4",
         "today": "",
@@ -271,14 +271,14 @@
         "numeric_score": 1
       },
       {
-        "pos": "18",
+        "pos": "19",
         "player": "Jason Day",
         "score": "-4",
         "today": "",
         "thru": "",
         "r1": "69.0",
         "r2": "71.0",
-        "r3": "23.0",
+        "r3": "27.0",
         "r4": "",
         "numeric_score": -4
       },
@@ -314,7 +314,7 @@
         "thru": "",
         "r1": "71.0",
         "r2": "69.0",
-        "r3": "17.0",
+        "r3": "20.0",
         "r4": "",
         "numeric_score": -7
       },
@@ -491,7 +491,7 @@
         "numeric_score": null
       },
       {
-        "pos": "28",
+        "pos": "29",
         "player": "Brooks Koepka",
         "score": "-2",
         "today": "",
@@ -503,7 +503,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "16",
+        "pos": "17",
         "player": "Jake Knapp",
         "score": "-4",
         "today": "",
@@ -723,7 +723,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Jordan Spieth",
         "score": "-2",
         "today": "",
@@ -747,7 +747,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "19",
+        "pos": "20",
         "player": "Tyrrell Hatton",
         "score": "-4",
         "today": "",
@@ -863,7 +863,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "26",
+        "pos": "27",
         "player": "Sungjae Im",
         "score": "-2",
         "today": "",
@@ -887,7 +887,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "30",
+        "pos": "31",
         "player": "Brian Harman",
         "score": "-1",
         "today": "",
@@ -1071,16 +1071,16 @@
         "numeric_score": 5
       },
       {
-        "pos": "20",
+        "pos": "13",
         "player": "Russell Henley",
-        "score": "-3",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "71.0",
-        "r3": "53.0",
+        "r3": "57.0",
         "r4": "",
-        "numeric_score": -3
+        "numeric_score": -4
       },
       {
         "pos": "45",
@@ -1167,7 +1167,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -5,
+    "best3_total": -6,
     "scores_entered": 5,
     "roster_loaded": 9
   }
