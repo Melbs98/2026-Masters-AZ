@@ -109,6 +109,18 @@
   },
   {
     "pos": "10",
+    "player": "Max Homa",
+    "score": "-5",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "70.0",
+    "r3": "29.0",
+    "r4": "",
+    "numeric_score": -5
+  },
+  {
+    "pos": "11",
     "player": "Justin Rose",
     "score": "-5",
     "today": "",
@@ -120,7 +132,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "11",
+    "pos": "12",
     "player": "Patrick Cantlay",
     "score": "-4",
     "today": "",
@@ -132,7 +144,19 @@
     "numeric_score": -4
   },
   {
-    "pos": "12",
+    "pos": "13",
+    "player": "Ryan Gerard",
+    "score": "-4",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "72.0",
+    "r3": "52.0",
+    "r4": "",
+    "numeric_score": -4
+  },
+  {
+    "pos": "14",
     "player": "Matt Fitzpatrick",
     "score": "-4",
     "today": "",
@@ -144,7 +168,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "13",
+    "pos": "15",
     "player": "Hideki Matsuyama",
     "score": "-4",
     "today": "",
@@ -156,7 +180,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "14",
+    "pos": "16",
     "player": "Jake Knapp",
     "score": "-4",
     "today": "",
@@ -168,7 +192,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "15",
+    "pos": "17",
     "player": "Ben Griffin",
     "score": "-4",
     "today": "",
@@ -180,19 +204,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "16",
-    "player": "Max Homa",
-    "score": "-4",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "70.0",
-    "r3": "25.0",
-    "r4": "",
-    "numeric_score": -4
-  },
-  {
-    "pos": "17",
+    "pos": "18",
     "player": "Jason Day",
     "score": "-4",
     "today": "",
@@ -204,7 +216,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "18",
+    "pos": "19",
     "player": "Tyrrell Hatton",
     "score": "-4",
     "today": "",
@@ -216,7 +228,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "19",
+    "pos": "20",
     "player": "Russell Henley",
     "score": "-3",
     "today": "",
@@ -224,18 +236,6 @@
     "r1": "73.0",
     "r2": "71.0",
     "r3": "53.0",
-    "r4": "",
-    "numeric_score": -3
-  },
-  {
-    "pos": "20",
-    "player": "Ryan Gerard",
-    "score": "-3",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "72.0",
-    "r3": "49.0",
     "r4": "",
     "numeric_score": -3
   },
@@ -259,7 +259,7 @@
     "thru": "",
     "r1": "70.0",
     "r2": "72.0",
-    "r3": "31.0",
+    "r3": "35.0",
     "r4": "",
     "numeric_score": -3
   },
@@ -403,7 +403,7 @@
     "thru": "",
     "r1": "73.0",
     "r2": "71.0",
-    "r3": "51.0",
+    "r3": "55.0",
     "r4": "",
     "numeric_score": -1
   },
