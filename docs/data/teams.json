@@ -191,7 +191,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "30",
+        "pos": "29",
         "player": "Kristoffer Reitan",
         "score": "-2",
         "today": "",
@@ -203,7 +203,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "28",
+        "pos": "27",
         "player": "Brian Campbell",
         "score": "-2",
         "today": "",
@@ -491,14 +491,14 @@
         "numeric_score": null
       },
       {
-        "pos": "29",
+        "pos": "28",
         "player": "Brooks Koepka",
         "score": "-2",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
-        "r3": "28.0",
+        "r3": "33.0",
         "r4": "",
         "numeric_score": -2
       },
@@ -626,7 +626,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
-        "r3": "27.0",
+        "r3": "32.0",
         "r4": "",
         "numeric_score": -3
       },
@@ -708,6 +708,122 @@
     "roster_loaded": 9
   },
   {
+    "team": "Asshole Garrett",
+    "golfers": [
+      {
+        "pos": "35",
+        "player": "Collin Morikawa",
+        "score": "-1",
+        "today": "",
+        "thru": "",
+        "r1": "74.0",
+        "r2": "69.0",
+        "r3": "47.0",
+        "r4": "",
+        "numeric_score": -1
+      },
+      {
+        "pos": "82",
+        "player": "Min Woo Lee",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "78.0",
+        "r2": "77.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "11",
+        "player": "Max Homa",
+        "score": "-5",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "70.0",
+        "r3": "29.0",
+        "r4": "",
+        "numeric_score": -5
+      },
+      {
+        "pos": "26",
+        "player": "Sungjae Im",
+        "score": "-2",
+        "today": "",
+        "thru": "",
+        "r1": "76.0",
+        "r2": "69.0",
+        "r3": "61.0",
+        "r4": "",
+        "numeric_score": -2
+      },
+      {
+        "pos": "48",
+        "player": "Rasmus Højgaard",
+        "score": "+5",
+        "today": "",
+        "thru": "",
+        "r1": "78.0",
+        "r2": "70.0",
+        "r3": "73.0",
+        "r4": "",
+        "numeric_score": 5
+      },
+      {
+        "pos": "30",
+        "player": "Brian Harman",
+        "score": "-1",
+        "today": "",
+        "thru": "",
+        "r1": "79.0",
+        "r2": "69.0",
+        "r3": "67.0",
+        "r4": "",
+        "numeric_score": -1
+      },
+      {
+        "pos": "62",
+        "player": "Zach Johnson",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "75.0",
+        "r2": "75.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "58",
+        "player": "Bubba Watson",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "76.0",
+        "r2": "73.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "90",
+        "player": "Ángel Cabrera",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "79.0",
+        "r2": "81.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      }
+    ],
+    "best3_total": -8,
+    "scores_entered": 5,
+    "roster_loaded": 9
+  },
+  {
     "team": "Coulter",
     "golfers": [
       {
@@ -723,16 +839,16 @@
         "numeric_score": -3
       },
       {
-        "pos": "26",
+        "pos": "31",
         "player": "Jordan Spieth",
-        "score": "-2",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "73.0",
-        "r3": "65.0",
+        "r3": "70.0",
         "r4": "",
-        "numeric_score": -2
+        "numeric_score": -1
       },
       {
         "pos": "42",
@@ -766,7 +882,7 @@
         "thru": "",
         "r1": "73.0",
         "r2": "71.0",
-        "r3": "58.0",
+        "r3": "63.0",
         "r4": "",
         "numeric_score": 2
       },
@@ -814,122 +930,6 @@
         "thru": "",
         "r1": "74.0",
         "r2": "79.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      }
-    ],
-    "best3_total": -9,
-    "scores_entered": 5,
-    "roster_loaded": 9
-  },
-  {
-    "team": "Asshole Garrett",
-    "golfers": [
-      {
-        "pos": "35",
-        "player": "Collin Morikawa",
-        "score": "-1",
-        "today": "",
-        "thru": "",
-        "r1": "74.0",
-        "r2": "69.0",
-        "r3": "47.0",
-        "r4": "",
-        "numeric_score": -1
-      },
-      {
-        "pos": "82",
-        "player": "Min Woo Lee",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "78.0",
-        "r2": "77.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "11",
-        "player": "Max Homa",
-        "score": "-5",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "70.0",
-        "r3": "29.0",
-        "r4": "",
-        "numeric_score": -5
-      },
-      {
-        "pos": "27",
-        "player": "Sungjae Im",
-        "score": "-2",
-        "today": "",
-        "thru": "",
-        "r1": "76.0",
-        "r2": "69.0",
-        "r3": "61.0",
-        "r4": "",
-        "numeric_score": -2
-      },
-      {
-        "pos": "48",
-        "player": "Rasmus Højgaard",
-        "score": "+5",
-        "today": "",
-        "thru": "",
-        "r1": "78.0",
-        "r2": "70.0",
-        "r3": "73.0",
-        "r4": "",
-        "numeric_score": 5
-      },
-      {
-        "pos": "31",
-        "player": "Brian Harman",
-        "score": "-1",
-        "today": "",
-        "thru": "",
-        "r1": "79.0",
-        "r2": "69.0",
-        "r3": "67.0",
-        "r4": "",
-        "numeric_score": -1
-      },
-      {
-        "pos": "62",
-        "player": "Zach Johnson",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "75.0",
-        "r2": "75.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "58",
-        "player": "Bubba Watson",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "76.0",
-        "r2": "73.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "90",
-        "player": "Ángel Cabrera",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "79.0",
-        "r2": "81.0",
         "r3": "0.0",
         "r4": "",
         "numeric_score": null
