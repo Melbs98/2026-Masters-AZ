@@ -51,16 +51,16 @@
         "numeric_score": -3
       },
       {
-        "pos": "47",
+        "pos": "53",
         "player": "Kurt Kitayama",
-        "score": "+4",
+        "score": "+6",
         "today": "",
         "thru": "",
         "r1": "69.0",
         "r2": "79.0",
-        "r3": "4.0",
+        "r3": "29.0",
         "r4": "",
-        "numeric_score": 4
+        "numeric_score": 6
       },
       {
         "pos": "36",
@@ -143,14 +143,14 @@
         "numeric_score": -1
       },
       {
-        "pos": "39",
+        "pos": "41",
         "player": "Viktor Hovland",
         "score": "+2",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "71.0",
-        "r3": "0.0",
+        "r3": "4.0",
         "r4": "",
         "numeric_score": 2
       },
@@ -167,19 +167,19 @@
         "numeric_score": -4
       },
       {
-        "pos": "44",
+        "pos": "43",
         "player": "Gary Woodland",
         "score": "+2",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "75.0",
-        "r3": "0.0",
+        "r3": "4.0",
         "r4": "",
         "numeric_score": 2
       },
       {
-        "pos": "40",
+        "pos": "44",
         "player": "Sam Stevens",
         "score": "+2",
         "today": "",
@@ -227,14 +227,14 @@
         "numeric_score": 9
       },
       {
-        "pos": "46",
+        "pos": "49",
         "player": "Sergio García",
         "score": "+3",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "75.0",
-        "r3": "0.0",
+        "r3": "9.0",
         "r4": "",
         "numeric_score": 3
       }
@@ -515,7 +515,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "41",
+        "pos": "45",
         "player": "Adam Scott",
         "score": "+2",
         "today": "",
@@ -563,16 +563,16 @@
         "numeric_score": -1
       },
       {
-        "pos": "53",
+        "pos": "54",
         "player": "Charl Schwartzel",
-        "score": "+4",
+        "score": "+6",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
-        "r3": "0.0",
+        "r3": "22.0",
         "r4": "",
-        "numeric_score": 4
+        "numeric_score": 6
       },
       {
         "pos": "77",
@@ -626,7 +626,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
-        "r3": "0.0",
+        "r3": "4.0",
         "r4": "",
         "numeric_score": 2
       },
@@ -723,16 +723,16 @@
         "numeric_score": 0
       },
       {
-        "pos": "52",
+        "pos": "47",
         "player": "Si Woo Kim",
-        "score": "+4",
+        "score": "+3",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
-        "r3": "0.0",
+        "r3": "15.0",
         "r4": "",
-        "numeric_score": 4
+        "numeric_score": 3
       },
       {
         "pos": "38",
@@ -759,28 +759,28 @@
         "numeric_score": -5
       },
       {
-        "pos": "43",
+        "pos": "50",
         "player": "Keegan Bradley",
-        "score": "+2",
+        "score": "+3",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
-        "r3": "0.0",
+        "r3": "5.0",
         "r4": "",
-        "numeric_score": 2
+        "numeric_score": 3
       },
       {
-        "pos": "54",
+        "pos": "46",
         "player": "Alex Noren",
-        "score": "+5",
+        "score": "+3",
         "today": "",
         "thru": "",
         "r1": "77.0",
         "r2": "71.0",
-        "r3": "5.0",
+        "r3": "26.0",
         "r4": "",
-        "numeric_score": 5
+        "numeric_score": 3
       },
       {
         "pos": "65",
@@ -991,28 +991,28 @@
         "numeric_score": 1
       },
       {
-        "pos": "50",
+        "pos": "51",
         "player": "Rasmus Højgaard",
         "score": "+4",
         "today": "",
         "thru": "",
         "r1": "78.0",
         "r2": "70.0",
-        "r3": "0.0",
+        "r3": "20.0",
         "r4": "",
         "numeric_score": 4
       },
       {
-        "pos": "48",
+        "pos": "39",
         "player": "Brian Harman",
-        "score": "+4",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "79.0",
         "r2": "69.0",
-        "r3": "0.0",
+        "r3": "14.0",
         "r4": "",
-        "numeric_score": 4
+        "numeric_score": 2
       },
       {
         "pos": "62",
@@ -1059,16 +1059,16 @@
     "team": "Bryan",
     "golfers": [
       {
-        "pos": "49",
+        "pos": "40",
         "player": "Jon Rahm",
-        "score": "+4",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "78.0",
         "r2": "70.0",
-        "r3": "0.0",
+        "r3": "14.0",
         "r4": "",
-        "numeric_score": 4
+        "numeric_score": 2
       },
       {
         "pos": "28",
@@ -1083,26 +1083,26 @@
         "numeric_score": 0
       },
       {
-        "pos": "51",
+        "pos": "52",
         "player": "Corey Conners",
         "score": "+4",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
-        "r3": "0.0",
+        "r3": "16.0",
         "r4": "",
         "numeric_score": 4
       },
       {
-        "pos": "45",
+        "pos": "48",
         "player": "Maverick McNealy",
         "score": "+3",
         "today": "",
         "thru": "",
         "r1": "77.0",
         "r2": "70.0",
-        "r3": "0.0",
+        "r3": "9.0",
         "r4": "",
         "numeric_score": 3
       },
@@ -1167,7 +1167,7 @@
         "numeric_score": 15
       }
     ],
-    "best3_total": 2,
+    "best3_total": 1,
     "scores_entered": 9,
     "roster_loaded": 9
   }
