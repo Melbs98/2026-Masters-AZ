@@ -157,6 +157,18 @@
   },
   {
     "pos": "14",
+    "player": "Ben Griffin",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "69.0",
+    "r3": "5.0",
+    "r4": "",
+    "numeric_score": -2
+  },
+  {
+    "pos": "15",
     "player": "Chris Gotterup",
     "score": "-3",
     "today": "",
@@ -168,20 +180,8 @@
     "numeric_score": -3
   },
   {
-    "pos": "15",
-    "player": "Brooks Koepka",
-    "score": "-3",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "69.0",
-    "r3": "0.0",
-    "r4": "",
-    "numeric_score": -3
-  },
-  {
     "pos": "16",
-    "player": "Ben Griffin",
+    "player": "Brooks Koepka",
     "score": "-3",
     "today": "",
     "thru": "",
@@ -463,7 +463,7 @@
     "thru": "",
     "r1": "72.0",
     "r2": "74.0",
-    "r3": "43.0",
+    "r3": "46.0",
     "r4": "",
     "numeric_score": 1
   },
@@ -487,7 +487,7 @@
     "thru": "",
     "r1": "71.0",
     "r2": "74.0",
-    "r3": "32.0",
+    "r3": "36.0",
     "r4": "",
     "numeric_score": 1
   },
@@ -631,7 +631,7 @@
     "thru": "",
     "r1": "71.0",
     "r2": "74.0",
-    "r3": "38.0",
+    "r3": "42.0",
     "r4": "",
     "numeric_score": 7
   },
