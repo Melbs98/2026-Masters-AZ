@@ -421,6 +421,18 @@
   },
   {
     "pos": "36",
+    "player": "Jacob Bridgeman",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "74.0",
+    "r3": "4.0",
+    "r4": "",
+    "numeric_score": 1
+  },
+  {
+    "pos": "37",
     "player": "Sungjae Im",
     "score": "+1",
     "today": "",
@@ -432,20 +444,8 @@
     "numeric_score": 1
   },
   {
-    "pos": "37",
-    "player": "Aaron Rai",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "74.0",
-    "r3": "0.0",
-    "r4": "",
-    "numeric_score": 1
-  },
-  {
     "pos": "38",
-    "player": "Jacob Bridgeman",
+    "player": "Aaron Rai",
     "score": "+1",
     "today": "",
     "thru": "",
