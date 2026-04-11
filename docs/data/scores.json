@@ -373,18 +373,6 @@
   },
   {
     "pos": "32",
-    "player": "Brian Harman",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "79.0",
-    "r2": "69.0",
-    "r3": "20.0",
-    "r4": "",
-    "numeric_score": 1
-  },
-  {
-    "pos": "33",
     "player": "Matt McCarty",
     "score": "+1",
     "today": "",
@@ -396,7 +384,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "34",
+    "pos": "33",
     "player": "Sungjae Im",
     "score": "+1",
     "today": "",
@@ -408,7 +396,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "35",
+    "pos": "34",
     "player": "Sepp Straka",
     "score": "+1",
     "today": "",
@@ -420,7 +408,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "36",
+    "pos": "35",
     "player": "Jordan Spieth",
     "score": "+1",
     "today": "",
@@ -432,7 +420,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "37",
+    "pos": "36",
     "player": "Aaron Rai",
     "score": "+1",
     "today": "",
@@ -444,7 +432,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "38",
+    "pos": "37",
     "player": "Jacob Bridgeman",
     "score": "+1",
     "today": "",
@@ -454,6 +442,18 @@
     "r3": "0.0",
     "r4": "",
     "numeric_score": 1
+  },
+  {
+    "pos": "38",
+    "player": "Brian Harman",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "79.0",
+    "r2": "69.0",
+    "r3": "25.0",
+    "r4": "",
+    "numeric_score": 2
   },
   {
     "pos": "39",
