@@ -143,7 +143,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "43",
+        "pos": "45",
         "player": "Viktor Hovland",
         "score": "+2",
         "today": "",
@@ -179,14 +179,14 @@
         "numeric_score": 3
       },
       {
-        "pos": "44",
+        "pos": "46",
         "player": "Sam Stevens",
         "score": "+2",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
-        "r3": "32.0",
+        "r3": "36.0",
         "r4": "",
         "numeric_score": 2
       },
@@ -527,16 +527,16 @@
         "numeric_score": 0
       },
       {
-        "pos": "45",
+        "pos": "40",
         "player": "Marco Penge",
-        "score": "+2",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "76.0",
         "r2": "69.0",
-        "r3": "28.0",
+        "r3": "32.0",
         "r4": "",
-        "numeric_score": 2
+        "numeric_score": 1
       },
       {
         "pos": "9",
@@ -643,7 +643,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "41",
+        "pos": "42",
         "player": "Dustin Johnson",
         "score": "+1",
         "today": "",
@@ -839,7 +839,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "42",
+        "pos": "43",
         "player": "Si Woo Kim",
         "score": "+2",
         "today": "",
@@ -851,7 +851,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "40",
+        "pos": "41",
         "player": "Jacob Bridgeman",
         "score": "+1",
         "today": "",
@@ -882,7 +882,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
-        "r3": "38.0",
+        "r3": "42.0",
         "r4": "",
         "numeric_score": 0
       },
@@ -1083,7 +1083,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "46",
+        "pos": "47",
         "player": "Corey Conners",
         "score": "+3",
         "today": "",
@@ -1095,16 +1095,16 @@
         "numeric_score": 3
       },
       {
-        "pos": "47",
+        "pos": "44",
         "player": "Maverick McNealy",
-        "score": "+3",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "77.0",
         "r2": "70.0",
-        "r3": "44.0",
+        "r3": "46.0",
         "r4": "",
-        "numeric_score": 3
+        "numeric_score": 2
       },
       {
         "pos": "55",
@@ -1167,7 +1167,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": 1,
+    "best3_total": 0,
     "scores_entered": 5,
     "roster_loaded": 9
   }
