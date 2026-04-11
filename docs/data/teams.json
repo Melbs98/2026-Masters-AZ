@@ -143,16 +143,16 @@
         "numeric_score": -1
       },
       {
-        "pos": "40",
+        "pos": "48",
         "player": "Viktor Hovland",
-        "score": "+2",
+        "score": "+3",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "71.0",
-        "r3": "4.0",
+        "r3": "10.0",
         "r4": "",
-        "numeric_score": 2
+        "numeric_score": 3
       },
       {
         "pos": "12",
@@ -167,7 +167,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "42",
+        "pos": "41",
         "player": "Gary Woodland",
         "score": "+2",
         "today": "",
@@ -179,7 +179,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "43",
+        "pos": "42",
         "player": "Sam Stevens",
         "score": "+2",
         "today": "",
@@ -227,7 +227,7 @@
         "numeric_score": 9
       },
       {
-        "pos": "48",
+        "pos": "47",
         "player": "Sergio García",
         "score": "+3",
         "today": "",
@@ -515,7 +515,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "44",
+        "pos": "43",
         "player": "Adam Scott",
         "score": "+2",
         "today": "",
@@ -619,7 +619,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "41",
+        "pos": "40",
         "player": "Justin Thomas",
         "score": "+2",
         "today": "",
@@ -771,7 +771,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "45",
+        "pos": "44",
         "player": "Alex Noren",
         "score": "+3",
         "today": "",
@@ -1059,7 +1059,7 @@
     "team": "Bryan",
     "golfers": [
       {
-        "pos": "46",
+        "pos": "45",
         "player": "Jon Rahm",
         "score": "+3",
         "today": "",
@@ -1095,7 +1095,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "47",
+        "pos": "46",
         "player": "Maverick McNealy",
         "score": "+3",
         "today": "",
