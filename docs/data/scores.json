@@ -55,7 +55,7 @@
     "thru": "",
     "r1": "70.0",
     "r2": "69.0",
-    "r3": "41.0",
+    "r3": "44.0",
     "r4": "",
     "numeric_score": -8
   },
@@ -146,14 +146,14 @@
   {
     "pos": "13",
     "player": "Patrick Reed",
-    "score": "-6",
+    "score": "-7",
     "today": "",
     "thru": "",
     "r1": "69.0",
     "r2": "69.0",
     "r3": "40.0",
     "r4": "",
-    "numeric_score": -6
+    "numeric_score": -7
   },
   {
     "pos": "14",
@@ -295,7 +295,7 @@
     "thru": "",
     "r1": "72.0",
     "r2": "69.0",
-    "r3": "61.0",
+    "r3": "64.0",
     "r4": "",
     "numeric_score": -3
   },
@@ -373,6 +373,18 @@
   },
   {
     "pos": "32",
+    "player": "Kristoffer Reitan",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "68.0",
+    "r3": "58.0",
+    "r4": "",
+    "numeric_score": -2
+  },
+  {
+    "pos": "33",
     "player": "Brian Harman",
     "score": "-1",
     "today": "",
@@ -384,7 +396,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "33",
+    "pos": "34",
     "player": "Jordan Spieth",
     "score": "-1",
     "today": "",
@@ -396,7 +408,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "34",
+    "pos": "35",
     "player": "Harris English",
     "score": "-1",
     "today": "",
@@ -406,18 +418,6 @@
     "r3": "71.0",
     "r4": "",
     "numeric_score": -1
-  },
-  {
-    "pos": "35",
-    "player": "Kristoffer Reitan",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "68.0",
-    "r3": "58.0",
-    "r4": "",
-    "numeric_score": -2
   },
   {
     "pos": "36",
