@@ -253,24 +253,24 @@
   },
   {
     "pos": "22",
-    "player": "Sepp Straka",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "72.0",
-    "r3": "30.0",
-    "r4": "",
-    "numeric_score": -1
-  },
-  {
-    "pos": "23",
     "player": "Jordan Spieth",
     "score": "-1",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "73.0",
+    "r3": "34.0",
+    "r4": "",
+    "numeric_score": -1
+  },
+  {
+    "pos": "23",
+    "player": "Sepp Straka",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "72.0",
     "r3": "30.0",
     "r4": "",
     "numeric_score": -1
@@ -295,7 +295,7 @@
     "thru": "",
     "r1": "77.0",
     "r2": "67.0",
-    "r3": "22.0",
+    "r3": "26.0",
     "r4": "",
     "numeric_score": -1
   },
@@ -409,18 +409,6 @@
   },
   {
     "pos": "35",
-    "player": "Justin Thomas",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "74.0",
-    "r3": "38.0",
-    "r4": "",
-    "numeric_score": 0
-  },
-  {
-    "pos": "36",
     "player": "Matt McCarty",
     "score": "E",
     "today": "",
@@ -432,7 +420,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "37",
+    "pos": "36",
     "player": "Brian Campbell",
     "score": "E",
     "today": "",
@@ -444,7 +432,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "38",
+    "pos": "37",
     "player": "Alex Noren",
     "score": "+1",
     "today": "",
@@ -456,7 +444,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "39",
+    "pos": "38",
     "player": "Viktor Hovland",
     "score": "+1",
     "today": "",
@@ -466,6 +454,18 @@
     "r3": "46.0",
     "r4": "",
     "numeric_score": 1
+  },
+  {
+    "pos": "39",
+    "player": "Justin Thomas",
+    "score": "E",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "74.0",
+    "r3": "43.0",
+    "r4": "",
+    "numeric_score": 0
   },
   {
     "pos": "40",
@@ -559,7 +559,7 @@
     "thru": "",
     "r1": "78.0",
     "r2": "70.0",
-    "r3": "61.0",
+    "r3": "63.0",
     "r4": "",
     "numeric_score": 3
   },
@@ -643,7 +643,7 @@
     "thru": "",
     "r1": "75.0",
     "r2": "73.0",
-    "r3": "66.0",
+    "r3": "69.0",
     "r4": "",
     "numeric_score": 9
   },
