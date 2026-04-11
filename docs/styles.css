@@ -25,7 +25,7 @@ body {
   color: var(--text);
   background:
     linear-gradient(rgba(20, 34, 18, 0.24), rgba(20, 34, 18, 0.34)),
-    url("./augusta-background.jpg") center center / cover no-repeat fixed;
+    url("./Augusta-background.jpg") center center / cover no-repeat fixed;
   min-height: 100vh;
   position: relative;
 }
