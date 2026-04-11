@@ -39,7 +39,7 @@
         "numeric_score": null
       },
       {
-        "pos": "18",
+        "pos": "19",
         "player": "Ben Griffin",
         "score": "-3",
         "today": "",
@@ -87,7 +87,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Brian Campbell",
         "score": "-2",
         "today": "",
@@ -126,21 +126,21 @@
         "thru": "",
         "r1": "71.0",
         "r2": "68.0",
-        "r3": "0.0",
+        "r3": "4.0",
         "r4": "",
         "numeric_score": -5
       },
       {
-        "pos": "25",
+        "pos": "18",
         "player": "Matt Fitzpatrick",
-        "score": "-2",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "74.0",
         "r2": "69.0",
-        "r3": "26.0",
+        "r3": "30.0",
         "r4": "",
-        "numeric_score": -2
+        "numeric_score": -3
       },
       {
         "pos": "39",
@@ -283,7 +283,7 @@
         "numeric_score": null
       },
       {
-        "pos": "20",
+        "pos": "21",
         "player": "Sepp Straka",
         "score": "-2",
         "today": "",
@@ -307,7 +307,7 @@
         "numeric_score": null
       },
       {
-        "pos": "21",
+        "pos": "22",
         "player": "Ryan Gerard",
         "score": "-2",
         "today": "",
@@ -595,7 +595,7 @@
     "team": "Klooster",
     "golfers": [
       {
-        "pos": "8",
+        "pos": "9",
         "player": "Justin Rose",
         "score": "-5",
         "today": "",
@@ -655,7 +655,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "19",
+        "pos": "20",
         "player": "Wyndham Clark",
         "score": "-3",
         "today": "",
@@ -711,7 +711,7 @@
     "team": "Asshole Garrett",
     "golfers": [
       {
-        "pos": "23",
+        "pos": "24",
         "player": "Collin Morikawa",
         "score": "-2",
         "today": "",
@@ -863,14 +863,14 @@
         "numeric_score": 0
       },
       {
-        "pos": "9",
+        "pos": "8",
         "player": "Shane Lowry",
         "score": "-5",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "69.0",
-        "r3": "0.0",
+        "r3": "4.0",
         "r4": "",
         "numeric_score": -5
       },
@@ -1003,7 +1003,7 @@
         "numeric_score": null
       },
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Nick Taylor",
         "score": "-2",
         "today": "",
