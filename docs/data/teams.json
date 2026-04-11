@@ -63,7 +63,7 @@
         "numeric_score": 7
       },
       {
-        "pos": "30",
+        "pos": "31",
         "player": "Matt McCarty",
         "score": "-1",
         "today": "",
@@ -87,7 +87,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "31",
+        "pos": "28",
         "player": "Brian Campbell",
         "score": "-1",
         "today": "",
@@ -302,7 +302,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "72.0",
-        "r3": "34.0",
+        "r3": "38.0",
         "r4": "",
         "numeric_score": -2
       },
@@ -375,7 +375,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "39",
+        "pos": "38",
         "player": "Viktor Hovland",
         "score": "+1",
         "today": "",
@@ -747,16 +747,16 @@
         "numeric_score": -4
       },
       {
-        "pos": "36",
+        "pos": "40",
         "player": "Sungjae Im",
-        "score": "E",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "76.0",
         "r2": "69.0",
-        "r3": "39.0",
+        "r3": "44.0",
         "r4": "",
-        "numeric_score": 0
+        "numeric_score": 1
       },
       {
         "pos": "49",
@@ -771,7 +771,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "28",
+        "pos": "29",
         "player": "Brian Harman",
         "score": "-1",
         "today": "",
@@ -851,7 +851,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "29",
+        "pos": "30",
         "player": "Justin Thomas",
         "score": "-1",
         "today": "",
@@ -979,7 +979,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "38",
+        "pos": "37",
         "player": "Maverick McNealy",
         "score": "+1",
         "today": "",
@@ -1066,7 +1066,7 @@
         "thru": "",
         "r1": "74.0",
         "r2": "70.0",
-        "r3": "24.0",
+        "r3": "33.0",
         "r4": "",
         "numeric_score": 1
       },
@@ -1083,7 +1083,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "40",
+        "pos": "39",
         "player": "Jacob Bridgeman",
         "score": "+1",
         "today": "",
@@ -1119,7 +1119,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "37",
+        "pos": "36",
         "player": "Alex Noren",
         "score": "+1",
         "today": "",
