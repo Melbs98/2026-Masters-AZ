@@ -289,6 +289,18 @@
   },
   {
     "pos": "25",
+    "player": "Matt McCarty",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "73.0",
+    "r3": "38.0",
+    "r4": "",
+    "numeric_score": -1
+  },
+  {
+    "pos": "26",
     "player": "Sepp Straka",
     "score": "-1",
     "today": "",
@@ -300,7 +312,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "26",
+    "pos": "27",
     "player": "Jordan Spieth",
     "score": "-1",
     "today": "",
@@ -312,7 +324,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "27",
+    "pos": "28",
     "player": "Sungjae Im",
     "score": "-1",
     "today": "",
@@ -324,7 +336,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "28",
+    "pos": "29",
     "player": "Patrick Cantlay",
     "score": "-1",
     "today": "",
@@ -336,7 +348,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "29",
+    "pos": "30",
     "player": "Russell Henley",
     "score": "-1",
     "today": "",
@@ -348,7 +360,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "30",
+    "pos": "31",
     "player": "Harris English",
     "score": "-1",
     "today": "",
@@ -356,18 +368,6 @@
     "r1": "73.0",
     "r2": "71.0",
     "r3": "22.0",
-    "r4": "",
-    "numeric_score": -1
-  },
-  {
-    "pos": "31",
-    "player": "Ludvig Åberg",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "70.0",
-    "r3": "15.0",
     "r4": "",
     "numeric_score": -1
   },
@@ -421,13 +421,13 @@
   },
   {
     "pos": "36",
-    "player": "Matt McCarty",
+    "player": "Ludvig Åberg",
     "score": "E",
     "today": "",
     "thru": "",
-    "r1": "72.0",
-    "r2": "73.0",
-    "r3": "35.0",
+    "r1": "74.0",
+    "r2": "70.0",
+    "r3": "20.0",
     "r4": "",
     "numeric_score": 0
   },
@@ -613,27 +613,27 @@
   },
   {
     "pos": "52",
+    "player": "Kurt Kitayama",
+    "score": "+7",
+    "today": "",
+    "thru": "",
+    "r1": "69.0",
+    "r2": "79.0",
+    "r3": "75.0",
+    "r4": "",
+    "numeric_score": 7
+  },
+  {
+    "pos": "53",
     "player": "Aaron Rai",
     "score": "+7",
     "today": "",
     "thru": "",
     "r1": "71.0",
     "r2": "74.0",
-    "r3": "33.0",
+    "r3": "38.0",
     "r4": "",
     "numeric_score": 7
-  },
-  {
-    "pos": "53",
-    "player": "Kurt Kitayama",
-    "score": "+8",
-    "today": "",
-    "thru": "",
-    "r1": "69.0",
-    "r2": "79.0",
-    "r3": "72.0",
-    "r4": "",
-    "numeric_score": 8
   },
   {
     "pos": "54",
