@@ -63,7 +63,7 @@
         "numeric_score": 8
       },
       {
-        "pos": "35",
+        "pos": "36",
         "player": "Matt McCarty",
         "score": "E",
         "today": "",
@@ -131,7 +131,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "29",
+        "pos": "30",
         "player": "Matt Fitzpatrick",
         "score": "-1",
         "today": "",
@@ -283,7 +283,7 @@
         "numeric_score": null
       },
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Sepp Straka",
         "score": "-1",
         "today": "",
@@ -515,7 +515,7 @@
         "numeric_score": null
       },
       {
-        "pos": "34",
+        "pos": "35",
         "player": "Adam Scott",
         "score": "E",
         "today": "",
@@ -551,7 +551,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "30",
+        "pos": "31",
         "player": "Michael Brennan",
         "score": "-1",
         "today": "",
@@ -607,19 +607,19 @@
         "numeric_score": -2
       },
       {
-        "pos": "36",
+        "pos": "22",
         "player": "Jordan Spieth",
-        "score": "E",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "73.0",
-        "r3": "26.0",
+        "r3": "30.0",
         "r4": "",
-        "numeric_score": 0
+        "numeric_score": -1
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Justin Thomas",
         "score": "E",
         "today": "",
@@ -703,7 +703,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -6,
+    "best3_total": -7,
     "scores_entered": 5,
     "roster_loaded": 9
   },
@@ -711,7 +711,7 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Ludvig Åberg",
         "score": "-1",
         "today": "",
@@ -759,7 +759,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "32",
+        "pos": "33",
         "player": "Keegan Bradley",
         "score": "E",
         "today": "",
@@ -863,7 +863,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Patrick Cantlay",
         "score": "-1",
         "today": "",
@@ -875,7 +875,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "26",
+        "pos": "27",
         "player": "Harris English",
         "score": "-1",
         "today": "",
@@ -943,7 +943,7 @@
     "team": "Asshole Garrett",
     "golfers": [
       {
-        "pos": "28",
+        "pos": "29",
         "player": "Collin Morikawa",
         "score": "-1",
         "today": "",
@@ -979,7 +979,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "23",
+        "pos": "24",
         "player": "Sungjae Im",
         "score": "-1",
         "today": "",
@@ -1071,7 +1071,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Russell Henley",
         "score": "-1",
         "today": "",
@@ -1119,7 +1119,7 @@
         "numeric_score": null
       },
       {
-        "pos": "31",
+        "pos": "32",
         "player": "Nick Taylor",
         "score": "-1",
         "today": "",
