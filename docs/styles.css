@@ -24,11 +24,9 @@ body {
   margin: 0;
   color: var(--text);
   background:
-    linear-gradient(rgba(248, 243, 232, 0.82), rgba(248, 243, 232, 0.92)),
-    radial-gradient(circle at 12% 8%, rgba(242, 201, 76, 0.14), transparent 18%),
-    radial-gradient(circle at 86% 10%, rgba(215, 92, 138, 0.12), transparent 20%),
-    linear-gradient(to bottom, #4f7f4f 0%, #7eaa76 18%, #c9dcb6 32%, #efe7d5 54%, #ede4d0 100%);
-  background-attachment: fixed;
+    linear-gradient(rgba(20, 34, 18, 0.24), rgba(20, 34, 18, 0.34)),
+    url("./augusta-background.jpg") center center / cover no-repeat fixed;
+  min-height: 100vh;
   position: relative;
 }
 
@@ -38,48 +36,29 @@ body::before {
   inset: 0;
   pointer-events: none;
   background:
-    linear-gradient(to bottom, rgba(18, 50, 31, 0.16), transparent 18%),
-    repeating-linear-gradient(
-      90deg,
-      rgba(255,255,255,0.018) 0px,
-      rgba(255,255,255,0.018) 1px,
-      transparent 1px,
-      transparent 88px
-    );
-  z-index: 0;
-}
-
-body::after {
-  content: "";
-  position: fixed;
-  inset: auto 0 0 0;
-  height: 120px;
-  pointer-events: none;
-  background:
-    linear-gradient(to top, rgba(31, 92, 58, 0.22), transparent),
-    radial-gradient(circle at 20% 100%, rgba(215, 92, 138, 0.10), transparent 18%),
-    radial-gradient(circle at 80% 100%, rgba(242, 201, 76, 0.08), transparent 18%);
+    linear-gradient(to bottom, rgba(255, 248, 234, 0.22), transparent 18%),
+    linear-gradient(to top, rgba(19, 54, 31, 0.18), transparent 20%);
   z-index: 0;
 }
 
 .wrap {
   max-width: 1340px;
   margin: 0 auto;
-  padding: 28px 24px 42px;
+  padding: 26px 24px 42px;
   position: relative;
   z-index: 1;
 }
 
 .page-header {
-  margin-bottom: 26px;
-  padding: 24px 28px 22px;
-  border-radius: 24px;
-  border: 1px solid #d7cab2;
+  margin-bottom: 28px;
+  padding: 28px 30px 24px;
+  border-radius: 30px;
+  border: 1px solid rgba(214, 201, 173, 0.95);
   background:
-    linear-gradient(to bottom right, rgba(255, 251, 244, 0.95), rgba(246, 238, 223, 0.96));
+    linear-gradient(to bottom right, rgba(255, 251, 244, 0.96), rgba(244, 236, 220, 0.96));
   box-shadow:
-    0 14px 28px rgba(22, 50, 30, 0.10),
-    inset 0 1px 0 rgba(255,255,255,0.8);
+    0 18px 34px rgba(15, 37, 20, 0.22),
+    inset 0 1px 0 rgba(255,255,255,0.82);
   position: relative;
   overflow: hidden;
 }
@@ -88,48 +67,54 @@ body::after {
   content: "";
   position: absolute;
   inset: 0 0 auto 0;
-  height: 8px;
-  background: linear-gradient(to right, var(--augusta-green), var(--masters-gold), var(--azalea), var(--augusta-green));
+  height: 10px;
+  background: linear-gradient(to right, var(--augusta-green), var(--masters-gold), var(--augusta-green));
 }
 
 .page-header::after {
   content: "";
   position: absolute;
-  right: -80px;
-  top: -80px;
-  width: 240px;
-  height: 240px;
-  border-radius: 50%;
-  background: radial-gradient(circle, rgba(31,92,58,0.08), transparent 62%);
-  pointer-events: none;
+  top: -38px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 260px;
+  height: 72px;
+  background: rgba(255, 251, 244, 0.96);
+  border-bottom-left-radius: 140px 70px;
+  border-bottom-right-radius: 140px 70px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.04);
 }
 
 .page-header h1 {
-  margin: 0 0 10px 0;
+  margin: 8px 0 10px 0;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 3.15rem;
-  line-height: 1.05;
+  font-size: 3.25rem;
+  line-height: 1.02;
   font-weight: 700;
   color: var(--augusta-green);
   letter-spacing: 0.4px;
-  text-shadow: 0 1px 0 rgba(255,255,255,0.45);
+  text-shadow: 0 1px 0 rgba(255,255,255,0.55);
+  position: relative;
+  z-index: 1;
 }
 
 #updated {
   margin: 0;
   color: var(--muted);
-  font-size: 1rem;
+  font-size: 1.05rem;
+  position: relative;
+  z-index: 1;
 }
 
 .section-card {
   background:
-    linear-gradient(to bottom, rgba(255,252,245,0.97), rgba(246,239,226,0.98));
-  border: 1px solid #d8ccb6;
-  border-radius: 24px;
+    linear-gradient(to bottom, rgba(255,252,245,0.96), rgba(246,239,226,0.97));
+  border: 1px solid rgba(216, 204, 182, 0.96);
+  border-radius: 28px;
   padding: 22px;
   margin-bottom: 26px;
   box-shadow:
-    0 14px 28px rgba(27, 53, 30, 0.08),
+    0 16px 30px rgba(18, 39, 22, 0.18),
     inset 0 1px 0 rgba(255,255,255,0.75);
   position: relative;
   overflow: hidden;
@@ -139,26 +124,25 @@ body::after {
   content: "";
   position: absolute;
   inset: 0 0 auto 0;
-  height: 6px;
-  background: linear-gradient(to right, var(--augusta-green), var(--masters-gold), var(--azalea));
+  height: 7px;
+  background: linear-gradient(to right, var(--augusta-green), var(--masters-gold), var(--augusta-green));
 }
 
 .section-card h2 {
   margin-top: 0;
   margin-bottom: 18px;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 2rem;
+  font-size: 2.15rem;
   color: var(--augusta-green);
   letter-spacing: 0.2px;
-  position: relative;
 }
 
 .section-card h2::after {
   content: "";
   display: block;
-  width: 96px;
-  height: 3px;
-  margin-top: 8px;
+  width: 120px;
+  height: 4px;
+  margin-top: 10px;
   border-radius: 999px;
   background: linear-gradient(to right, var(--masters-gold), var(--augusta-green));
 }
@@ -171,14 +155,14 @@ body::after {
 }
 
 .team-card {
-  border: 1px solid #baa98a;
-  border-radius: 16px;
+  border: 1px solid #b8a885;
+  border-radius: 18px;
   overflow: hidden;
   background: var(--cream);
   min-width: 0;
   box-shadow:
-    0 8px 18px rgba(24, 42, 25, 0.10),
-    inset 0 0 0 1px rgba(255,255,255,0.38);
+    0 8px 20px rgba(22, 42, 24, 0.14),
+    inset 0 0 0 1px rgba(255,255,255,0.36);
   position: relative;
 }
 
@@ -186,11 +170,11 @@ body::after {
   content: "";
   display: block;
   height: 6px;
-  background: linear-gradient(to right, var(--masters-gold), #e9d58c, var(--masters-gold));
+  background: linear-gradient(to right, var(--masters-gold), #ead58c, var(--masters-gold));
 }
 
 .team-card-header {
-  background: linear-gradient(to bottom, #285f3d 0%, #1c4b2f 100%);
+  background: linear-gradient(to bottom, #28623e 0%, #1c4b2f 100%);
   color: #fffdf7;
   padding: 10px 14px 12px;
   border-bottom: 1px solid var(--augusta-green-deep);
@@ -202,7 +186,7 @@ body::after {
   position: absolute;
   inset: auto 0 0 0;
   height: 2px;
-  background: linear-gradient(to right, transparent, rgba(242,201,76,0.85), transparent);
+  background: linear-gradient(to right, transparent, rgba(242,201,76,0.88), transparent);
 }
 
 .team-rank {
@@ -413,11 +397,11 @@ img {
   }
 
   .page-header h1 {
-    font-size: 2.2rem;
+    font-size: 2.25rem;
   }
 
   .section-card h2 {
-    font-size: 1.6rem;
+    font-size: 1.65rem;
   }
 
   .teams-grid {
