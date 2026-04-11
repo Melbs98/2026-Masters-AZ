@@ -217,6 +217,18 @@
   },
   {
     "pos": "19",
+    "player": "Xander Schauffele",
+    "score": "-4",
+    "today": "",
+    "thru": "",
+    "r1": "70.0",
+    "r2": "72.0",
+    "r3": "54.0",
+    "r4": "",
+    "numeric_score": -4
+  },
+  {
+    "pos": "20",
     "player": "Ben Griffin",
     "score": "-4",
     "today": "",
@@ -228,7 +240,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "20",
+    "pos": "21",
     "player": "Ludvig Åberg",
     "score": "-3",
     "today": "",
@@ -240,7 +252,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "21",
+    "pos": "22",
     "player": "Brian Campbell",
     "score": "-3",
     "today": "",
@@ -252,7 +264,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "22",
+    "pos": "23",
     "player": "Matt Fitzpatrick",
     "score": "-3",
     "today": "",
@@ -264,7 +276,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "23",
+    "pos": "24",
     "player": "Nick Taylor",
     "score": "-3",
     "today": "",
@@ -276,7 +288,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "24",
+    "pos": "25",
     "player": "Hideki Matsuyama",
     "score": "-3",
     "today": "",
@@ -284,18 +296,6 @@
     "r1": "72.0",
     "r2": "70.0",
     "r3": "55.0",
-    "r4": "",
-    "numeric_score": -3
-  },
-  {
-    "pos": "25",
-    "player": "Xander Schauffele",
-    "score": "-3",
-    "today": "",
-    "thru": "",
-    "r1": "70.0",
-    "r2": "72.0",
-    "r3": "51.0",
     "r4": "",
     "numeric_score": -3
   },
