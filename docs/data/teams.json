@@ -259,7 +259,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "40",
+        "pos": "41",
         "player": "Viktor Hovland",
         "score": "+1",
         "today": "",
@@ -295,7 +295,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "42",
+        "pos": "43",
         "player": "Sam Stevens",
         "score": "+1",
         "today": "",
@@ -430,7 +430,7 @@
         "thru": "",
         "r1": "71.0",
         "r2": "74.0",
-        "r3": "59.0",
+        "r3": "63.0",
         "r4": "",
         "numeric_score": 8
       },
@@ -643,16 +643,16 @@
         "numeric_score": 0
       },
       {
-        "pos": "43",
+        "pos": "33",
         "player": "Marco Penge",
-        "score": "+1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "76.0",
         "r2": "69.0",
-        "r3": "61.0",
+        "r3": "63.0",
         "r4": "",
-        "numeric_score": 1
+        "numeric_score": 0
       },
       {
         "pos": "20",
@@ -742,12 +742,12 @@
         "thru": "",
         "r1": "72.0",
         "r2": "70.0",
-        "r3": "18.0",
+        "r3": "21.0",
         "r4": "",
         "numeric_score": -4
       },
       {
-        "pos": "34",
+        "pos": "36",
         "player": "Sungjae Im",
         "score": "E",
         "today": "",
@@ -827,7 +827,7 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "36",
+        "pos": "37",
         "player": "Ludvig Åberg",
         "score": "E",
         "today": "",
@@ -858,7 +858,7 @@
         "thru": "",
         "r1": "71.0",
         "r2": "74.0",
-        "r3": "51.0",
+        "r3": "55.0",
         "r4": "",
         "numeric_score": 0
       },
@@ -887,7 +887,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "38",
+        "pos": "39",
         "player": "Alex Noren",
         "score": "+1",
         "today": "",
@@ -979,7 +979,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "39",
+        "pos": "40",
         "player": "Maverick McNealy",
         "score": "+1",
         "today": "",
@@ -1059,7 +1059,7 @@
     "team": "Coulter",
     "golfers": [
       {
-        "pos": "37",
+        "pos": "38",
         "player": "Xander Schauffele",
         "score": "E",
         "today": "",
@@ -1071,7 +1071,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Jordan Spieth",
         "score": "E",
         "today": "",
@@ -1083,7 +1083,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "41",
+        "pos": "42",
         "player": "Justin Thomas",
         "score": "+1",
         "today": "",
