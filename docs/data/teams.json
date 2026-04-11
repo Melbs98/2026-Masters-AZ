@@ -309,14 +309,14 @@
       {
         "pos": "16",
         "player": "Ryan Gerard",
-        "score": "-1",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "72.0",
-        "r3": "8.0",
+        "r3": "11.0",
         "r4": "",
-        "numeric_score": -1
+        "numeric_score": -2
       },
       {
         "pos": "80",
@@ -355,7 +355,7 @@
         "numeric_score": 10
       }
     ],
-    "best3_total": -11,
+    "best3_total": -12,
     "scores_entered": 8,
     "roster_loaded": 9
   },
