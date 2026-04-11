@@ -73,6 +73,18 @@
   },
   {
     "pos": "7",
+    "player": "Wyndham Clark",
+    "score": "-7",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "68.0",
+    "r3": "33.0",
+    "r4": "",
+    "numeric_score": -7
+  },
+  {
+    "pos": "8",
     "player": "Patrick Reed",
     "score": "-7",
     "today": "",
@@ -84,7 +96,7 @@
     "numeric_score": -7
   },
   {
-    "pos": "8",
+    "pos": "9",
     "player": "Patrick Cantlay",
     "score": "-6",
     "today": "",
@@ -96,7 +108,7 @@
     "numeric_score": -6
   },
   {
-    "pos": "9",
+    "pos": "10",
     "player": "Russell Henley",
     "score": "-6",
     "today": "",
@@ -104,18 +116,6 @@
     "r1": "73.0",
     "r2": "71.0",
     "r3": "66.0",
-    "r4": "",
-    "numeric_score": -6
-  },
-  {
-    "pos": "10",
-    "player": "Wyndham Clark",
-    "score": "-6",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "68.0",
-    "r3": "30.0",
     "r4": "",
     "numeric_score": -6
   },
@@ -133,6 +133,18 @@
   },
   {
     "pos": "12",
+    "player": "Collin Morikawa",
+    "score": "-5",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "69.0",
+    "r3": "64.0",
+    "r4": "",
+    "numeric_score": -5
+  },
+  {
+    "pos": "13",
     "player": "Jake Knapp",
     "score": "-5",
     "today": "",
@@ -144,7 +156,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "13",
+    "pos": "14",
     "player": "Jason Day",
     "score": "-5",
     "today": "",
@@ -156,7 +168,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "14",
+    "pos": "15",
     "player": "Tommy Fleetwood",
     "score": "-5",
     "today": "",
@@ -168,7 +180,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "15",
+    "pos": "16",
     "player": "Ryan Gerard",
     "score": "-4",
     "today": "",
@@ -176,18 +188,6 @@
     "r1": "72.0",
     "r2": "72.0",
     "r3": "68.0",
-    "r4": "",
-    "numeric_score": -4
-  },
-  {
-    "pos": "16",
-    "player": "Collin Morikawa",
-    "score": "-4",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "69.0",
-    "r3": "61.0",
     "r4": "",
     "numeric_score": -4
   },
@@ -253,6 +253,18 @@
   },
   {
     "pos": "22",
+    "player": "Matt Fitzpatrick",
+    "score": "-3",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "69.0",
+    "r3": "59.0",
+    "r4": "",
+    "numeric_score": -3
+  },
+  {
+    "pos": "23",
     "player": "Nick Taylor",
     "score": "-3",
     "today": "",
@@ -260,18 +272,6 @@
     "r1": "71.0",
     "r2": "72.0",
     "r3": "59.0",
-    "r4": "",
-    "numeric_score": -3
-  },
-  {
-    "pos": "23",
-    "player": "Matt Fitzpatrick",
-    "score": "-3",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "69.0",
-    "r3": "54.0",
     "r4": "",
     "numeric_score": -3
   },
