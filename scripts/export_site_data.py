@@ -29,17 +29,22 @@ def normalize_player_name(name):
 
     return ALIASES.get(text, text)
 
-def normalize_score_display(pos, score, thru):
+def normalize_score_display(pos, score, thru, today):
     pos_text = "" if pos is None else str(pos).strip().upper()
     score_text = "" if score is None else str(score).strip().upper()
     thru_text = "" if thru is None else str(thru).strip().upper()
+    today_text = "" if today is None else str(today).strip().upper()
 
-    if "CUT" in {pos_text, score_text, thru_text}:
+    if "CUT" in {pos_text, score_text, thru_text, today_text}:
         return "CUT"
-    if "WD" in {pos_text, score_text, thru_text}:
+    if "WD" in {pos_text, score_text, thru_text, today_text}:
         return "WD"
-    if "DQ" in {pos_text, score_text, thru_text}:
+    if "DQ" in {pos_text, score_text, thru_text, today_text}:
         return "DQ"
+
+    # Treat blank/dash position plus inactive thru as CUT
+    if pos_text in {"-", ""} and thru_text in {"", "-", "CUT"}:
+        return "CUT"
 
     return "" if score is None else str(score).strip()
 
@@ -81,13 +86,14 @@ def is_real_score_row(pos, player, score, thru):
     if any(ch.isdigit() for ch in player):
         return False
 
-    if not re.fullmatch(r"(T?\d+|CUT|WD|DQ)", pos):
+    # Allow "-" because cut players may come through that way
+    if pos and not re.fullmatch(r"(T?\d+|CUT|WD|DQ|-)", pos):
         return False
 
     if not re.fullmatch(r"(E|[+-]?\d+|CUT|WD|DQ)", score):
         return False
 
-    if thru and not re.fullmatch(r"(\d+|F|CUT|WD|DQ)", thru):
+    if thru and not re.fullmatch(r"(\d+|F|CUT|WD|DQ|-)", thru):
         return False
 
     return True
@@ -129,21 +135,22 @@ def main():
         pos = row[1]
         player = row[2]
         score = row[3]
+        today = row[4]
         thru = row[5]
 
         if not is_real_score_row(pos, player, score, thru):
             continue
 
         lookup_name = normalize_player_name(player)
-        display_score = normalize_score_display(pos, score, thru)
+        display_score = normalize_score_display(pos, score, thru, today)
         numeric_score = score_to_number(display_score)
 
         entry = {
-            "pos": str(pos).strip(),
+            "pos": "" if pos is None else str(pos).strip(),
             "player": str(player).strip(),
             "score": display_score,
-            "today": "" if row[4] is None else str(row[4]).strip(),
-            "thru": "" if row[5] is None else str(row[5]).strip(),
+            "today": "" if today is None else str(today).strip(),
+            "thru": "" if thru is None else str(thru).strip(),
             "r1": "" if row[6] is None else str(row[6]).strip(),
             "r2": "" if row[7] is None else str(row[7]).strip(),
             "r3": "" if row[8] is None else str(row[8]).strip(),
@@ -232,6 +239,6 @@ def main():
         json.dump({"last_updated": datetime.now(timezone.utc).isoformat()}, f, indent=2)
 
     print("Exported website data with Day 2 payouts.")
-
+    
 if __name__ == "__main__":
     main()
