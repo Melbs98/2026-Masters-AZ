@@ -15,7 +15,7 @@
         "numeric_score": -12
       },
       {
-        "pos": "10",
+        "pos": "11",
         "player": "Hideki Matsuyama",
         "score": "-4",
         "today": "",
@@ -75,7 +75,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "14",
+        "pos": "15",
         "player": "Kristoffer Reitan",
         "score": "-4",
         "today": "",
@@ -143,7 +143,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "39",
+        "pos": "40",
         "player": "Viktor Hovland",
         "score": "+1",
         "today": "",
@@ -155,7 +155,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "13",
+        "pos": "14",
         "player": "Jason Day",
         "score": "-4",
         "today": "",
@@ -179,7 +179,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "41",
+        "pos": "42",
         "player": "Sam Stevens",
         "score": "+1",
         "today": "",
@@ -387,7 +387,7 @@
         "numeric_score": null
       },
       {
-        "pos": "12",
+        "pos": "13",
         "player": "Chris Gotterup",
         "score": "-4",
         "today": "",
@@ -399,16 +399,16 @@
         "numeric_score": -4
       },
       {
-        "pos": "16",
+        "pos": "10",
         "player": "Patrick Cantlay",
-        "score": "-3",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "77.0",
         "r2": "67.0",
-        "r3": "44.0",
+        "r3": "48.0",
         "r4": "",
-        "numeric_score": -3
+        "numeric_score": -4
       },
       {
         "pos": "30",
@@ -471,7 +471,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -12,
+    "best3_total": -13,
     "scores_entered": 5,
     "roster_loaded": 9
   },
@@ -643,7 +643,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "42",
+        "pos": "43",
         "player": "Marco Penge",
         "score": "+1",
         "today": "",
@@ -735,7 +735,7 @@
         "numeric_score": null
       },
       {
-        "pos": "11",
+        "pos": "12",
         "player": "Max Homa",
         "score": "-4",
         "today": "",
@@ -747,16 +747,16 @@
         "numeric_score": -4
       },
       {
-        "pos": "43",
+        "pos": "34",
         "player": "Sungjae Im",
-        "score": "+1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "76.0",
         "r2": "69.0",
-        "r3": "47.0",
+        "r3": "51.0",
         "r4": "",
-        "numeric_score": 1
+        "numeric_score": 0
       },
       {
         "pos": "49",
@@ -827,7 +827,7 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "35",
+        "pos": "36",
         "player": "Ludvig Åberg",
         "score": "E",
         "today": "",
@@ -851,7 +851,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "34",
+        "pos": "35",
         "player": "Jacob Bridgeman",
         "score": "E",
         "today": "",
@@ -887,7 +887,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "37",
+        "pos": "38",
         "player": "Alex Noren",
         "score": "+1",
         "today": "",
@@ -979,7 +979,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "38",
+        "pos": "39",
         "player": "Maverick McNealy",
         "score": "+1",
         "today": "",
@@ -1059,7 +1059,7 @@
     "team": "Coulter",
     "golfers": [
       {
-        "pos": "36",
+        "pos": "37",
         "player": "Xander Schauffele",
         "score": "E",
         "today": "",
@@ -1083,7 +1083,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "40",
+        "pos": "41",
         "player": "Justin Thomas",
         "score": "+1",
         "today": "",
@@ -1095,7 +1095,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "15",
+        "pos": "16",
         "player": "Tyrrell Hatton",
         "score": "-4",
         "today": "",
