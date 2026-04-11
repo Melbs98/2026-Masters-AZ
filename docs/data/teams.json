@@ -541,14 +541,14 @@
       {
         "pos": "15",
         "player": "Wyndham Clark",
-        "score": "-6",
+        "score": "-5",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "68.0",
         "r3": "67.0",
         "r4": "",
-        "numeric_score": -6
+        "numeric_score": -5
       },
       {
         "pos": "23",
@@ -587,7 +587,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -17,
+    "best3_total": -16,
     "scores_entered": 6,
     "roster_loaded": 9
   },
