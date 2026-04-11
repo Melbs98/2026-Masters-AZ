@@ -63,26 +63,26 @@
         "numeric_score": 7
       },
       {
-        "pos": "30",
+        "pos": "34",
         "player": "Matt McCarty",
-        "score": "-1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "73.0",
-        "r3": "50.0",
+        "r3": "55.0",
         "r4": "",
-        "numeric_score": -1
+        "numeric_score": 0
       },
       {
-        "pos": "16",
+        "pos": "13",
         "player": "Kristoffer Reitan",
         "score": "-4",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "68.0",
-        "r3": "0.0",
+        "r3": "4.0",
         "r4": "",
         "numeric_score": -4
       },
@@ -382,7 +382,7 @@
         "thru": "",
         "r1": "75.0",
         "r2": "71.0",
-        "r3": "63.0",
+        "r3": "67.0",
         "r4": "",
         "numeric_score": 1
       },
@@ -423,7 +423,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "13",
+        "pos": "14",
         "player": "Haotong Li",
         "score": "-4",
         "today": "",
@@ -527,7 +527,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "31",
+        "pos": "30",
         "player": "Harris English",
         "score": "-1",
         "today": "",
@@ -631,7 +631,7 @@
         "numeric_score": null
       },
       {
-        "pos": "34",
+        "pos": "33",
         "player": "Adam Scott",
         "score": "E",
         "today": "",
@@ -650,12 +650,12 @@
         "thru": "",
         "r1": "76.0",
         "r2": "69.0",
-        "r3": "53.0",
+        "r3": "57.0",
         "r4": "",
         "numeric_score": 2
       },
       {
-        "pos": "15",
+        "pos": "16",
         "player": "Wyndham Clark",
         "score": "-4",
         "today": "",
@@ -667,7 +667,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "32",
+        "pos": "31",
         "player": "Michael Brennan",
         "score": "-1",
         "today": "",
@@ -827,7 +827,7 @@
     "team": "Coulter",
     "golfers": [
       {
-        "pos": "33",
+        "pos": "32",
         "player": "Xander Schauffele",
         "score": "-1",
         "today": "",
@@ -863,7 +863,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "14",
+        "pos": "15",
         "player": "Tyrrell Hatton",
         "score": "-4",
         "today": "",
@@ -986,7 +986,7 @@
         "thru": "",
         "r1": "77.0",
         "r2": "70.0",
-        "r3": "66.0",
+        "r3": "70.0",
         "r4": "",
         "numeric_score": 1
       },
