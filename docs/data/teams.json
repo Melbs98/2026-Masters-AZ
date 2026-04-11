@@ -399,7 +399,7 @@
         "numeric_score": 7
       },
       {
-        "pos": "34",
+        "pos": "35",
         "player": "Sepp Straka",
         "score": "+1",
         "today": "",
@@ -607,14 +607,14 @@
         "numeric_score": -2
       },
       {
-        "pos": "35",
+        "pos": "33",
         "player": "Jordan Spieth",
         "score": "+1",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "73.0",
-        "r3": "0.0",
+        "r3": "4.0",
         "r4": "",
         "numeric_score": 1
       },
@@ -979,7 +979,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Sungjae Im",
         "score": "+1",
         "today": "",
@@ -1102,7 +1102,7 @@
         "thru": "",
         "r1": "77.0",
         "r2": "70.0",
-        "r3": "21.0",
+        "r3": "24.0",
         "r4": "",
         "numeric_score": 4
       },
