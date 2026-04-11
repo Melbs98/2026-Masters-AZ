@@ -175,7 +175,7 @@
     "thru": "",
     "r1": "72.0",
     "r2": "70.0",
-    "r3": "12.0",
+    "r3": "14.0",
     "r4": "",
     "numeric_score": -3
   },
@@ -247,7 +247,7 @@
     "thru": "",
     "r1": "72.0",
     "r2": "72.0",
-    "r3": "25.0",
+    "r3": "30.0",
     "r4": "",
     "numeric_score": -2
   },
@@ -271,7 +271,7 @@
     "thru": "",
     "r1": "74.0",
     "r2": "69.0",
-    "r3": "19.0",
+    "r3": "22.0",
     "r4": "",
     "numeric_score": -2
   },
@@ -433,6 +433,18 @@
   },
   {
     "pos": "37",
+    "player": "Maverick McNealy",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "70.0",
+    "r3": "62.0",
+    "r4": "",
+    "numeric_score": 1
+  },
+  {
+    "pos": "38",
     "player": "Viktor Hovland",
     "score": "+1",
     "today": "",
@@ -444,7 +456,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "38",
+    "pos": "39",
     "player": "Sam Stevens",
     "score": "+1",
     "today": "",
@@ -456,7 +468,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "39",
+    "pos": "40",
     "player": "Adam Scott",
     "score": "+1",
     "today": "",
@@ -468,7 +480,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "40",
+    "pos": "41",
     "player": "Marco Penge",
     "score": "+1",
     "today": "",
@@ -480,7 +492,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "41",
+    "pos": "42",
     "player": "Jacob Bridgeman",
     "score": "+1",
     "today": "",
@@ -492,7 +504,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "42",
+    "pos": "43",
     "player": "Dustin Johnson",
     "score": "+1",
     "today": "",
@@ -504,7 +516,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "43",
+    "pos": "44",
     "player": "Corey Conners",
     "score": "+2",
     "today": "",
@@ -512,18 +524,6 @@
     "r1": "75.0",
     "r2": "73.0",
     "r3": "66.0",
-    "r4": "",
-    "numeric_score": 2
-  },
-  {
-    "pos": "44",
-    "player": "Maverick McNealy",
-    "score": "+2",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "70.0",
-    "r3": "60.0",
     "r4": "",
     "numeric_score": 2
   },
