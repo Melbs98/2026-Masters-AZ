@@ -493,6 +493,18 @@
   },
   {
     "pos": "42",
+    "player": "Jon Rahm",
+    "score": "+3",
+    "today": "",
+    "thru": "",
+    "r1": "78.0",
+    "r2": "70.0",
+    "r3": "35.0",
+    "r4": "",
+    "numeric_score": 3
+  },
+  {
+    "pos": "43",
     "player": "Si Woo Kim",
     "score": "+3",
     "today": "",
@@ -500,18 +512,6 @@
     "r1": "75.0",
     "r2": "73.0",
     "r3": "35.0",
-    "r4": "",
-    "numeric_score": 3
-  },
-  {
-    "pos": "43",
-    "player": "Jon Rahm",
-    "score": "+3",
-    "today": "",
-    "thru": "",
-    "r1": "78.0",
-    "r2": "70.0",
-    "r3": "31.0",
     "r4": "",
     "numeric_score": 3
   },
