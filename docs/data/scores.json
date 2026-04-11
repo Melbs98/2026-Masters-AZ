@@ -109,18 +109,6 @@
   },
   {
     "pos": "10",
-    "player": "Hideki Matsuyama",
-    "score": "-5",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "70.0",
-    "r3": "29.0",
-    "r4": "",
-    "numeric_score": -5
-  },
-  {
-    "pos": "11",
     "player": "Justin Rose",
     "score": "-5",
     "today": "",
@@ -132,7 +120,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "12",
+    "pos": "11",
     "player": "Patrick Cantlay",
     "score": "-4",
     "today": "",
@@ -140,6 +128,18 @@
     "r1": "77.0",
     "r2": "67.0",
     "r3": "52.0",
+    "r4": "",
+    "numeric_score": -4
+  },
+  {
+    "pos": "12",
+    "player": "Hideki Matsuyama",
+    "score": "-4",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "70.0",
+    "r3": "34.0",
     "r4": "",
     "numeric_score": -4
   },
