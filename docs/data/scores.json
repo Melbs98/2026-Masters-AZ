@@ -223,7 +223,7 @@
     "thru": "",
     "r1": "73.0",
     "r2": "71.0",
-    "r3": "30.0",
+    "r3": "34.0",
     "r4": "",
     "numeric_score": -2
   },
@@ -493,18 +493,6 @@
   },
   {
     "pos": "42",
-    "player": "Jacob Bridgeman",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "74.0",
-    "r3": "36.0",
-    "r4": "",
-    "numeric_score": 1
-  },
-  {
-    "pos": "43",
     "player": "Dustin Johnson",
     "score": "+1",
     "today": "",
@@ -516,7 +504,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "44",
+    "pos": "43",
     "player": "Corey Conners",
     "score": "+2",
     "today": "",
@@ -528,7 +516,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "45",
+    "pos": "44",
     "player": "Keegan Bradley",
     "score": "+2",
     "today": "",
@@ -536,6 +524,18 @@
     "r1": "72.0",
     "r2": "74.0",
     "r3": "56.0",
+    "r4": "",
+    "numeric_score": 2
+  },
+  {
+    "pos": "45",
+    "player": "Jacob Bridgeman",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "74.0",
+    "r3": "41.0",
     "r4": "",
     "numeric_score": 2
   },
@@ -631,7 +631,7 @@
     "thru": "",
     "r1": "71.0",
     "r2": "74.0",
-    "r3": "42.0",
+    "r3": "46.0",
     "r4": "",
     "numeric_score": 7
   },

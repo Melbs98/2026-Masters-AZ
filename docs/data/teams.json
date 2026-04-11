@@ -662,7 +662,7 @@
         "thru": "",
         "r1": "71.0",
         "r2": "74.0",
-        "r3": "42.0",
+        "r3": "46.0",
         "r4": "",
         "numeric_score": 7
       },
@@ -759,7 +759,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "43",
+        "pos": "42",
         "player": "Dustin Johnson",
         "score": "+1",
         "today": "",
@@ -962,12 +962,12 @@
         "thru": "",
         "r1": "73.0",
         "r2": "71.0",
-        "r3": "30.0",
+        "r3": "34.0",
         "r4": "",
         "numeric_score": -2
       },
       {
-        "pos": "44",
+        "pos": "43",
         "player": "Corey Conners",
         "score": "+2",
         "today": "",
@@ -1083,16 +1083,16 @@
         "numeric_score": 3
       },
       {
-        "pos": "42",
+        "pos": "45",
         "player": "Jacob Bridgeman",
-        "score": "+1",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "74.0",
-        "r3": "36.0",
+        "r3": "41.0",
         "r4": "",
-        "numeric_score": 1
+        "numeric_score": 2
       },
       {
         "pos": "6",
@@ -1107,7 +1107,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "45",
+        "pos": "44",
         "player": "Keegan Bradley",
         "score": "+2",
         "today": "",
@@ -1167,7 +1167,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -3,
+    "best3_total": -2,
     "scores_entered": 6,
     "roster_loaded": 9
   }
