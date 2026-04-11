@@ -181,6 +181,18 @@
   },
   {
     "pos": "16",
+    "player": "Jason Day",
+    "score": "-5",
+    "today": "",
+    "thru": "",
+    "r1": "69.0",
+    "r2": "71.0",
+    "r3": "31.0",
+    "r4": "",
+    "numeric_score": -5
+  },
+  {
+    "pos": "17",
     "player": "Tommy Fleetwood",
     "score": "-5",
     "today": "",
@@ -190,18 +202,6 @@
     "r3": "20.0",
     "r4": "",
     "numeric_score": -5
-  },
-  {
-    "pos": "17",
-    "player": "Jason Day",
-    "score": "-4",
-    "today": "",
-    "thru": "",
-    "r1": "69.0",
-    "r2": "71.0",
-    "r3": "27.0",
-    "r4": "",
-    "numeric_score": -4
   },
   {
     "pos": "18",
@@ -325,18 +325,6 @@
   },
   {
     "pos": "28",
-    "player": "Matt Fitzpatrick",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "69.0",
-    "r3": "43.0",
-    "r4": "",
-    "numeric_score": -2
-  },
-  {
-    "pos": "29",
     "player": "Xander Schauffele",
     "score": "-2",
     "today": "",
@@ -348,7 +336,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "30",
+    "pos": "29",
     "player": "Brooks Koepka",
     "score": "-2",
     "today": "",
@@ -360,7 +348,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "31",
+    "pos": "30",
     "player": "Kristoffer Reitan",
     "score": "-2",
     "today": "",
@@ -372,7 +360,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "32",
+    "pos": "31",
     "player": "Brian Harman",
     "score": "-1",
     "today": "",
@@ -384,7 +372,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "33",
+    "pos": "32",
     "player": "Jordan Spieth",
     "score": "-1",
     "today": "",
@@ -396,7 +384,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "34",
+    "pos": "33",
     "player": "Harris English",
     "score": "-1",
     "today": "",
@@ -408,7 +396,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "35",
+    "pos": "34",
     "player": "Collin Morikawa",
     "score": "-1",
     "today": "",
@@ -416,6 +404,18 @@
     "r1": "74.0",
     "r2": "69.0",
     "r3": "52.0",
+    "r4": "",
+    "numeric_score": -1
+  },
+  {
+    "pos": "35",
+    "player": "Matt Fitzpatrick",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "69.0",
+    "r3": "47.0",
     "r4": "",
     "numeric_score": -1
   },
