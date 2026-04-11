@@ -145,14 +145,14 @@
       {
         "pos": "45",
         "player": "Viktor Hovland",
-        "score": "+2",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "71.0",
         "r3": "44.0",
         "r4": "",
-        "numeric_score": 2
+        "numeric_score": 1
       },
       {
         "pos": "12",
@@ -283,14 +283,14 @@
         "numeric_score": null
       },
       {
-        "pos": "23",
+        "pos": "22",
         "player": "Sepp Straka",
         "score": "-1",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "72.0",
-        "r3": "25.0",
+        "r3": "30.0",
         "r4": "",
         "numeric_score": -1
       },
@@ -551,7 +551,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "31",
+        "pos": "32",
         "player": "Michael Brennan",
         "score": "-1",
         "today": "",
@@ -607,7 +607,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Jordan Spieth",
         "score": "-1",
         "today": "",
@@ -1119,14 +1119,14 @@
         "numeric_score": null
       },
       {
-        "pos": "32",
+        "pos": "31",
         "player": "Nick Taylor",
         "score": "-1",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "72.0",
-        "r3": "0.0",
+        "r3": "4.0",
         "r4": "",
         "numeric_score": -1
       },
