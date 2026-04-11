@@ -241,6 +241,18 @@
   },
   {
     "pos": "21",
+    "player": "Patrick Cantlay",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "67.0",
+    "r3": "15.0",
+    "r4": "",
+    "numeric_score": -1
+  },
+  {
+    "pos": "22",
     "player": "Sungjae Im",
     "score": "-1",
     "today": "",
@@ -248,18 +260,6 @@
     "r1": "76.0",
     "r2": "69.0",
     "r3": "11.0",
-    "r4": "",
-    "numeric_score": -1
-  },
-  {
-    "pos": "22",
-    "player": "Patrick Cantlay",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "67.0",
-    "r3": "12.0",
     "r4": "",
     "numeric_score": -1
   },
