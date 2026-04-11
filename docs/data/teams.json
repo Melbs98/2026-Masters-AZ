@@ -63,7 +63,7 @@
         "numeric_score": null
       },
       {
-        "pos": "14",
+        "pos": "15",
         "player": "Ryan Gerard",
         "score": "-4",
         "today": "",
@@ -131,7 +131,7 @@
         "numeric_score": -12
       },
       {
-        "pos": "17",
+        "pos": "18",
         "player": "Hideki Matsuyama",
         "score": "-4",
         "today": "",
@@ -235,7 +235,7 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "13",
+        "pos": "14",
         "player": "Tommy Fleetwood",
         "score": "-5",
         "today": "",
@@ -271,7 +271,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "12",
+        "pos": "13",
         "player": "Jason Day",
         "score": "-5",
         "today": "",
@@ -435,7 +435,7 @@
         "numeric_score": -6
       },
       {
-        "pos": "16",
+        "pos": "17",
         "player": "Michael Brennan",
         "score": "-4",
         "today": "",
@@ -592,6 +592,122 @@
     "roster_loaded": 9
   },
   {
+    "team": "Melbye²",
+    "golfers": [
+      {
+        "pos": "61",
+        "player": "Bryson DeChambeau",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "76.0",
+        "r2": "74.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "35",
+        "player": "Brooks Koepka",
+        "score": "-1",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "69.0",
+        "r3": "49.0",
+        "r4": "",
+        "numeric_score": -1
+      },
+      {
+        "pos": "12",
+        "player": "Jake Knapp",
+        "score": "-5",
+        "today": "",
+        "thru": "",
+        "r1": "73.0",
+        "r2": "69.0",
+        "r3": "49.0",
+        "r4": "",
+        "numeric_score": -5
+      },
+      {
+        "pos": "5",
+        "player": "Sam Burns",
+        "score": "-8",
+        "today": "",
+        "thru": "",
+        "r1": "67.0",
+        "r2": "71.0",
+        "r3": "21.0",
+        "r4": "",
+        "numeric_score": -8
+      },
+      {
+        "pos": "70",
+        "player": "Daniel Berger",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "76.0",
+        "r2": "76.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "87",
+        "player": "Aldrich Potgieter",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "84.0",
+        "r2": "75.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "84",
+        "player": "Max Greyserman",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "79.0",
+        "r2": "77.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "75",
+        "player": "Mason Howell",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "77.0",
+        "r2": "76.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "71",
+        "player": "Jackson Herrington",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "76.0",
+        "r2": "76.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      }
+    ],
+    "best3_total": -14,
+    "scores_entered": 3,
+    "roster_loaded": 9
+  },
+  {
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
@@ -708,126 +824,10 @@
     "roster_loaded": 9
   },
   {
-    "team": "Melbye²",
-    "golfers": [
-      {
-        "pos": "61",
-        "player": "Bryson DeChambeau",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "76.0",
-        "r2": "74.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "35",
-        "player": "Brooks Koepka",
-        "score": "-1",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "69.0",
-        "r3": "46.0",
-        "r4": "",
-        "numeric_score": -1
-      },
-      {
-        "pos": "18",
-        "player": "Jake Knapp",
-        "score": "-4",
-        "today": "",
-        "thru": "",
-        "r1": "73.0",
-        "r2": "69.0",
-        "r3": "45.0",
-        "r4": "",
-        "numeric_score": -4
-      },
-      {
-        "pos": "5",
-        "player": "Sam Burns",
-        "score": "-8",
-        "today": "",
-        "thru": "",
-        "r1": "67.0",
-        "r2": "71.0",
-        "r3": "21.0",
-        "r4": "",
-        "numeric_score": -8
-      },
-      {
-        "pos": "70",
-        "player": "Daniel Berger",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "76.0",
-        "r2": "76.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "87",
-        "player": "Aldrich Potgieter",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "84.0",
-        "r2": "75.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "84",
-        "player": "Max Greyserman",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "79.0",
-        "r2": "77.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "75",
-        "player": "Mason Howell",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "77.0",
-        "r2": "76.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "71",
-        "player": "Jackson Herrington",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "76.0",
-        "r2": "76.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      }
-    ],
-    "best3_total": -13,
-    "scores_entered": 3,
-    "roster_loaded": 9
-  },
-  {
     "team": "Asshole Garrett",
     "golfers": [
       {
-        "pos": "15",
+        "pos": "16",
         "player": "Collin Morikawa",
         "score": "-4",
         "today": "",
