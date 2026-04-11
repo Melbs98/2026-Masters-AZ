@@ -1,0 +1,35 @@
+{
+  "sections": [
+    {
+      "title": "Day 1",
+      "items": [
+        {
+          "label": "Leader",
+          "winners": [
+            { "name": "Roth", "amount": 37.5 },
+            { "name": "Melbyes", "amount": 37.5 }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Day 2",
+      "items": [
+        {
+          "label": "Leader",
+          "winners": [
+            { "name": "Roth", "amount": 75 }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Day 3",
+      "items": []
+    },
+    {
+      "title": "Final",
+      "items": []
+    }
+  ]
+}
