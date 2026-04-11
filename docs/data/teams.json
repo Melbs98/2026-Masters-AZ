@@ -119,7 +119,7 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "20",
+        "pos": "19",
         "player": "Tommy Fleetwood",
         "score": "-4",
         "today": "",
@@ -131,7 +131,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "23",
+        "pos": "22",
         "player": "Matt Fitzpatrick",
         "score": "-3",
         "today": "",
@@ -259,16 +259,16 @@
         "numeric_score": -12
       },
       {
-        "pos": "16",
+        "pos": "25",
         "player": "Hideki Matsuyama",
-        "score": "-4",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "70.0",
-        "r3": "62.0",
+        "r3": "67.0",
         "r4": "",
-        "numeric_score": -4
+        "numeric_score": -3
       },
       {
         "pos": "59",
@@ -283,7 +283,7 @@
         "numeric_score": null
       },
       {
-        "pos": "19",
+        "pos": "18",
         "player": "Ben Griffin",
         "score": "-4",
         "today": "",
@@ -331,7 +331,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "22",
+        "pos": "21",
         "player": "Brian Campbell",
         "score": "-3",
         "today": "",
@@ -355,7 +355,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -20,
+    "best3_total": -19,
     "scores_entered": 7,
     "roster_loaded": 9
   },
@@ -435,7 +435,7 @@
         "numeric_score": -6
       },
       {
-        "pos": "25",
+        "pos": "24",
         "player": "Michael Brennan",
         "score": "-3",
         "today": "",
@@ -711,7 +711,7 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "21",
+        "pos": "20",
         "player": "Ludvig Åberg",
         "score": "-3",
         "today": "",
@@ -851,7 +851,7 @@
         "numeric_score": null
       },
       {
-        "pos": "18",
+        "pos": "17",
         "player": "Max Homa",
         "score": "-4",
         "today": "",
@@ -1003,7 +1003,7 @@
         "numeric_score": null
       },
       {
-        "pos": "24",
+        "pos": "23",
         "player": "Nick Taylor",
         "score": "-3",
         "today": "",
@@ -1059,7 +1059,7 @@
     "team": "Coulter",
     "golfers": [
       {
-        "pos": "17",
+        "pos": "16",
         "player": "Xander Schauffele",
         "score": "-4",
         "today": "",
