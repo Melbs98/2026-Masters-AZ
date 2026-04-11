@@ -229,6 +229,18 @@
   },
   {
     "pos": "20",
+    "player": "Nick Taylor",
+    "score": "-3",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "72.0",
+    "r3": "34.0",
+    "r4": "",
+    "numeric_score": -3
+  },
+  {
+    "pos": "21",
     "player": "Ben Griffin",
     "score": "-3",
     "today": "",
@@ -240,19 +252,19 @@
     "numeric_score": -3
   },
   {
-    "pos": "21",
+    "pos": "22",
     "player": "Chris Gotterup",
     "score": "-3",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "69.0",
-    "r3": "20.0",
+    "r3": "23.0",
     "r4": "",
     "numeric_score": -3
   },
   {
-    "pos": "22",
+    "pos": "23",
     "player": "Sepp Straka",
     "score": "-2",
     "today": "",
@@ -264,7 +276,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "23",
+    "pos": "24",
     "player": "Ryan Gerard",
     "score": "-2",
     "today": "",
@@ -276,7 +288,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "24",
+    "pos": "25",
     "player": "Collin Morikawa",
     "score": "-2",
     "today": "",
@@ -288,25 +300,13 @@
     "numeric_score": -2
   },
   {
-    "pos": "25",
+    "pos": "26",
     "player": "Michael Brennan",
     "score": "-2",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "71.0",
-    "r3": "31.0",
-    "r4": "",
-    "numeric_score": -2
-  },
-  {
-    "pos": "26",
-    "player": "Nick Taylor",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "72.0",
     "r3": "31.0",
     "r4": "",
     "numeric_score": -2
@@ -487,7 +487,7 @@
     "thru": "",
     "r1": "72.0",
     "r2": "74.0",
-    "r3": "67.0",
+    "r3": "71.0",
     "r4": "",
     "numeric_score": 1
   },
