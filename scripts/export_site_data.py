@@ -26,19 +26,19 @@ def normalize_player_name(name):
     text = "".join(ch for ch in text if not unicodedata.combining(ch))
     text = text.lower().strip()
     text = re.sub(r"\s+", " ", text)
-
     return ALIASES.get(text, text)
 
-def normalize_score_display(pos, score, thru):
+def normalize_score_display(pos, score, thru, today):
     pos_text = "" if pos is None else str(pos).strip().upper()
     score_text = "" if score is None else str(score).strip().upper()
     thru_text = "" if thru is None else str(thru).strip().upper()
+    today_text = "" if today is None else str(today).strip().upper()
 
-    if "CUT" in {pos_text, score_text, thru_text}:
+    if "CUT" in {pos_text, score_text, thru_text, today_text}:
         return "CUT"
-    if "WD" in {pos_text, score_text, thru_text}:
+    if "WD" in {pos_text, score_text, thru_text, today_text}:
         return "WD"
-    if "DQ" in {pos_text, score_text, thru_text}:
+    if "DQ" in {pos_text, score_text, thru_text, today_text}:
         return "DQ"
 
     return "" if score is None else str(score).strip()
@@ -51,43 +51,38 @@ def score_to_number(value):
 
     if text in {"E", "(E)"}:
         return 0
-
     if text in {"CUT", "WD", "DQ"}:
         return None
 
     text = text.replace("(", "").replace(")", "")
-
     try:
         return int(text)
     except ValueError:
         return None
 
 def is_real_score_row(pos, player, score, thru):
-    if not player or score is None:
+    if not player:
         return False
 
     player = str(player).strip()
     pos = str(pos).strip() if pos is not None else ""
-    score = str(score).strip().upper()
+    score = str(score).strip().upper() if score is not None else ""
     thru = str(thru).strip().upper() if thru is not None else ""
 
     banned_players = {"PLAYER", "YARDS", "TOURNAMENTS", "PREVIOUS WINNER", "HIDDEN"}
     if player.upper() in banned_players:
         return False
 
-    if player.isdigit():
+    if player.isdigit() or any(ch.isdigit() for ch in player):
         return False
 
-    if any(ch.isdigit() for ch in player):
+    if pos and not re.fullmatch(r"(T?\d+|CUT|WD|DQ|-)", pos):
         return False
 
-    if not re.fullmatch(r"(T?\d+|CUT|WD|DQ)", pos):
+    if score and not re.fullmatch(r"(E|[+-]?\d+|CUT|WD|DQ|-)", score):
         return False
 
-    if not re.fullmatch(r"(E|[+-]?\d+|CUT|WD|DQ)", score):
-        return False
-
-    if thru and not re.fullmatch(r"(\d+|F|CUT|WD|DQ)", thru):
+    if thru and not re.fullmatch(r"(\d+|F|CUT|WD|DQ|-|[0-9]{1,2}:[0-9]{2}\s?[AP]M)", thru):
         return False
 
     return True
@@ -117,7 +112,6 @@ def main():
     for row in draft_ws.iter_rows(min_row=2, max_row=draft_ws.max_row, min_col=1, max_col=5, values_only=True):
         team = row[3]
         player = row[4]
-
         if not team or not player:
             continue
 
@@ -125,29 +119,30 @@ def main():
         player_name = normalize_player_name(player)
         player_to_teams[player_name].add(team_name)
 
-    for row in scores_ws.iter_rows(min_row=2, max_row=scores_ws.max_row, min_col=1, max_col=10, values_only=True):
+    for row in scores_ws.iter_rows(min_row=2, max_row=scores_ws.max_row, min_col=1, max_col=11, values_only=True):
         pos = row[1]
-        player = row[2]
-        score = row[3]
-        thru = row[5]
+        player = row[3]
+        score = row[4]
+        today = row[5]
+        thru = row[6]
 
         if not is_real_score_row(pos, player, score, thru):
             continue
 
         lookup_name = normalize_player_name(player)
-        display_score = normalize_score_display(pos, score, thru)
+        display_score = normalize_score_display(pos, score, thru, today)
         numeric_score = score_to_number(display_score)
 
         entry = {
-            "pos": str(pos).strip(),
+            "pos": "" if pos is None else str(pos).strip(),
             "player": str(player).strip(),
             "score": display_score,
-            "today": "" if row[4] is None else str(row[4]).strip(),
-            "thru": "" if row[5] is None else str(row[5]).strip(),
-            "r1": "" if row[6] is None else str(row[6]).strip(),
-            "r2": "" if row[7] is None else str(row[7]).strip(),
-            "r3": "" if row[8] is None else str(row[8]).strip(),
-            "r4": "" if row[9] is None else str(row[9]).strip(),
+            "today": "" if today is None else str(today).strip(),
+            "thru": "" if thru is None else str(thru).strip(),
+            "r1": "" if row[7] is None else str(row[7]).strip(),
+            "r2": "" if row[8] is None else str(row[8]).strip(),
+            "r3": "" if row[9] is None else str(row[9]).strip(),
+            "r4": "" if row[10] is None else str(row[10]).strip(),
             "numeric_score": numeric_score,
         }
 
@@ -163,7 +158,6 @@ def main():
             teams_map[team_name].append(player_name)
 
     teams = []
-
     for team_name, golfers in teams_map.items():
         golfer_details = []
         valid_scores = []
@@ -204,7 +198,6 @@ def main():
     )
 
     payouts = []
-
     live_players = [s for s in score_rows if s["numeric_score"] is not None]
     if live_players:
         best_live_score = min(p["numeric_score"] for p in live_players)
@@ -232,6 +225,6 @@ def main():
         json.dump({"last_updated": datetime.now(timezone.utc).isoformat()}, f, indent=2)
 
     print("Exported website data with Day 2 payouts.")
-
+    
 if __name__ == "__main__":
     main()
