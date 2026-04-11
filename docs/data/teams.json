@@ -143,7 +143,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "48",
+        "pos": "49",
         "player": "Viktor Hovland",
         "score": "+4",
         "today": "",
@@ -167,7 +167,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "50",
+        "pos": "51",
         "player": "Gary Woodland",
         "score": "+4",
         "today": "",
@@ -227,7 +227,7 @@
         "numeric_score": 9
       },
       {
-        "pos": "47",
+        "pos": "48",
         "player": "Sergio García",
         "score": "+4",
         "today": "",
@@ -759,7 +759,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "49",
+        "pos": "50",
         "player": "Keegan Bradley",
         "score": "+4",
         "today": "",
@@ -1083,19 +1083,19 @@
         "numeric_score": 0
       },
       {
-        "pos": "51",
+        "pos": "46",
         "player": "Corey Conners",
-        "score": "+5",
+        "score": "+4",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
-        "r3": "24.0",
+        "r3": "27.0",
         "r4": "",
-        "numeric_score": 5
+        "numeric_score": 4
       },
       {
-        "pos": "46",
+        "pos": "47",
         "player": "Maverick McNealy",
         "score": "+4",
         "today": "",
