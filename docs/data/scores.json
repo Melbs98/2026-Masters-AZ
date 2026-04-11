@@ -469,18 +469,6 @@
   },
   {
     "pos": "40",
-    "player": "Marco Penge",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "76.0",
-    "r2": "69.0",
-    "r3": "23.0",
-    "r4": "",
-    "numeric_score": 1
-  },
-  {
-    "pos": "41",
     "player": "Dustin Johnson",
     "score": "+1",
     "today": "",
@@ -492,7 +480,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "42",
+    "pos": "41",
     "player": "Alex Noren",
     "score": "+2",
     "today": "",
@@ -504,7 +492,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "43",
+    "pos": "42",
     "player": "Maverick McNealy",
     "score": "+2",
     "today": "",
@@ -516,7 +504,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "44",
+    "pos": "43",
     "player": "Sergio García",
     "score": "+2",
     "today": "",
@@ -528,7 +516,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "45",
+    "pos": "44",
     "player": "Viktor Hovland",
     "score": "+2",
     "today": "",
@@ -536,6 +524,18 @@
     "r1": "75.0",
     "r2": "71.0",
     "r3": "36.0",
+    "r4": "",
+    "numeric_score": 2
+  },
+  {
+    "pos": "45",
+    "player": "Marco Penge",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "76.0",
+    "r2": "69.0",
+    "r3": "28.0",
     "r4": "",
     "numeric_score": 2
   },
