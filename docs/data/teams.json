@@ -63,7 +63,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Matt McCarty",
         "score": "+1",
         "today": "",
@@ -150,7 +150,7 @@
         "thru": "",
         "r1": "75.0",
         "r2": "71.0",
-        "r3": "18.0",
+        "r3": "22.0",
         "r4": "",
         "numeric_score": 4
       },
@@ -179,7 +179,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "40",
+        "pos": "41",
         "player": "Sam Stevens",
         "score": "+2",
         "today": "",
@@ -399,7 +399,7 @@
         "numeric_score": 7
       },
       {
-        "pos": "32",
+        "pos": "33",
         "player": "Sepp Straka",
         "score": "+1",
         "today": "",
@@ -515,7 +515,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "41",
+        "pos": "42",
         "player": "Adam Scott",
         "score": "+2",
         "today": "",
@@ -527,16 +527,16 @@
         "numeric_score": 2
       },
       {
-        "pos": "42",
+        "pos": "32",
         "player": "Marco Penge",
-        "score": "+2",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "76.0",
         "r2": "69.0",
-        "r3": "5.0",
+        "r3": "9.0",
         "r4": "",
-        "numeric_score": 2
+        "numeric_score": 1
       },
       {
         "pos": "9",
@@ -607,7 +607,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "34",
+        "pos": "35",
         "player": "Jordan Spieth",
         "score": "+1",
         "today": "",
@@ -619,7 +619,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "39",
+        "pos": "40",
         "player": "Justin Thomas",
         "score": "+2",
         "today": "",
@@ -735,7 +735,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "37",
+        "pos": "38",
         "player": "Jacob Bridgeman",
         "score": "+1",
         "today": "",
@@ -887,7 +887,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "36",
+        "pos": "37",
         "player": "Aaron Rai",
         "score": "+1",
         "today": "",
@@ -979,7 +979,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "35",
+        "pos": "36",
         "player": "Sungjae Im",
         "score": "+1",
         "today": "",
@@ -1003,7 +1003,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "38",
+        "pos": "39",
         "player": "Brian Harman",
         "score": "+2",
         "today": "",
