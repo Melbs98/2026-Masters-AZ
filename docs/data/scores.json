@@ -283,7 +283,7 @@
     "thru": "",
     "r1": "76.0",
     "r2": "69.0",
-    "r3": "12.0",
+    "r3": "15.0",
     "r4": "",
     "numeric_score": 0
   },
@@ -433,6 +433,18 @@
   },
   {
     "pos": "37",
+    "player": "Sungjae Im",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "76.0",
+    "r2": "69.0",
+    "r3": "4.0",
+    "r4": "",
+    "numeric_score": 1
+  },
+  {
+    "pos": "38",
     "player": "Jacob Bridgeman",
     "score": "+1",
     "today": "",
@@ -440,18 +452,6 @@
     "r1": "71.0",
     "r2": "74.0",
     "r3": "4.0",
-    "r4": "",
-    "numeric_score": 1
-  },
-  {
-    "pos": "38",
-    "player": "Sungjae Im",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "76.0",
-    "r2": "69.0",
-    "r3": "0.0",
     "r4": "",
     "numeric_score": 1
   },
