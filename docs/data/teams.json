@@ -63,7 +63,7 @@
         "numeric_score": null
       },
       {
-        "pos": "15",
+        "pos": "16",
         "player": "Ryan Gerard",
         "score": "-4",
         "today": "",
@@ -283,16 +283,16 @@
         "numeric_score": null
       },
       {
-        "pos": "18",
+        "pos": "15",
         "player": "Ben Griffin",
-        "score": "-4",
+        "score": "-5",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
-        "r3": "60.0",
+        "r3": "62.0",
         "r4": "",
-        "numeric_score": -4
+        "numeric_score": -5
       },
       {
         "pos": "52",
@@ -355,7 +355,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -19,
+    "best3_total": -20,
     "scores_entered": 7,
     "roster_loaded": 9
   },
@@ -851,7 +851,7 @@
         "numeric_score": null
       },
       {
-        "pos": "17",
+        "pos": "18",
         "player": "Max Homa",
         "score": "-4",
         "today": "",
@@ -1059,7 +1059,7 @@
     "team": "Coulter",
     "golfers": [
       {
-        "pos": "16",
+        "pos": "17",
         "player": "Xander Schauffele",
         "score": "-4",
         "today": "",
