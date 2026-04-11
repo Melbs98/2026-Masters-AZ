@@ -15,7 +15,7 @@
         "numeric_score": -12
       },
       {
-        "pos": "16",
+        "pos": "17",
         "player": "Hideki Matsuyama",
         "score": "-4",
         "today": "",
@@ -39,7 +39,7 @@
         "numeric_score": null
       },
       {
-        "pos": "12",
+        "pos": "13",
         "player": "Ben Griffin",
         "score": "-5",
         "today": "",
@@ -179,7 +179,7 @@
         "numeric_score": null
       },
       {
-        "pos": "15",
+        "pos": "16",
         "player": "Ryan Gerard",
         "score": "-4",
         "today": "",
@@ -235,7 +235,7 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "13",
+        "pos": "14",
         "player": "Tommy Fleetwood",
         "score": "-5",
         "today": "",
@@ -503,16 +503,16 @@
         "numeric_score": -2
       },
       {
-        "pos": "17",
+        "pos": "11",
         "player": "Jake Knapp",
-        "score": "-4",
+        "score": "-5",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "69.0",
-        "r3": "34.0",
+        "r3": "37.0",
         "r4": "",
-        "numeric_score": -4
+        "numeric_score": -5
       },
       {
         "pos": "3",
@@ -587,7 +587,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -14,
+    "best3_total": -15,
     "scores_entered": 3,
     "roster_loaded": 9
   },
@@ -735,7 +735,7 @@
         "numeric_score": null
       },
       {
-        "pos": "11",
+        "pos": "12",
         "player": "Max Homa",
         "score": "-5",
         "today": "",
@@ -1071,7 +1071,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "14",
+        "pos": "15",
         "player": "Russell Henley",
         "score": "-4",
         "today": "",
