@@ -15,16 +15,16 @@
         "numeric_score": -12
       },
       {
-        "pos": "4",
+        "pos": "9",
         "player": "Hideki Matsuyama",
-        "score": "-5",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "70.0",
-        "r3": "17.0",
+        "r3": "21.0",
         "r4": "",
-        "numeric_score": -5
+        "numeric_score": -4
       },
       {
         "pos": "59",
@@ -111,7 +111,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -21,
+    "best3_total": -20,
     "scores_entered": 7,
     "roster_loaded": 9
   },
@@ -406,7 +406,7 @@
         "thru": "",
         "r1": "71.0",
         "r2": "75.0",
-        "r3": "63.0",
+        "r3": "66.0",
         "r4": "",
         "numeric_score": 4
       },
@@ -479,16 +479,16 @@
     "team": "Ross",
     "golfers": [
       {
-        "pos": "9",
+        "pos": "4",
         "player": "Scottie Scheffler",
-        "score": "-4",
+        "score": "-5",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "74.0",
-        "r3": "28.0",
+        "r3": "31.0",
         "r4": "",
-        "numeric_score": -4
+        "numeric_score": -5
       },
       {
         "pos": "63",
@@ -587,7 +587,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -11,
+    "best3_total": -12,
     "scores_entered": 5,
     "roster_loaded": 9
   },
@@ -674,7 +674,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "71.0",
-        "r3": "20.0",
+        "r3": "23.0",
         "r4": "",
         "numeric_score": -1
       },
@@ -1066,7 +1066,7 @@
         "thru": "",
         "r1": "74.0",
         "r2": "70.0",
-        "r3": "33.0",
+        "r3": "37.0",
         "r4": "",
         "numeric_score": 1
       },
