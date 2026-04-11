@@ -143,7 +143,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "42",
+        "pos": "43",
         "player": "Viktor Hovland",
         "score": "+2",
         "today": "",
@@ -179,7 +179,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "43",
+        "pos": "44",
         "player": "Sam Stevens",
         "score": "+2",
         "today": "",
@@ -527,7 +527,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "44",
+        "pos": "45",
         "player": "Marco Penge",
         "score": "+2",
         "today": "",
@@ -839,16 +839,16 @@
         "numeric_score": 0
       },
       {
-        "pos": "45",
+        "pos": "42",
         "player": "Si Woo Kim",
-        "score": "+3",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
-        "r3": "46.0",
+        "r3": "50.0",
         "r4": "",
-        "numeric_score": 3
+        "numeric_score": 2
       },
       {
         "pos": "36",
@@ -1066,7 +1066,7 @@
         "thru": "",
         "r1": "78.0",
         "r2": "70.0",
-        "r3": "47.0",
+        "r3": "52.0",
         "r4": "",
         "numeric_score": 4
       },
