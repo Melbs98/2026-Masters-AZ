@@ -205,24 +205,24 @@
   },
   {
     "pos": "18",
-    "player": "Max Homa",
-    "score": "-4",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "70.0",
-    "r3": "54.0",
-    "r4": "",
-    "numeric_score": -4
-  },
-  {
-    "pos": "19",
     "player": "Xander Schauffele",
     "score": "-4",
     "today": "",
     "thru": "",
     "r1": "70.0",
     "r2": "72.0",
+    "r3": "59.0",
+    "r4": "",
+    "numeric_score": -4
+  },
+  {
+    "pos": "19",
+    "player": "Max Homa",
+    "score": "-4",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "70.0",
     "r3": "54.0",
     "r4": "",
     "numeric_score": -4
@@ -361,18 +361,6 @@
   },
   {
     "pos": "31",
-    "player": "Kristoffer Reitan",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "68.0",
-    "r3": "46.0",
-    "r4": "",
-    "numeric_score": -2
-  },
-  {
-    "pos": "32",
     "player": "Brian Harman",
     "score": "-1",
     "today": "",
@@ -384,7 +372,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "33",
+    "pos": "32",
     "player": "Jordan Spieth",
     "score": "-1",
     "today": "",
@@ -396,7 +384,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "34",
+    "pos": "33",
     "player": "Harris English",
     "score": "-1",
     "today": "",
@@ -408,7 +396,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "35",
+    "pos": "34",
     "player": "Brooks Koepka",
     "score": "-1",
     "today": "",
@@ -416,6 +404,18 @@
     "r1": "72.0",
     "r2": "69.0",
     "r3": "54.0",
+    "r4": "",
+    "numeric_score": -1
+  },
+  {
+    "pos": "35",
+    "player": "Kristoffer Reitan",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "68.0",
+    "r3": "50.0",
     "r4": "",
     "numeric_score": -1
   },
