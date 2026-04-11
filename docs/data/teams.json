@@ -15,7 +15,7 @@
         "numeric_score": -10
       },
       {
-        "pos": "10",
+        "pos": "9",
         "player": "Patrick Reed",
         "score": "-7",
         "today": "",
@@ -363,7 +363,7 @@
     "team": "Klooster",
     "golfers": [
       {
-        "pos": "9",
+        "pos": "8",
         "player": "Justin Rose",
         "score": "-7",
         "today": "",
@@ -423,16 +423,16 @@
         "numeric_score": 0
       },
       {
-        "pos": "8",
+        "pos": "13",
         "player": "Wyndham Clark",
-        "score": "-7",
+        "score": "-6",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "68.0",
-        "r3": "37.0",
+        "r3": "42.0",
         "r4": "",
-        "numeric_score": -7
+        "numeric_score": -6
       },
       {
         "pos": "16",
@@ -471,7 +471,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -18,
+    "best3_total": -17,
     "scores_entered": 6,
     "roster_loaded": 9
   },
@@ -503,7 +503,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "13",
+        "pos": "12",
         "player": "Jake Knapp",
         "score": "-6",
         "today": "",
@@ -631,7 +631,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "11",
+        "pos": "10",
         "player": "Patrick Cantlay",
         "score": "-6",
         "today": "",
@@ -1071,7 +1071,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "12",
+        "pos": "11",
         "player": "Russell Henley",
         "score": "-6",
         "today": "",
