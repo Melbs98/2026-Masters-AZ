@@ -39,7 +39,7 @@
         "numeric_score": null
       },
       {
-        "pos": "28",
+        "pos": "29",
         "player": "Sepp Straka",
         "score": "-2",
         "today": "",
@@ -126,12 +126,12 @@
         "thru": "",
         "r1": "71.0",
         "r2": "68.0",
-        "r3": "27.0",
+        "r3": "32.0",
         "r4": "",
         "numeric_score": -5
       },
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Matt Fitzpatrick",
         "score": "-3",
         "today": "",
@@ -259,7 +259,7 @@
         "numeric_score": -12
       },
       {
-        "pos": "23",
+        "pos": "24",
         "player": "Hideki Matsuyama",
         "score": "-3",
         "today": "",
@@ -503,7 +503,7 @@
         "numeric_score": null
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Chris Gotterup",
         "score": "-3",
         "today": "",
@@ -735,7 +735,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "29",
+        "pos": "30",
         "player": "Jacob Bridgeman",
         "score": "-2",
         "today": "",
@@ -863,7 +863,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Sungjae Im",
         "score": "-2",
         "today": "",
@@ -1003,16 +1003,16 @@
         "numeric_score": null
       },
       {
-        "pos": "30",
+        "pos": "22",
         "player": "Nick Taylor",
-        "score": "-2",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "72.0",
-        "r3": "55.0",
+        "r3": "59.0",
         "r4": "",
-        "numeric_score": -2
+        "numeric_score": -3
       },
       {
         "pos": "72",
@@ -1051,7 +1051,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -7,
+    "best3_total": -8,
     "scores_entered": 5,
     "roster_loaded": 9
   },
@@ -1059,7 +1059,7 @@
     "team": "Coulter",
     "golfers": [
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Xander Schauffele",
         "score": "-3",
         "today": "",
@@ -1095,7 +1095,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "26",
+        "pos": "27",
         "player": "Tyrrell Hatton",
         "score": "-3",
         "today": "",
