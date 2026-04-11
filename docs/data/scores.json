@@ -529,18 +529,6 @@
   },
   {
     "pos": "45",
-    "player": "Maverick McNealy",
-    "score": "+3",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "70.0",
-    "r3": "16.0",
-    "r4": "",
-    "numeric_score": 3
-  },
-  {
-    "pos": "46",
     "player": "Si Woo Kim",
     "score": "+4",
     "today": "",
@@ -548,6 +536,18 @@
     "r1": "75.0",
     "r2": "73.0",
     "r3": "27.0",
+    "r4": "",
+    "numeric_score": 4
+  },
+  {
+    "pos": "46",
+    "player": "Maverick McNealy",
+    "score": "+4",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "70.0",
+    "r3": "21.0",
     "r4": "",
     "numeric_score": 4
   },
@@ -595,7 +595,7 @@
     "thru": "",
     "r1": "71.0",
     "r2": "75.0",
-    "r3": "11.0",
+    "r3": "15.0",
     "r4": "",
     "numeric_score": 4
   },
