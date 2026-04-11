@@ -94,7 +94,7 @@
         "thru": "",
         "r1": "71.0",
         "r2": "73.0",
-        "r3": "4.0",
+        "r3": "9.0",
         "r4": "",
         "numeric_score": 0
       },
@@ -570,7 +570,7 @@
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
-        "r3": "61.0",
+        "r3": "66.0",
         "r4": "",
         "numeric_score": 9
       },
@@ -711,14 +711,14 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "28",
+        "pos": "27",
         "player": "Ludvig Åberg",
         "score": "-1",
         "today": "",
         "thru": "",
         "r1": "74.0",
         "r2": "70.0",
-        "r3": "12.0",
+        "r3": "15.0",
         "r4": "",
         "numeric_score": -1
       },
@@ -875,7 +875,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Harris English",
         "score": "-1",
         "today": "",
@@ -889,14 +889,14 @@
       {
         "pos": "52",
         "player": "Aaron Rai",
-        "score": "+6",
+        "score": "+7",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "74.0",
-        "r3": "28.0",
+        "r3": "33.0",
         "r4": "",
-        "numeric_score": 6
+        "numeric_score": 7
       },
       {
         "pos": "69",
