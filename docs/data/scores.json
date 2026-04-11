@@ -67,7 +67,7 @@
     "thru": "",
     "r1": "69.0",
     "r2": "69.0",
-    "r3": "19.0",
+    "r3": "22.0",
     "r4": "",
     "numeric_score": -7
   },
@@ -85,6 +85,18 @@
   },
   {
     "pos": "8",
+    "player": "Russell Henley",
+    "score": "-6",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "71.0",
+    "r3": "66.0",
+    "r4": "",
+    "numeric_score": -6
+  },
+  {
+    "pos": "9",
     "player": "Scottie Scheffler",
     "score": "-6",
     "today": "",
@@ -96,7 +108,7 @@
     "numeric_score": -6
   },
   {
-    "pos": "9",
+    "pos": "10",
     "player": "Wyndham Clark",
     "score": "-6",
     "today": "",
@@ -108,7 +120,7 @@
     "numeric_score": -6
   },
   {
-    "pos": "10",
+    "pos": "11",
     "player": "Justin Rose",
     "score": "-6",
     "today": "",
@@ -118,18 +130,6 @@
     "r3": "22.0",
     "r4": "",
     "numeric_score": -6
-  },
-  {
-    "pos": "11",
-    "player": "Russell Henley",
-    "score": "-5",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "71.0",
-    "r3": "63.0",
-    "r4": "",
-    "numeric_score": -5
   },
   {
     "pos": "12",
@@ -145,30 +145,18 @@
   },
   {
     "pos": "13",
-    "player": "Max Homa",
-    "score": "-5",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "70.0",
-    "r3": "37.0",
-    "r4": "",
-    "numeric_score": -5
-  },
-  {
-    "pos": "14",
     "player": "Ben Griffin",
     "score": "-5",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "69.0",
-    "r3": "38.0",
+    "r3": "42.0",
     "r4": "",
     "numeric_score": -5
   },
   {
-    "pos": "15",
+    "pos": "14",
     "player": "Jason Day",
     "score": "-5",
     "today": "",
@@ -180,7 +168,31 @@
     "numeric_score": -5
   },
   {
+    "pos": "15",
+    "player": "Tommy Fleetwood",
+    "score": "-5",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "68.0",
+    "r3": "27.0",
+    "r4": "",
+    "numeric_score": -5
+  },
+  {
     "pos": "16",
+    "player": "Max Homa",
+    "score": "-5",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "70.0",
+    "r3": "42.0",
+    "r4": "",
+    "numeric_score": -5
+  },
+  {
+    "pos": "17",
     "player": "Jake Knapp",
     "score": "-4",
     "today": "",
@@ -188,18 +200,6 @@
     "r1": "73.0",
     "r2": "69.0",
     "r3": "45.0",
-    "r4": "",
-    "numeric_score": -4
-  },
-  {
-    "pos": "17",
-    "player": "Tommy Fleetwood",
-    "score": "-4",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "68.0",
-    "r3": "24.0",
     "r4": "",
     "numeric_score": -4
   },
