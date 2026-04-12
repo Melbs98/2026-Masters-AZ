@@ -44,7 +44,7 @@
     "r1": "70.0",
     "r2": "74.0",
     "r3": "65.0",
-    "r4": "30.0",
+    "r4": "34.0",
     "numeric_score": -9
   },
   {
@@ -301,18 +301,6 @@
   },
   {
     "pos": "26",
-    "player": "Chris Gotterup",
-    "score": "-3",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "69.0",
-    "r3": "72.0",
-    "r4": "68.0",
-    "numeric_score": -3
-  },
-  {
-    "pos": "27",
     "player": "Ben Griffin",
     "score": "-3",
     "today": "",
@@ -324,7 +312,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "28",
+    "pos": "27",
     "player": "Matt McCarty",
     "score": "-2",
     "today": "",
@@ -336,7 +324,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "29",
+    "pos": "28",
     "player": "Adam Scott",
     "score": "-2",
     "today": "",
@@ -348,7 +336,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "30",
+    "pos": "29",
     "player": "Sam Stevens",
     "score": "-2",
     "today": "",
@@ -357,6 +345,18 @@
     "r2": "74.0",
     "r3": "70.0",
     "r4": "70.0",
+    "numeric_score": -2
+  },
+  {
+    "pos": "30",
+    "player": "Chris Gotterup",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "69.0",
+    "r3": "72.0",
+    "r4": "73.0",
     "numeric_score": -2
   },
   {
@@ -536,7 +536,7 @@
     "r1": "72.0",
     "r2": "72.0",
     "r3": "68.0",
-    "r4": "53.0",
+    "r4": "58.0",
     "numeric_score": 2
   },
   {
