@@ -356,7 +356,7 @@
     "r1": "72.0",
     "r2": "74.0",
     "r3": "70.0",
-    "r4": "34.0",
+    "r4": "38.0",
     "numeric_score": -2
   },
   {
@@ -433,18 +433,6 @@
   },
   {
     "pos": "37",
-    "player": "Kristoffer Reitan",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "68.0",
-    "r3": "73.0",
-    "r4": "22.0",
-    "numeric_score": -1
-  },
-  {
-    "pos": "38",
     "player": "Jon Rahm",
     "score": "E",
     "today": "",
@@ -456,7 +444,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "39",
+    "pos": "38",
     "player": "Dustin Johnson",
     "score": "E",
     "today": "",
@@ -468,7 +456,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "40",
+    "pos": "39",
     "player": "Alex Noren",
     "score": "E",
     "today": "",
@@ -480,7 +468,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "41",
+    "pos": "40",
     "player": "Harris English",
     "score": "E",
     "today": "",
@@ -492,7 +480,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "42",
+    "pos": "41",
     "player": "Sungjae Im",
     "score": "E",
     "today": "",
@@ -504,7 +492,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "43",
+    "pos": "42",
     "player": "Jacob Bridgeman",
     "score": "E",
     "today": "",
@@ -516,7 +504,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "44",
+    "pos": "43",
     "player": "Sepp Straka",
     "score": "E",
     "today": "",
@@ -525,6 +513,18 @@
     "r2": "72.0",
     "r3": "69.0",
     "r4": "25.0",
+    "numeric_score": 0
+  },
+  {
+    "pos": "44",
+    "player": "Kristoffer Reitan",
+    "score": "E",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "68.0",
+    "r3": "73.0",
+    "r4": "26.0",
     "numeric_score": 0
   },
   {
@@ -572,7 +572,7 @@
     "r1": "75.0",
     "r2": "73.0",
     "r3": "72.0",
-    "r4": "57.0",
+    "r4": "62.0",
     "numeric_score": 5
   },
   {
