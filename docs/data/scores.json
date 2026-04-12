@@ -73,6 +73,18 @@
   },
   {
     "pos": "7",
+    "player": "Jake Knapp",
+    "score": "-7",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "69.0",
+    "r3": "69.0",
+    "r4": "11.0",
+    "numeric_score": -7
+  },
+  {
+    "pos": "8",
     "player": "Scottie Scheffler",
     "score": "-7",
     "today": "",
@@ -84,7 +96,7 @@
     "numeric_score": -7
   },
   {
-    "pos": "8",
+    "pos": "9",
     "player": "Haotong Li",
     "score": "-7",
     "today": "",
@@ -96,7 +108,7 @@
     "numeric_score": -7
   },
   {
-    "pos": "9",
+    "pos": "10",
     "player": "Ludvig Åberg",
     "score": "-6",
     "today": "",
@@ -108,7 +120,7 @@
     "numeric_score": -6
   },
   {
-    "pos": "10",
+    "pos": "11",
     "player": "Xander Schauffele",
     "score": "-6",
     "today": "",
@@ -117,18 +129,6 @@
     "r2": "72.0",
     "r3": "70.0",
     "r4": "14.0",
-    "numeric_score": -6
-  },
-  {
-    "pos": "11",
-    "player": "Jake Knapp",
-    "score": "-6",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "69.0",
-    "r3": "69.0",
-    "r4": "8.0",
     "numeric_score": -6
   },
   {
