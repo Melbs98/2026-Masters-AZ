@@ -73,6 +73,18 @@
   },
   {
     "pos": "7",
+    "player": "Tyrrell Hatton",
+    "score": "-7",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "66.0",
+    "r3": "72.0",
+    "r4": "49.0",
+    "numeric_score": -7
+  },
+  {
+    "pos": "8",
     "player": "Jason Day",
     "score": "-7",
     "today": "",
@@ -84,7 +96,7 @@
     "numeric_score": -7
   },
   {
-    "pos": "8",
+    "pos": "9",
     "player": "Max Homa",
     "score": "-6",
     "today": "",
@@ -93,18 +105,6 @@
     "r2": "70.0",
     "r3": "71.0",
     "r4": "58.0",
-    "numeric_score": -6
-  },
-  {
-    "pos": "9",
-    "player": "Tyrrell Hatton",
-    "score": "-6",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "66.0",
-    "r3": "72.0",
-    "r4": "45.0",
     "numeric_score": -6
   },
   {
@@ -524,7 +524,7 @@
     "r1": "72.0",
     "r2": "68.0",
     "r3": "73.0",
-    "r4": "69.0",
+    "r4": "73.0",
     "numeric_score": 2
   },
   {
