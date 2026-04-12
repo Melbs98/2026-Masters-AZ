@@ -5,11 +5,15 @@
       "winners": [
         {
           "name": "Adam & Kevin",
-          "amount": 37.5
+          "amount": 25.0
+        },
+        {
+          "name": "Melbye²",
+          "amount": 25.0
         },
         {
           "name": "Roth",
-          "amount": 37.5
+          "amount": 25.0
         }
       ]
     }
