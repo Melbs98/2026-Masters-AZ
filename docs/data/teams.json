@@ -15,7 +15,7 @@
         "numeric_score": -8
       },
       {
-        "pos": "12",
+        "pos": "13",
         "player": "Jordan Spieth",
         "score": "-5",
         "today": "",
@@ -131,7 +131,7 @@
         "numeric_score": null
       },
       {
-        "pos": "14",
+        "pos": "15",
         "player": "Brooks Koepka",
         "score": "-5",
         "today": "",
@@ -247,7 +247,7 @@
         "numeric_score": -11
       },
       {
-        "pos": "13",
+        "pos": "14",
         "player": "Hideki Matsuyama",
         "score": "-5",
         "today": "",
@@ -503,16 +503,16 @@
         "numeric_score": -2
       },
       {
-        "pos": "16",
+        "pos": "12",
         "player": "Patrick Cantlay",
-        "score": "-5",
+        "score": "-6",
         "today": "",
         "thru": "",
         "r1": "77.0",
         "r2": "67.0",
         "r3": "66.0",
-        "r4": "57.0",
-        "numeric_score": -5
+        "r4": "61.0",
+        "numeric_score": -6
       },
       {
         "pos": "32",
@@ -575,7 +575,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -16,
+    "best3_total": -17,
     "scores_entered": 5,
     "roster_loaded": 9
   },
@@ -711,7 +711,7 @@
         "numeric_score": -10
       },
       {
-        "pos": "15",
+        "pos": "16",
         "player": "Patrick Reed",
         "score": "-5",
         "today": "",
@@ -835,7 +835,7 @@
         "r1": "73.0",
         "r2": "71.0",
         "r3": "66.0",
-        "r4": "52.0",
+        "r4": "57.0",
         "numeric_score": -10
       },
       {
