@@ -493,6 +493,18 @@
   },
   {
     "pos": "42",
+    "player": "Alex Noren",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "71.0",
+    "r3": "69.0",
+    "r4": "4.0",
+    "numeric_score": 1
+  },
+  {
+    "pos": "43",
     "player": "Viktor Hovland",
     "score": "+1",
     "today": "",
@@ -501,18 +513,6 @@
     "r2": "71.0",
     "r3": "71.0",
     "r4": "4.0",
-    "numeric_score": 1
-  },
-  {
-    "pos": "43",
-    "player": "Alex Noren",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "71.0",
-    "r3": "69.0",
-    "r4": "0.0",
     "numeric_score": 1
   },
   {
@@ -553,18 +553,6 @@
   },
   {
     "pos": "47",
-    "player": "Jon Rahm",
-    "score": "+3",
-    "today": "",
-    "thru": "",
-    "r1": "78.0",
-    "r2": "70.0",
-    "r3": "73.0",
-    "r4": "19.0",
-    "numeric_score": 3
-  },
-  {
-    "pos": "48",
     "player": "Corey Conners",
     "score": "+3",
     "today": "",
@@ -576,7 +564,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "49",
+    "pos": "48",
     "player": "Gary Woodland",
     "score": "+4",
     "today": "",
@@ -585,6 +573,18 @@
     "r2": "75.0",
     "r3": "76.0",
     "r4": "21.0",
+    "numeric_score": 4
+  },
+  {
+    "pos": "49",
+    "player": "Jon Rahm",
+    "score": "+4",
+    "today": "",
+    "thru": "",
+    "r1": "78.0",
+    "r2": "70.0",
+    "r3": "73.0",
+    "r4": "19.0",
     "numeric_score": 4
   },
   {
