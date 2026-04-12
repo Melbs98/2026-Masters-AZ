@@ -164,7 +164,7 @@
     "r1": "70.0",
     "r2": "69.0",
     "r3": "68.0",
-    "r4": "39.0",
+    "r4": "43.0",
     "numeric_score": -6
   },
   {
@@ -349,6 +349,18 @@
   },
   {
     "pos": "30",
+    "player": "Brian Campbell",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "73.0",
+    "r3": "69.0",
+    "r4": "73.0",
+    "numeric_score": -2
+  },
+  {
+    "pos": "31",
     "player": "Michael Brennan",
     "score": "-2",
     "today": "",
@@ -360,7 +372,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "31",
+    "pos": "32",
     "player": "Chris Gotterup",
     "score": "-2",
     "today": "",
@@ -369,18 +381,6 @@
     "r2": "69.0",
     "r3": "72.0",
     "r4": "73.0",
-    "numeric_score": -2
-  },
-  {
-    "pos": "32",
-    "player": "Brian Campbell",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "73.0",
-    "r3": "69.0",
-    "r4": "69.0",
     "numeric_score": -2
   },
   {
