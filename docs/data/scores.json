@@ -109,6 +109,18 @@
   },
   {
     "pos": "10",
+    "player": "Sam Burns",
+    "score": "-8",
+    "today": "",
+    "thru": "",
+    "r1": "67.0",
+    "r2": "71.0",
+    "r3": "68.0",
+    "r4": "54.0",
+    "numeric_score": -8
+  },
+  {
+    "pos": "11",
     "player": "Jake Knapp",
     "score": "-7",
     "today": "",
@@ -117,18 +129,6 @@
     "r2": "69.0",
     "r3": "69.0",
     "r4": "70.0",
-    "numeric_score": -7
-  },
-  {
-    "pos": "11",
-    "player": "Sam Burns",
-    "score": "-7",
-    "today": "",
-    "thru": "",
-    "r1": "67.0",
-    "r2": "71.0",
-    "r3": "68.0",
-    "r4": "50.0",
     "numeric_score": -7
   },
   {
