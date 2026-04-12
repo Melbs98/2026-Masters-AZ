@@ -39,16 +39,16 @@
         "numeric_score": null
       },
       {
-        "pos": "43",
+        "pos": "35",
         "player": "Sepp Straka",
-        "score": "E",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "72.0",
         "r3": "69.0",
-        "r4": "25.0",
-        "numeric_score": 0
+        "r4": "28.0",
+        "numeric_score": -1
       },
       {
         "pos": "56",
@@ -63,7 +63,7 @@
         "numeric_score": null
       },
       {
-        "pos": "22",
+        "pos": "21",
         "player": "Ryan Gerard",
         "score": "-4",
         "today": "",
@@ -119,19 +119,19 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "21",
+        "pos": "28",
         "player": "Tommy Fleetwood",
-        "score": "-4",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "68.0",
         "r3": "73.0",
-        "r4": "4.0",
-        "numeric_score": -4
+        "r4": "10.0",
+        "numeric_score": -3
       },
       {
-        "pos": "27",
+        "pos": "26",
         "player": "Matt Fitzpatrick",
         "score": "-3",
         "today": "",
@@ -167,7 +167,7 @@
         "numeric_score": -8
       },
       {
-        "pos": "35",
+        "pos": "36",
         "player": "Gary Woodland",
         "score": "E",
         "today": "",
@@ -179,7 +179,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "45",
+        "pos": "44",
         "player": "Sam Stevens",
         "score": "+1",
         "today": "",
@@ -435,7 +435,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "44",
+        "pos": "43",
         "player": "Kristoffer Reitan",
         "score": "E",
         "today": "",
@@ -447,7 +447,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "28",
+        "pos": "27",
         "player": "Brian Campbell",
         "score": "-3",
         "today": "",
@@ -503,7 +503,7 @@
         "numeric_score": null
       },
       {
-        "pos": "24",
+        "pos": "23",
         "player": "Chris Gotterup",
         "score": "-3",
         "today": "",
@@ -527,7 +527,7 @@
         "numeric_score": -6
       },
       {
-        "pos": "39",
+        "pos": "40",
         "player": "Harris English",
         "score": "E",
         "today": "",
@@ -619,16 +619,16 @@
         "numeric_score": 5
       },
       {
-        "pos": "42",
+        "pos": "45",
         "player": "Jacob Bridgeman",
-        "score": "E",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "74.0",
         "r3": "69.0",
-        "r4": "25.0",
-        "numeric_score": 0
+        "r4": "30.0",
+        "numeric_score": 1
       },
       {
         "pos": "4",
@@ -655,7 +655,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "38",
+        "pos": "39",
         "player": "Alex Noren",
         "score": "E",
         "today": "",
@@ -783,7 +783,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "25",
+        "pos": "24",
         "player": "Michael Brennan",
         "score": "-3",
         "today": "",
@@ -827,7 +827,7 @@
     "team": "Bryan",
     "golfers": [
       {
-        "pos": "36",
+        "pos": "37",
         "player": "Jon Rahm",
         "score": "E",
         "today": "",
@@ -887,7 +887,7 @@
         "numeric_score": null
       },
       {
-        "pos": "26",
+        "pos": "25",
         "player": "Nick Taylor",
         "score": "-3",
         "today": "",
@@ -943,7 +943,7 @@
     "team": "Coulter",
     "golfers": [
       {
-        "pos": "23",
+        "pos": "22",
         "player": "Xander Schauffele",
         "score": "-4",
         "today": "",
@@ -991,7 +991,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "37",
+        "pos": "38",
         "player": "Dustin Johnson",
         "score": "E",
         "today": "",
@@ -1095,7 +1095,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "41",
+        "pos": "42",
         "player": "Sungjae Im",
         "score": "E",
         "today": "",
@@ -1119,7 +1119,7 @@
         "numeric_score": 9
       },
       {
-        "pos": "40",
+        "pos": "41",
         "player": "Brian Harman",
         "score": "E",
         "today": "",
