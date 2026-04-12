@@ -152,7 +152,7 @@
     "r1": "77.0",
     "r2": "67.0",
     "r3": "66.0",
-    "r4": "4.0",
+    "r4": "9.0",
     "numeric_score": -6
   },
   {
@@ -517,18 +517,6 @@
   },
   {
     "pos": "44",
-    "player": "Kristoffer Reitan",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "68.0",
-    "r3": "73.0",
-    "r4": "40.0",
-    "numeric_score": 1
-  },
-  {
-    "pos": "45",
     "player": "Justin Thomas",
     "score": "+2",
     "today": "",
@@ -540,7 +528,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "46",
+    "pos": "45",
     "player": "Sungjae Im",
     "score": "+2",
     "today": "",
@@ -549,6 +537,18 @@
     "r2": "69.0",
     "r3": "69.0",
     "r4": "51.0",
+    "numeric_score": 2
+  },
+  {
+    "pos": "46",
+    "player": "Kristoffer Reitan",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "68.0",
+    "r3": "73.0",
+    "r4": "45.0",
     "numeric_score": 2
   },
   {
@@ -577,6 +577,18 @@
   },
   {
     "pos": "49",
+    "player": "Marco Penge",
+    "score": "+5",
+    "today": "",
+    "thru": "",
+    "r1": "76.0",
+    "r2": "69.0",
+    "r3": "71.0",
+    "r4": "66.0",
+    "numeric_score": 5
+  },
+  {
+    "pos": "50",
     "player": "Corey Conners",
     "score": "+6",
     "today": "",
@@ -585,18 +597,6 @@
     "r2": "73.0",
     "r3": "71.0",
     "r4": "75.0",
-    "numeric_score": 6
-  },
-  {
-    "pos": "50",
-    "player": "Marco Penge",
-    "score": "+6",
-    "today": "",
-    "thru": "",
-    "r1": "76.0",
-    "r2": "69.0",
-    "r3": "71.0",
-    "r4": "62.0",
     "numeric_score": 6
   },
   {
