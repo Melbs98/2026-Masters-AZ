@@ -119,16 +119,16 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "33",
+        "pos": "35",
         "player": "Tommy Fleetwood",
-        "score": "-2",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "68.0",
         "r3": "73.0",
-        "r4": "42.0",
-        "numeric_score": -2
+        "r4": "47.0",
+        "numeric_score": -1
       },
       {
         "pos": "23",
@@ -155,7 +155,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "10",
+        "pos": "9",
         "player": "Jason Day",
         "score": "-7",
         "today": "",
@@ -191,7 +191,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "9",
+        "pos": "14",
         "player": "Haotong Li",
         "score": "-7",
         "today": "",
@@ -199,7 +199,7 @@
         "r1": "71.0",
         "r2": "69.0",
         "r3": "69.0",
-        "r4": "20.0",
+        "r4": "24.0",
         "numeric_score": -7
       },
       {
@@ -387,7 +387,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "13",
+        "pos": "12",
         "player": "Jake Knapp",
         "score": "-6",
         "today": "",
@@ -515,7 +515,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "14",
+        "pos": "13",
         "player": "Patrick Cantlay",
         "score": "-6",
         "today": "",
@@ -527,7 +527,7 @@
         "numeric_score": -6
       },
       {
-        "pos": "35",
+        "pos": "34",
         "player": "Harris English",
         "score": "-1",
         "today": "",
@@ -747,7 +747,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "12",
+        "pos": "11",
         "player": "Tyrrell Hatton",
         "score": "-6",
         "today": "",
@@ -887,7 +887,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "34",
+        "pos": "33",
         "player": "Alex Noren",
         "score": "-1",
         "today": "",
@@ -1083,7 +1083,7 @@
         "numeric_score": null
       },
       {
-        "pos": "11",
+        "pos": "10",
         "player": "Max Homa",
         "score": "-6",
         "today": "",
