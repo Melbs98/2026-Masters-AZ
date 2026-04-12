@@ -15,7 +15,7 @@
         "numeric_score": -12
       },
       {
-        "pos": "9",
+        "pos": "8",
         "player": "Hideki Matsuyama",
         "score": "-7",
         "today": "",
@@ -95,7 +95,7 @@
         "r1": "71.0",
         "r2": "73.0",
         "r3": "69.0",
-        "r4": "45.0",
+        "r4": "48.0",
         "numeric_score": -2
       },
       {
@@ -155,7 +155,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "6",
+        "pos": "10",
         "player": "Jason Day",
         "score": "-8",
         "today": "",
@@ -163,7 +163,7 @@
         "r1": "69.0",
         "r2": "71.0",
         "r3": "68.0",
-        "r4": "16.0",
+        "r4": "21.0",
         "numeric_score": -8
       },
       {
@@ -191,7 +191,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "10",
+        "pos": "9",
         "player": "Haotong Li",
         "score": "-7",
         "today": "",
@@ -399,7 +399,7 @@
         "numeric_score": -6
       },
       {
-        "pos": "8",
+        "pos": "7",
         "player": "Sam Burns",
         "score": "-8",
         "today": "",
@@ -863,7 +863,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "7",
+        "pos": "6",
         "player": "Shane Lowry",
         "score": "-8",
         "today": "",
