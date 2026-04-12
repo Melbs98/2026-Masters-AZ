@@ -68,7 +68,7 @@
     "r1": "67.0",
     "r2": "71.0",
     "r3": "68.0",
-    "r4": "25.0",
+    "r4": "29.0",
     "numeric_score": -8
   },
   {
@@ -373,6 +373,18 @@
   },
   {
     "pos": "32",
+    "player": "Wyndham Clark",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "68.0",
+    "r3": "72.0",
+    "r4": "54.0",
+    "numeric_score": -2
+  },
+  {
+    "pos": "33",
     "player": "Alex Noren",
     "score": "-1",
     "today": "",
@@ -384,7 +396,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "33",
+    "pos": "34",
     "player": "Harris English",
     "score": "-1",
     "today": "",
@@ -396,7 +408,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "34",
+    "pos": "35",
     "player": "Tommy Fleetwood",
     "score": "-1",
     "today": "",
@@ -405,18 +417,6 @@
     "r2": "68.0",
     "r3": "73.0",
     "r4": "55.0",
-    "numeric_score": -1
-  },
-  {
-    "pos": "35",
-    "player": "Wyndham Clark",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "68.0",
-    "r3": "72.0",
-    "r4": "50.0",
     "numeric_score": -1
   },
   {
