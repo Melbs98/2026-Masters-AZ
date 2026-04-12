@@ -39,7 +39,7 @@
         "numeric_score": null
       },
       {
-        "pos": "32",
+        "pos": "33",
         "player": "Sepp Straka",
         "score": "-2",
         "today": "",
@@ -167,7 +167,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "50",
+        "pos": "51",
         "player": "Kurt Kitayama",
         "score": "+6",
         "today": "",
@@ -203,7 +203,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "28",
+        "pos": "29",
         "player": "Brian Campbell",
         "score": "-3",
         "today": "",
@@ -247,7 +247,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "29",
+        "pos": "30",
         "player": "Matt Fitzpatrick",
         "score": "-3",
         "today": "",
@@ -291,7 +291,7 @@
         "r1": "71.0",
         "r2": "75.0",
         "r3": "76.0",
-        "r4": "47.0",
+        "r4": "51.0",
         "numeric_score": 1
       },
       {
@@ -539,7 +539,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "51",
+        "pos": "50",
         "player": "Aaron Rai",
         "score": "+6",
         "today": "",
@@ -547,7 +547,7 @@
         "r1": "71.0",
         "r2": "74.0",
         "r3": "78.0",
-        "r4": "55.0",
+        "r4": "60.0",
         "numeric_score": 6
       },
       {
@@ -667,28 +667,28 @@
         "numeric_score": -4
       },
       {
-        "pos": "33",
+        "pos": "26",
         "player": "Michael Brennan",
-        "score": "-2",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "71.0",
         "r3": "70.0",
-        "r4": "5.0",
-        "numeric_score": -2
+        "r4": "9.0",
+        "numeric_score": -3
       },
       {
         "pos": "54",
         "player": "Charl Schwartzel",
-        "score": "+13",
+        "score": "+12",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
         "r3": "77.0",
-        "r4": "60.0",
-        "numeric_score": 13
+        "r4": "64.0",
+        "numeric_score": 12
       },
       {
         "pos": "77",
@@ -703,7 +703,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -14,
+    "best3_total": -15,
     "scores_entered": 6,
     "roster_loaded": 9
   },
@@ -711,7 +711,7 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Ludvig Åberg",
         "score": "-3",
         "today": "",
@@ -863,7 +863,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "31",
+        "pos": "32",
         "player": "Maverick McNealy",
         "score": "-2",
         "today": "",
@@ -887,7 +887,7 @@
         "numeric_score": null
       },
       {
-        "pos": "30",
+        "pos": "31",
         "player": "Nick Taylor",
         "score": "-3",
         "today": "",
@@ -1083,7 +1083,7 @@
         "numeric_score": null
       },
       {
-        "pos": "26",
+        "pos": "27",
         "player": "Max Homa",
         "score": "-3",
         "today": "",
