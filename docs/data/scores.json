@@ -409,18 +409,6 @@
   },
   {
     "pos": "35",
-    "player": "Jacob Bridgeman",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "74.0",
-    "r3": "69.0",
-    "r4": "37.0",
-    "numeric_score": -1
-  },
-  {
-    "pos": "36",
     "player": "Tommy Fleetwood",
     "score": "-1",
     "today": "",
@@ -432,7 +420,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "37",
+    "pos": "36",
     "player": "Gary Woodland",
     "score": "E",
     "today": "",
@@ -444,7 +432,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "38",
+    "pos": "37",
     "player": "Dustin Johnson",
     "score": "E",
     "today": "",
@@ -456,7 +444,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "39",
+    "pos": "38",
     "player": "Sam Stevens",
     "score": "E",
     "today": "",
@@ -468,7 +456,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "40",
+    "pos": "39",
     "player": "Brian Harman",
     "score": "E",
     "today": "",
@@ -480,6 +468,18 @@
     "numeric_score": 0
   },
   {
+    "pos": "40",
+    "player": "Jacob Bridgeman",
+    "score": "E",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "74.0",
+    "r3": "69.0",
+    "r4": "42.0",
+    "numeric_score": 0
+  },
+  {
     "pos": "41",
     "player": "Sepp Straka",
     "score": "E",
@@ -488,7 +488,7 @@
     "r1": "73.0",
     "r2": "72.0",
     "r3": "69.0",
-    "r4": "38.0",
+    "r4": "42.0",
     "numeric_score": 0
   },
   {
