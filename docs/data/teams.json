@@ -229,14 +229,14 @@
       {
         "pos": "52",
         "player": "Sergio García",
-        "score": "+7",
+        "score": "+8",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "75.0",
         "r3": "74.0",
         "r4": "54.0",
-        "numeric_score": 7
+        "numeric_score": 8
       }
     ],
     "best3_total": -19,
@@ -423,19 +423,19 @@
         "numeric_score": 6
       },
       {
-        "pos": "35",
+        "pos": "38",
         "player": "Matt McCarty",
-        "score": "-1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "73.0",
         "r3": "72.0",
-        "r4": "38.0",
-        "numeric_score": -1
+        "r4": "43.0",
+        "numeric_score": 0
       },
       {
-        "pos": "27",
+        "pos": "25",
         "player": "Kristoffer Reitan",
         "score": "-3",
         "today": "",
@@ -443,7 +443,7 @@
         "r1": "72.0",
         "r2": "68.0",
         "r3": "73.0",
-        "r4": "13.0",
+        "r4": "16.0",
         "numeric_score": -3
       },
       {
@@ -539,7 +539,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "50",
+        "pos": "49",
         "player": "Aaron Rai",
         "score": "+5",
         "today": "",
@@ -667,7 +667,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Michael Brennan",
         "score": "-3",
         "today": "",
@@ -723,19 +723,19 @@
         "numeric_score": -4
       },
       {
-        "pos": "48",
+        "pos": "50",
         "player": "Si Woo Kim",
-        "score": "+4",
+        "score": "+5",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
         "r3": "72.0",
-        "r4": "47.0",
-        "numeric_score": 4
+        "r4": "53.0",
+        "numeric_score": 5
       },
       {
-        "pos": "37",
+        "pos": "36",
         "player": "Jacob Bridgeman",
         "score": "-1",
         "today": "",
@@ -771,7 +771,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "36",
+        "pos": "35",
         "player": "Alex Noren",
         "score": "-1",
         "today": "",
@@ -835,7 +835,7 @@
         "r1": "78.0",
         "r2": "70.0",
         "r3": "73.0",
-        "r4": "48.0",
+        "r4": "52.0",
         "numeric_score": 1
       },
       {
@@ -851,7 +851,7 @@
         "numeric_score": -6
       },
       {
-        "pos": "49",
+        "pos": "48",
         "player": "Corey Conners",
         "score": "+4",
         "today": "",
@@ -991,7 +991,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "38",
+        "pos": "37",
         "player": "Dustin Johnson",
         "score": "E",
         "today": "",
@@ -1083,7 +1083,7 @@
         "numeric_score": null
       },
       {
-        "pos": "26",
+        "pos": "27",
         "player": "Max Homa",
         "score": "-3",
         "today": "",
