@@ -39,7 +39,7 @@
         "numeric_score": null
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Sepp Straka",
         "score": "-2",
         "today": "",
@@ -423,7 +423,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "34",
+        "pos": "35",
         "player": "Matt McCarty",
         "score": "-1",
         "today": "",
@@ -435,7 +435,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Kristoffer Reitan",
         "score": "-3",
         "today": "",
@@ -503,7 +503,7 @@
         "numeric_score": null
       },
       {
-        "pos": "23",
+        "pos": "24",
         "player": "Chris Gotterup",
         "score": "-3",
         "today": "",
@@ -631,16 +631,16 @@
         "numeric_score": null
       },
       {
-        "pos": "36",
+        "pos": "32",
         "player": "Adam Scott",
-        "score": "-1",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
         "r3": "70.0",
-        "r4": "26.0",
-        "numeric_score": -1
+        "r4": "30.0",
+        "numeric_score": -2
       },
       {
         "pos": "46",
@@ -667,7 +667,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Michael Brennan",
         "score": "-3",
         "today": "",
@@ -771,7 +771,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "35",
+        "pos": "36",
         "player": "Alex Noren",
         "score": "-1",
         "today": "",
@@ -955,7 +955,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "32",
+        "pos": "33",
         "player": "Jordan Spieth",
         "score": "-2",
         "today": "",
@@ -1083,7 +1083,7 @@
         "numeric_score": null
       },
       {
-        "pos": "26",
+        "pos": "23",
         "player": "Max Homa",
         "score": "-3",
         "today": "",
@@ -1091,7 +1091,7 @@
         "r1": "72.0",
         "r2": "70.0",
         "r3": "71.0",
-        "r4": "9.0",
+        "r4": "13.0",
         "numeric_score": -3
       },
       {
