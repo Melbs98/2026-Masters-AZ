@@ -39,7 +39,7 @@
         "numeric_score": null
       },
       {
-        "pos": "33",
+        "pos": "32",
         "player": "Sepp Straka",
         "score": "-2",
         "today": "",
@@ -191,7 +191,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Kristoffer Reitan",
         "score": "-3",
         "today": "",
@@ -203,7 +203,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Brian Campbell",
         "score": "-3",
         "today": "",
@@ -247,7 +247,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "28",
+        "pos": "29",
         "player": "Matt Fitzpatrick",
         "score": "-3",
         "today": "",
@@ -503,7 +503,7 @@
         "numeric_score": null
       },
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Chris Gotterup",
         "score": "-3",
         "today": "",
@@ -592,126 +592,10 @@
     "roster_loaded": 9
   },
   {
-    "team": "Klooster",
-    "golfers": [
-      {
-        "pos": "6",
-        "player": "Justin Rose",
-        "score": "-8",
-        "today": "",
-        "thru": "",
-        "r1": "70.0",
-        "r2": "69.0",
-        "r3": "69.0",
-        "r4": "0.0",
-        "numeric_score": -8
-      },
-      {
-        "pos": "64",
-        "player": "Robert MacIntyre",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "80.0",
-        "r2": "71.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "60",
-        "player": "Nicolai Højgaard",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "76.0",
-        "r2": "74.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "36",
-        "player": "Adam Scott",
-        "score": "-1",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "74.0",
-        "r3": "70.0",
-        "r4": "22.0",
-        "numeric_score": -1
-      },
-      {
-        "pos": "44",
-        "player": "Marco Penge",
-        "score": "+1",
-        "today": "",
-        "thru": "",
-        "r1": "76.0",
-        "r2": "69.0",
-        "r3": "71.0",
-        "r4": "24.0",
-        "numeric_score": 1
-      },
-      {
-        "pos": "20",
-        "player": "Wyndham Clark",
-        "score": "-4",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "68.0",
-        "r3": "72.0",
-        "r4": "0.0",
-        "numeric_score": -4
-      },
-      {
-        "pos": "29",
-        "player": "Michael Brennan",
-        "score": "-3",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "71.0",
-        "r3": "70.0",
-        "r4": "0.0",
-        "numeric_score": -3
-      },
-      {
-        "pos": "54",
-        "player": "Charl Schwartzel",
-        "score": "+12",
-        "today": "",
-        "thru": "",
-        "r1": "75.0",
-        "r2": "73.0",
-        "r3": "77.0",
-        "r4": "55.0",
-        "numeric_score": 12
-      },
-      {
-        "pos": "77",
-        "player": "Mike Weir",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "81.0",
-        "r2": "73.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      }
-    ],
-    "best3_total": -15,
-    "scores_entered": 6,
-    "roster_loaded": 9
-  },
-  {
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "26",
+        "pos": "27",
         "player": "Ludvig Åberg",
         "score": "-3",
         "today": "",
@@ -731,11 +615,11 @@
         "r1": "75.0",
         "r2": "73.0",
         "r3": "72.0",
-        "r4": "39.0",
+        "r4": "43.0",
         "numeric_score": 3
       },
       {
-        "pos": "32",
+        "pos": "31",
         "player": "Jacob Bridgeman",
         "score": "-2",
         "today": "",
@@ -814,6 +698,122 @@
         "thru": "",
         "r1": "81.0",
         "r2": "78.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      }
+    ],
+    "best3_total": -14,
+    "scores_entered": 6,
+    "roster_loaded": 9
+  },
+  {
+    "team": "Klooster",
+    "golfers": [
+      {
+        "pos": "6",
+        "player": "Justin Rose",
+        "score": "-8",
+        "today": "",
+        "thru": "",
+        "r1": "70.0",
+        "r2": "69.0",
+        "r3": "69.0",
+        "r4": "0.0",
+        "numeric_score": -8
+      },
+      {
+        "pos": "64",
+        "player": "Robert MacIntyre",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "80.0",
+        "r2": "71.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "60",
+        "player": "Nicolai Højgaard",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "76.0",
+        "r2": "74.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "36",
+        "player": "Adam Scott",
+        "score": "-1",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "74.0",
+        "r3": "70.0",
+        "r4": "22.0",
+        "numeric_score": -1
+      },
+      {
+        "pos": "44",
+        "player": "Marco Penge",
+        "score": "+1",
+        "today": "",
+        "thru": "",
+        "r1": "76.0",
+        "r2": "69.0",
+        "r3": "71.0",
+        "r4": "24.0",
+        "numeric_score": 1
+      },
+      {
+        "pos": "20",
+        "player": "Wyndham Clark",
+        "score": "-4",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "68.0",
+        "r3": "72.0",
+        "r4": "0.0",
+        "numeric_score": -4
+      },
+      {
+        "pos": "33",
+        "player": "Michael Brennan",
+        "score": "-2",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "71.0",
+        "r3": "70.0",
+        "r4": "5.0",
+        "numeric_score": -2
+      },
+      {
+        "pos": "54",
+        "player": "Charl Schwartzel",
+        "score": "+12",
+        "today": "",
+        "thru": "",
+        "r1": "75.0",
+        "r2": "73.0",
+        "r3": "77.0",
+        "r4": "55.0",
+        "numeric_score": 12
+      },
+      {
+        "pos": "77",
+        "player": "Mike Weir",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "81.0",
+        "r2": "73.0",
         "r3": "0.0",
         "r4": "",
         "numeric_score": null
@@ -1083,7 +1083,7 @@
         "numeric_score": null
       },
       {
-        "pos": "31",
+        "pos": "24",
         "player": "Max Homa",
         "score": "-3",
         "today": "",
@@ -1091,7 +1091,7 @@
         "r1": "72.0",
         "r2": "70.0",
         "r3": "71.0",
-        "r4": "0.0",
+        "r4": "4.0",
         "numeric_score": -3
       },
       {
@@ -1115,7 +1115,7 @@
         "r1": "78.0",
         "r2": "70.0",
         "r3": "73.0",
-        "r4": "43.0",
+        "r4": "47.0",
         "numeric_score": 8
       },
       {
