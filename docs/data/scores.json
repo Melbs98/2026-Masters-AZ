@@ -109,6 +109,18 @@
   },
   {
     "pos": "10",
+    "player": "Haotong Li",
+    "score": "-6",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "69.0",
+    "r3": "69.0",
+    "r4": "29.0",
+    "numeric_score": -6
+  },
+  {
+    "pos": "11",
     "player": "Shane Lowry",
     "score": "-6",
     "today": "",
@@ -120,7 +132,7 @@
     "numeric_score": -6
   },
   {
-    "pos": "11",
+    "pos": "12",
     "player": "Jordan Spieth",
     "score": "-5",
     "today": "",
@@ -132,7 +144,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "12",
+    "pos": "13",
     "player": "Hideki Matsuyama",
     "score": "-5",
     "today": "",
@@ -144,7 +156,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "13",
+    "pos": "14",
     "player": "Matt Fitzpatrick",
     "score": "-5",
     "today": "",
@@ -156,7 +168,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "14",
+    "pos": "15",
     "player": "Xander Schauffele",
     "score": "-5",
     "today": "",
@@ -168,7 +180,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "15",
+    "pos": "16",
     "player": "Jake Knapp",
     "score": "-5",
     "today": "",
@@ -180,7 +192,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "16",
+    "pos": "17",
     "player": "Patrick Reed",
     "score": "-5",
     "today": "",
@@ -189,18 +201,6 @@
     "r2": "69.0",
     "r3": "72.0",
     "r4": "37.0",
-    "numeric_score": -5
-  },
-  {
-    "pos": "17",
-    "player": "Haotong Li",
-    "score": "-5",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "69.0",
-    "r3": "69.0",
-    "r4": "29.0",
     "numeric_score": -5
   },
   {
@@ -493,24 +493,24 @@
   },
   {
     "pos": "42",
-    "player": "Jacob Bridgeman",
-    "score": "+2",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "74.0",
-    "r3": "69.0",
-    "r4": "72.0",
-    "numeric_score": 2
-  },
-  {
-    "pos": "43",
     "player": "Sepp Straka",
     "score": "+2",
     "today": "",
     "thru": "",
     "r1": "73.0",
     "r2": "72.0",
+    "r3": "69.0",
+    "r4": "76.0",
+    "numeric_score": 2
+  },
+  {
+    "pos": "43",
+    "player": "Jacob Bridgeman",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "74.0",
     "r3": "69.0",
     "r4": "72.0",
     "numeric_score": 2
