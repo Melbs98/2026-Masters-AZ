@@ -313,6 +313,18 @@
   },
   {
     "pos": "27",
+    "player": "Brian Campbell",
+    "score": "-3",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "73.0",
+    "r3": "69.0",
+    "r4": "4.0",
+    "numeric_score": -3
+  },
+  {
+    "pos": "28",
     "player": "Nick Taylor",
     "score": "-3",
     "today": "",
@@ -324,7 +336,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "28",
+    "pos": "29",
     "player": "Matt Fitzpatrick",
     "score": "-3",
     "today": "",
@@ -336,25 +348,13 @@
     "numeric_score": -3
   },
   {
-    "pos": "29",
+    "pos": "30",
     "player": "Ludvig Åberg",
     "score": "-3",
     "today": "",
     "thru": "",
     "r1": "74.0",
     "r2": "70.0",
-    "r3": "69.0",
-    "r4": "0.0",
-    "numeric_score": -3
-  },
-  {
-    "pos": "30",
-    "player": "Brian Campbell",
-    "score": "-3",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "73.0",
     "r3": "69.0",
     "r4": "0.0",
     "numeric_score": -3
