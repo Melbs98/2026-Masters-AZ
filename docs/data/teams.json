@@ -119,7 +119,7 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "36",
+        "pos": "35",
         "player": "Tommy Fleetwood",
         "score": "-1",
         "today": "",
@@ -167,7 +167,7 @@
         "numeric_score": -8
       },
       {
-        "pos": "37",
+        "pos": "36",
         "player": "Gary Woodland",
         "score": "E",
         "today": "",
@@ -371,7 +371,7 @@
         "r1": "74.0",
         "r2": "70.0",
         "r3": "69.0",
-        "r4": "24.0",
+        "r4": "29.0",
         "numeric_score": -6
       },
       {
@@ -423,16 +423,16 @@
         "numeric_score": -3
       },
       {
-        "pos": "34",
+        "pos": "38",
         "player": "Alex Noren",
-        "score": "-1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "77.0",
         "r2": "71.0",
         "r3": "69.0",
-        "r4": "62.0",
-        "numeric_score": -1
+        "r4": "67.0",
+        "numeric_score": 0
       },
       {
         "pos": "65",
@@ -759,7 +759,7 @@
         "numeric_score": -6
       },
       {
-        "pos": "35",
+        "pos": "34",
         "player": "Harris English",
         "score": "-1",
         "today": "",
@@ -875,7 +875,7 @@
         "numeric_score": -6
       },
       {
-        "pos": "38",
+        "pos": "37",
         "player": "Dustin Johnson",
         "score": "E",
         "today": "",
@@ -987,7 +987,7 @@
         "r1": "77.0",
         "r2": "70.0",
         "r3": "70.0",
-        "r4": "59.0",
+        "r4": "63.0",
         "numeric_score": -4
       },
       {
