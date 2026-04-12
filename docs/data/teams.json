@@ -63,7 +63,7 @@
         "numeric_score": null
       },
       {
-        "pos": "17",
+        "pos": "19",
         "player": "Ryan Gerard",
         "score": "-4",
         "today": "",
@@ -119,7 +119,7 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "22",
+        "pos": "18",
         "player": "Tommy Fleetwood",
         "score": "-4",
         "today": "",
@@ -127,7 +127,7 @@
         "r1": "71.0",
         "r2": "68.0",
         "r3": "73.0",
-        "r4": "0.0",
+        "r4": "4.0",
         "numeric_score": -4
       },
       {
@@ -259,7 +259,7 @@
         "numeric_score": null
       },
       {
-        "pos": "19",
+        "pos": "21",
         "player": "Brooks Koepka",
         "score": "-4",
         "today": "",
@@ -539,7 +539,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "48",
+        "pos": "47",
         "player": "Aaron Rai",
         "score": "+5",
         "today": "",
@@ -655,7 +655,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "21",
+        "pos": "22",
         "player": "Wyndham Clark",
         "score": "-4",
         "today": "",
@@ -723,7 +723,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "49",
+        "pos": "48",
         "player": "Si Woo Kim",
         "score": "+5",
         "today": "",
@@ -943,7 +943,7 @@
     "team": "Coulter",
     "golfers": [
       {
-        "pos": "18",
+        "pos": "20",
         "player": "Xander Schauffele",
         "score": "-4",
         "today": "",
@@ -967,19 +967,19 @@
         "numeric_score": -2
       },
       {
-        "pos": "47",
+        "pos": "49",
         "player": "Justin Thomas",
-        "score": "+3",
+        "score": "+5",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
         "r3": "71.0",
-        "r4": "42.0",
-        "numeric_score": 3
+        "r4": "48.0",
+        "numeric_score": 5
       },
       {
-        "pos": "20",
+        "pos": "17",
         "player": "Tyrrell Hatton",
         "score": "-4",
         "today": "",
@@ -987,7 +987,7 @@
         "r1": "74.0",
         "r2": "66.0",
         "r3": "72.0",
-        "r4": "0.0",
+        "r4": "4.0",
         "numeric_score": -4
       },
       {
