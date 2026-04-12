@@ -445,18 +445,6 @@
   },
   {
     "pos": "38",
-    "player": "Keegan Bradley",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "74.0",
-    "r3": "73.0",
-    "r4": "37.0",
-    "numeric_score": 0
-  },
-  {
-    "pos": "39",
     "player": "Alex Noren",
     "score": "E",
     "today": "",
@@ -468,7 +456,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "40",
+    "pos": "39",
     "player": "Brian Harman",
     "score": "E",
     "today": "",
@@ -480,7 +468,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "41",
+    "pos": "40",
     "player": "Harris English",
     "score": "E",
     "today": "",
@@ -492,7 +480,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "42",
+    "pos": "41",
     "player": "Sungjae Im",
     "score": "E",
     "today": "",
@@ -504,7 +492,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "43",
+    "pos": "42",
     "player": "Gary Woodland",
     "score": "+1",
     "today": "",
@@ -516,7 +504,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "44",
+    "pos": "43",
     "player": "Jon Rahm",
     "score": "+1",
     "today": "",
@@ -525,6 +513,18 @@
     "r2": "70.0",
     "r3": "73.0",
     "r4": "43.0",
+    "numeric_score": 1
+  },
+  {
+    "pos": "44",
+    "player": "Keegan Bradley",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "74.0",
+    "r3": "73.0",
+    "r4": "42.0",
     "numeric_score": 1
   },
   {
