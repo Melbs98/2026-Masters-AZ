@@ -167,7 +167,7 @@
         "numeric_score": -8
       },
       {
-        "pos": "51",
+        "pos": "52",
         "player": "Gary Woodland",
         "score": "+6",
         "today": "",
@@ -411,16 +411,16 @@
         "numeric_score": -5
       },
       {
-        "pos": "53",
+        "pos": "51",
         "player": "Kurt Kitayama",
-        "score": "+7",
+        "score": "+6",
         "today": "",
         "thru": "",
         "r1": "69.0",
         "r2": "79.0",
         "r3": "75.0",
-        "r4": "0.0",
-        "numeric_score": 7
+        "r4": "3.0",
+        "numeric_score": 6
       },
       {
         "pos": "43",
@@ -539,7 +539,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "52",
+        "pos": "53",
         "player": "Aaron Rai",
         "score": "+7",
         "today": "",
