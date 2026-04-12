@@ -11,7 +11,7 @@
         "r1": "70.0",
         "r2": "72.0",
         "r3": "70.0",
-        "r4": "57.0",
+        "r4": "60.0",
         "numeric_score": -8
       },
       {
@@ -235,7 +235,7 @@
     "team": "Roth",
     "golfers": [
       {
-        "pos": "3",
+        "pos": "2",
         "player": "Rory McIlroy",
         "score": "-11",
         "today": "",
@@ -243,7 +243,7 @@
         "r1": "67.0",
         "r2": "65.0",
         "r3": "73.0",
-        "r4": "32.0",
+        "r4": "36.0",
         "numeric_score": -11
       },
       {
@@ -271,16 +271,16 @@
         "numeric_score": null
       },
       {
-        "pos": "25",
+        "pos": "22",
         "player": "Ben Griffin",
-        "score": "-3",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
         "r3": "70.0",
-        "r4": "58.0",
-        "numeric_score": -3
+        "r4": "62.0",
+        "numeric_score": -4
       },
       {
         "pos": "51",
@@ -343,7 +343,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -19,
+    "best3_total": -20,
     "scores_entered": 7,
     "roster_loaded": 9
   },
@@ -411,7 +411,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Wyndham Clark",
         "score": "-3",
         "today": "",
@@ -711,7 +711,7 @@
     "team": "Adam & Kevin",
     "golfers": [
       {
-        "pos": "2",
+        "pos": "3",
         "player": "Cameron Young",
         "score": "-11",
         "today": "",
@@ -1059,7 +1059,7 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "23",
+        "pos": "24",
         "player": "Ludvig Åberg",
         "score": "-3",
         "today": "",
@@ -1107,7 +1107,7 @@
         "numeric_score": -6
       },
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Keegan Bradley",
         "score": "-3",
         "today": "",
