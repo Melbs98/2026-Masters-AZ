@@ -37,6 +37,18 @@
   },
   {
     "pos": "4",
+    "player": "Scottie Scheffler",
+    "score": "-9",
+    "today": "",
+    "thru": "",
+    "r1": "70.0",
+    "r2": "74.0",
+    "r3": "65.0",
+    "r4": "11.0",
+    "numeric_score": -9
+  },
+  {
+    "pos": "5",
     "player": "Justin Rose",
     "score": "-9",
     "today": "",
@@ -48,7 +60,7 @@
     "numeric_score": -9
   },
   {
-    "pos": "5",
+    "pos": "6",
     "player": "Russell Henley",
     "score": "-8",
     "today": "",
@@ -60,7 +72,7 @@
     "numeric_score": -8
   },
   {
-    "pos": "6",
+    "pos": "7",
     "player": "Haotong Li",
     "score": "-8",
     "today": "",
@@ -72,18 +84,6 @@
     "numeric_score": -8
   },
   {
-    "pos": "7",
-    "player": "Scottie Scheffler",
-    "score": "-8",
-    "today": "",
-    "thru": "",
-    "r1": "70.0",
-    "r2": "74.0",
-    "r3": "65.0",
-    "r4": "8.0",
-    "numeric_score": -8
-  },
-  {
     "pos": "8",
     "player": "Jason Day",
     "score": "-8",
@@ -92,7 +92,7 @@
     "r1": "69.0",
     "r2": "71.0",
     "r3": "68.0",
-    "r4": "4.0",
+    "r4": "9.0",
     "numeric_score": -8
   },
   {
@@ -133,6 +133,18 @@
   },
   {
     "pos": "12",
+    "player": "Hideki Matsuyama",
+    "score": "-6",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "70.0",
+    "r3": "72.0",
+    "r4": "52.0",
+    "numeric_score": -6
+  },
+  {
+    "pos": "13",
     "player": "Ludvig Åberg",
     "score": "-6",
     "today": "",
@@ -142,18 +154,6 @@
     "r3": "69.0",
     "r4": "33.0",
     "numeric_score": -6
-  },
-  {
-    "pos": "13",
-    "player": "Hideki Matsuyama",
-    "score": "-5",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "70.0",
-    "r3": "72.0",
-    "r4": "49.0",
-    "numeric_score": -5
   },
   {
     "pos": "14",
@@ -325,6 +325,18 @@
   },
   {
     "pos": "28",
+    "player": "Sam Stevens",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "74.0",
+    "r3": "70.0",
+    "r4": "62.0",
+    "numeric_score": -2
+  },
+  {
+    "pos": "29",
     "player": "Chris Gotterup",
     "score": "-2",
     "today": "",
@@ -336,7 +348,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "29",
+    "pos": "30",
     "player": "Brian Campbell",
     "score": "-2",
     "today": "",
@@ -348,7 +360,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "30",
+    "pos": "31",
     "player": "Brooks Koepka",
     "score": "-2",
     "today": "",
@@ -360,7 +372,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "31",
+    "pos": "32",
     "player": "Wyndham Clark",
     "score": "-2",
     "today": "",
@@ -372,7 +384,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "32",
+    "pos": "33",
     "player": "Alex Noren",
     "score": "-1",
     "today": "",
@@ -381,18 +393,6 @@
     "r2": "71.0",
     "r3": "69.0",
     "r4": "70.0",
-    "numeric_score": -1
-  },
-  {
-    "pos": "33",
-    "player": "Sam Stevens",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "74.0",
-    "r3": "70.0",
-    "r4": "60.0",
     "numeric_score": -1
   },
   {
@@ -577,18 +577,6 @@
   },
   {
     "pos": "49",
-    "player": "Marco Penge",
-    "score": "+5",
-    "today": "",
-    "thru": "",
-    "r1": "76.0",
-    "r2": "69.0",
-    "r3": "71.0",
-    "r4": "69.0",
-    "numeric_score": 5
-  },
-  {
-    "pos": "50",
     "player": "Corey Conners",
     "score": "+6",
     "today": "",
@@ -597,6 +585,18 @@
     "r2": "73.0",
     "r3": "71.0",
     "r4": "75.0",
+    "numeric_score": 6
+  },
+  {
+    "pos": "50",
+    "player": "Marco Penge",
+    "score": "+6",
+    "today": "",
+    "thru": "",
+    "r1": "76.0",
+    "r2": "69.0",
+    "r3": "71.0",
+    "r4": "74.0",
     "numeric_score": 6
   },
   {
