@@ -385,6 +385,18 @@
   },
   {
     "pos": "33",
+    "player": "Sam Stevens",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "74.0",
+    "r3": "70.0",
+    "r4": "60.0",
+    "numeric_score": -1
+  },
+  {
+    "pos": "34",
     "player": "Harris English",
     "score": "-1",
     "today": "",
@@ -396,7 +408,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "34",
+    "pos": "35",
     "player": "Nick Taylor",
     "score": "-1",
     "today": "",
@@ -408,7 +420,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "35",
+    "pos": "36",
     "player": "Tommy Fleetwood",
     "score": "-1",
     "today": "",
@@ -416,11 +428,11 @@
     "r1": "71.0",
     "r2": "68.0",
     "r3": "73.0",
-    "r4": "30.0",
+    "r4": "35.0",
     "numeric_score": -1
   },
   {
-    "pos": "36",
+    "pos": "37",
     "player": "Gary Woodland",
     "score": "E",
     "today": "",
@@ -432,7 +444,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "37",
+    "pos": "38",
     "player": "Dustin Johnson",
     "score": "E",
     "today": "",
@@ -444,7 +456,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "38",
+    "pos": "39",
     "player": "Alex Noren",
     "score": "E",
     "today": "",
@@ -453,18 +465,6 @@
     "r2": "71.0",
     "r3": "69.0",
     "r4": "67.0",
-    "numeric_score": 0
-  },
-  {
-    "pos": "39",
-    "player": "Sam Stevens",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "74.0",
-    "r3": "70.0",
-    "r4": "56.0",
     "numeric_score": 0
   },
   {
