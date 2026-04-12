@@ -143,7 +143,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Viktor Hovland",
         "score": "-1",
         "today": "",
@@ -411,16 +411,16 @@
         "numeric_score": -5
       },
       {
-        "pos": "51",
+        "pos": "49",
         "player": "Kurt Kitayama",
-        "score": "+6",
+        "score": "+5",
         "today": "",
         "thru": "",
         "r1": "69.0",
         "r2": "79.0",
         "r3": "75.0",
-        "r4": "26.0",
-        "numeric_score": 6
+        "r4": "30.0",
+        "numeric_score": 5
       },
       {
         "pos": "38",
@@ -539,7 +539,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "50",
+        "pos": "51",
         "player": "Aaron Rai",
         "score": "+6",
         "today": "",
@@ -967,7 +967,7 @@
         "numeric_score": -6
       },
       {
-        "pos": "49",
+        "pos": "50",
         "player": "Corey Conners",
         "score": "+5",
         "today": "",
@@ -979,7 +979,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "34",
+        "pos": "33",
         "player": "Maverick McNealy",
         "score": "-1",
         "today": "",
@@ -987,7 +987,7 @@
         "r1": "77.0",
         "r2": "70.0",
         "r3": "70.0",
-        "r4": "7.0",
+        "r4": "11.0",
         "numeric_score": -1
       },
       {
