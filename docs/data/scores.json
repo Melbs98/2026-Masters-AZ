@@ -116,7 +116,7 @@
     "r1": "74.0",
     "r2": "70.0",
     "r3": "69.0",
-    "r4": "13.0",
+    "r4": "17.0",
     "numeric_score": -6
   },
   {
@@ -373,6 +373,18 @@
   },
   {
     "pos": "32",
+    "player": "Matt Fitzpatrick",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "69.0",
+    "r3": "70.0",
+    "r4": "24.0",
+    "numeric_score": -2
+  },
+  {
+    "pos": "33",
     "player": "Brian Campbell",
     "score": "-2",
     "today": "",
@@ -384,7 +396,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "33",
+    "pos": "34",
     "player": "Matt McCarty",
     "score": "-1",
     "today": "",
@@ -396,7 +408,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "34",
+    "pos": "35",
     "player": "Kristoffer Reitan",
     "score": "-1",
     "today": "",
@@ -405,18 +417,6 @@
     "r2": "68.0",
     "r3": "73.0",
     "r4": "29.0",
-    "numeric_score": -1
-  },
-  {
-    "pos": "35",
-    "player": "Matt Fitzpatrick",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "69.0",
-    "r3": "70.0",
-    "r4": "22.0",
     "numeric_score": -1
   },
   {
@@ -433,18 +433,6 @@
   },
   {
     "pos": "37",
-    "player": "Jon Rahm",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "78.0",
-    "r2": "70.0",
-    "r3": "73.0",
-    "r4": "63.0",
-    "numeric_score": 0
-  },
-  {
-    "pos": "38",
     "player": "Dustin Johnson",
     "score": "E",
     "today": "",
@@ -456,7 +444,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "39",
+    "pos": "38",
     "player": "Alex Noren",
     "score": "E",
     "today": "",
@@ -468,7 +456,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "40",
+    "pos": "39",
     "player": "Sam Stevens",
     "score": "E",
     "today": "",
@@ -480,7 +468,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "41",
+    "pos": "40",
     "player": "Sungjae Im",
     "score": "E",
     "today": "",
@@ -492,7 +480,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "42",
+    "pos": "41",
     "player": "Jacob Bridgeman",
     "score": "E",
     "today": "",
@@ -504,7 +492,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "43",
+    "pos": "42",
     "player": "Sepp Straka",
     "score": "E",
     "today": "",
@@ -514,6 +502,18 @@
     "r3": "69.0",
     "r4": "34.0",
     "numeric_score": 0
+  },
+  {
+    "pos": "43",
+    "player": "Jon Rahm",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "78.0",
+    "r2": "70.0",
+    "r3": "73.0",
+    "r4": "68.0",
+    "numeric_score": 1
   },
   {
     "pos": "44",
