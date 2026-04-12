@@ -167,7 +167,7 @@
         "numeric_score": -8
       },
       {
-        "pos": "41",
+        "pos": "42",
         "player": "Gary Woodland",
         "score": "+1",
         "today": "",
@@ -527,16 +527,16 @@
         "numeric_score": -6
       },
       {
-        "pos": "44",
+        "pos": "39",
         "player": "Harris English",
-        "score": "+1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "71.0",
         "r3": "71.0",
-        "r4": "25.0",
-        "numeric_score": 1
+        "r4": "28.0",
+        "numeric_score": 0
       },
       {
         "pos": "50",
@@ -759,7 +759,7 @@
         "numeric_score": -9
       },
       {
-        "pos": "43",
+        "pos": "44",
         "player": "Keegan Bradley",
         "score": "+1",
         "today": "",
@@ -827,7 +827,7 @@
     "team": "Bryan",
     "golfers": [
       {
-        "pos": "42",
+        "pos": "43",
         "player": "Jon Rahm",
         "score": "+1",
         "today": "",
@@ -1095,7 +1095,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "40",
+        "pos": "41",
         "player": "Sungjae Im",
         "score": "E",
         "today": "",
@@ -1119,7 +1119,7 @@
         "numeric_score": 8
       },
       {
-        "pos": "39",
+        "pos": "40",
         "player": "Brian Harman",
         "score": "E",
         "today": "",
