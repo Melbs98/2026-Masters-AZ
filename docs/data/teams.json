@@ -592,6 +592,122 @@
     "roster_loaded": 9
   },
   {
+    "team": "Adam & Kevin",
+    "golfers": [
+      {
+        "pos": "1",
+        "player": "Cameron Young",
+        "score": "-12",
+        "today": "",
+        "thru": "",
+        "r1": "73.0",
+        "r2": "67.0",
+        "r3": "65.0",
+        "r4": "8.0",
+        "numeric_score": -12
+      },
+      {
+        "pos": "24",
+        "player": "Patrick Reed",
+        "score": "-4",
+        "today": "",
+        "thru": "",
+        "r1": "69.0",
+        "r2": "69.0",
+        "r3": "72.0",
+        "r4": "25.0",
+        "numeric_score": -4
+      },
+      {
+        "pos": "68",
+        "player": "Cameron Smith",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "74.0",
+        "r2": "77.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "44",
+        "player": "Sepp Straka",
+        "score": "+2",
+        "today": "",
+        "thru": "",
+        "r1": "73.0",
+        "r2": "72.0",
+        "r3": "69.0",
+        "r4": "60.0",
+        "numeric_score": 2
+      },
+      {
+        "pos": "56",
+        "player": "Ryan Fox",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "77.0",
+        "r2": "72.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "39",
+        "player": "Ryan Gerard",
+        "score": "E",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "72.0",
+        "r3": "68.0",
+        "r4": "36.0",
+        "numeric_score": 0
+      },
+      {
+        "pos": "80",
+        "player": "Carlos Ortiz",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "80.0",
+        "r2": "75.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "83",
+        "player": "Johnny Keefer",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "76.0",
+        "r2": "79.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "78",
+        "player": "Vijay Singh",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "79.0",
+        "r2": "75.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      }
+    ],
+    "best3_total": -16,
+    "scores_entered": 4,
+    "roster_loaded": 9
+  },
+  {
     "team": "Coulter",
     "golfers": [
       {
@@ -705,122 +821,6 @@
     ],
     "best3_total": -16,
     "scores_entered": 5,
-    "roster_loaded": 9
-  },
-  {
-    "team": "Adam & Kevin",
-    "golfers": [
-      {
-        "pos": "1",
-        "player": "Cameron Young",
-        "score": "-11",
-        "today": "",
-        "thru": "",
-        "r1": "73.0",
-        "r2": "67.0",
-        "r3": "65.0",
-        "r4": "4.0",
-        "numeric_score": -11
-      },
-      {
-        "pos": "24",
-        "player": "Patrick Reed",
-        "score": "-4",
-        "today": "",
-        "thru": "",
-        "r1": "69.0",
-        "r2": "69.0",
-        "r3": "72.0",
-        "r4": "25.0",
-        "numeric_score": -4
-      },
-      {
-        "pos": "68",
-        "player": "Cameron Smith",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "74.0",
-        "r2": "77.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "44",
-        "player": "Sepp Straka",
-        "score": "+2",
-        "today": "",
-        "thru": "",
-        "r1": "73.0",
-        "r2": "72.0",
-        "r3": "69.0",
-        "r4": "60.0",
-        "numeric_score": 2
-      },
-      {
-        "pos": "56",
-        "player": "Ryan Fox",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "77.0",
-        "r2": "72.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "39",
-        "player": "Ryan Gerard",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "72.0",
-        "r3": "68.0",
-        "r4": "36.0",
-        "numeric_score": 0
-      },
-      {
-        "pos": "80",
-        "player": "Carlos Ortiz",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "80.0",
-        "r2": "75.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "83",
-        "player": "Johnny Keefer",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "76.0",
-        "r2": "79.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "78",
-        "player": "Vijay Singh",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "79.0",
-        "r2": "75.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      }
-    ],
-    "best3_total": -15,
-    "scores_entered": 4,
     "roster_loaded": 9
   },
   {
