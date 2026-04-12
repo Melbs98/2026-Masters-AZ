@@ -3,7 +3,7 @@
     "team": "Roth",
     "golfers": [
       {
-        "pos": "2",
+        "pos": "3",
         "player": "Rory McIlroy",
         "score": "-10",
         "today": "",
@@ -399,16 +399,16 @@
         "numeric_score": null
       },
       {
-        "pos": "41",
+        "pos": "44",
         "player": "Sepp Straka",
-        "score": "+1",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "72.0",
         "r3": "69.0",
-        "r4": "67.0",
-        "numeric_score": 1
+        "r4": "72.0",
+        "numeric_score": 2
       },
       {
         "pos": "56",
@@ -423,7 +423,7 @@
         "numeric_score": null
       },
       {
-        "pos": "43",
+        "pos": "41",
         "player": "Ryan Gerard",
         "score": "+1",
         "today": "",
@@ -503,7 +503,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "44",
+        "pos": "42",
         "player": "Justin Thomas",
         "score": "+2",
         "today": "",
@@ -851,7 +851,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "40",
+        "pos": "43",
         "player": "Jacob Bridgeman",
         "score": "+2",
         "today": "",
@@ -859,7 +859,7 @@
         "r1": "71.0",
         "r2": "74.0",
         "r3": "69.0",
-        "r4": "67.0",
+        "r4": "72.0",
         "numeric_score": 2
       },
       {
@@ -955,7 +955,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "3",
+        "pos": "2",
         "player": "Russell Henley",
         "score": "-9",
         "today": "",
@@ -1003,7 +1003,7 @@
         "numeric_score": null
       },
       {
-        "pos": "42",
+        "pos": "40",
         "player": "Nick Taylor",
         "score": "+1",
         "today": "",
