@@ -15,7 +15,7 @@
         "numeric_score": -11
       },
       {
-        "pos": "15",
+        "pos": "14",
         "player": "Patrick Reed",
         "score": "-6",
         "today": "",
@@ -23,7 +23,7 @@
         "r1": "69.0",
         "r2": "69.0",
         "r3": "72.0",
-        "r4": "0.0",
+        "r4": "4.0",
         "numeric_score": -6
       },
       {
@@ -63,7 +63,7 @@
         "numeric_score": null
       },
       {
-        "pos": "16",
+        "pos": "17",
         "player": "Ryan Gerard",
         "score": "-5",
         "today": "",
@@ -131,7 +131,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "32",
+        "pos": "33",
         "player": "Matt Fitzpatrick",
         "score": "-2",
         "today": "",
@@ -279,7 +279,7 @@
         "r1": "73.0",
         "r2": "69.0",
         "r3": "69.0",
-        "r4": "3.0",
+        "r4": "8.0",
         "numeric_score": -6
       },
       {
@@ -399,7 +399,7 @@
         "numeric_score": null
       },
       {
-        "pos": "17",
+        "pos": "18",
         "player": "Ben Griffin",
         "score": "-5",
         "today": "",
@@ -447,7 +447,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "33",
+        "pos": "31",
         "player": "Brian Campbell",
         "score": "-2",
         "today": "",
@@ -455,7 +455,7 @@
         "r1": "71.0",
         "r2": "73.0",
         "r3": "69.0",
-        "r4": "21.0",
+        "r4": "24.0",
         "numeric_score": -2
       },
       {
@@ -631,7 +631,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "13",
+        "pos": "15",
         "player": "Patrick Cantlay",
         "score": "-6",
         "today": "",
@@ -940,135 +940,19 @@
     "roster_loaded": 9
   },
   {
-    "team": "Bryan",
-    "golfers": [
-      {
-        "pos": "43",
-        "player": "Jon Rahm",
-        "score": "+1",
-        "today": "",
-        "thru": "",
-        "r1": "78.0",
-        "r2": "70.0",
-        "r3": "73.0",
-        "r4": "68.0",
-        "numeric_score": 1
-      },
-      {
-        "pos": "14",
-        "player": "Russell Henley",
-        "score": "-6",
-        "today": "",
-        "thru": "",
-        "r1": "73.0",
-        "r2": "71.0",
-        "r3": "66.0",
-        "r4": "0.0",
-        "numeric_score": -6
-      },
-      {
-        "pos": "49",
-        "player": "Corey Conners",
-        "score": "+5",
-        "today": "",
-        "thru": "",
-        "r1": "75.0",
-        "r2": "73.0",
-        "r3": "71.0",
-        "r4": "66.0",
-        "numeric_score": 5
-      },
-      {
-        "pos": "28",
-        "player": "Maverick McNealy",
-        "score": "-2",
-        "today": "",
-        "thru": "",
-        "r1": "77.0",
-        "r2": "70.0",
-        "r3": "70.0",
-        "r4": "53.0",
-        "numeric_score": -2
-      },
-      {
-        "pos": "55",
-        "player": "Harry Hall",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "77.0",
-        "r2": "72.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "31",
-        "player": "Nick Taylor",
-        "score": "-2",
-        "today": "",
-        "thru": "",
-        "r1": "71.0",
-        "r2": "72.0",
-        "r3": "70.0",
-        "r4": "24.0",
-        "numeric_score": -2
-      },
-      {
-        "pos": "72",
-        "player": "Michael Kim",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "75.0",
-        "r2": "77.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "57",
-        "player": "Danny Willett",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "76.0",
-        "r2": "73.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      },
-      {
-        "pos": "86",
-        "player": "Naoyuki Kataoka",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "84.0",
-        "r2": "75.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null
-      }
-    ],
-    "best3_total": -10,
-    "scores_entered": 5,
-    "roster_loaded": 9
-  },
-  {
     "team": "Asshole Garrett",
     "golfers": [
       {
-        "pos": "18",
+        "pos": "13",
         "player": "Collin Morikawa",
-        "score": "-5",
+        "score": "-6",
         "today": "",
         "thru": "",
         "r1": "74.0",
         "r2": "69.0",
         "r3": "68.0",
-        "r4": "0.0",
-        "numeric_score": -5
+        "r4": "3.0",
+        "numeric_score": -6
       },
       {
         "pos": "82",
@@ -1167,7 +1051,123 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -9,
+    "best3_total": -10,
+    "scores_entered": 5,
+    "roster_loaded": 9
+  },
+  {
+    "team": "Bryan",
+    "golfers": [
+      {
+        "pos": "43",
+        "player": "Jon Rahm",
+        "score": "+1",
+        "today": "",
+        "thru": "",
+        "r1": "78.0",
+        "r2": "70.0",
+        "r3": "73.0",
+        "r4": "68.0",
+        "numeric_score": 1
+      },
+      {
+        "pos": "16",
+        "player": "Russell Henley",
+        "score": "-6",
+        "today": "",
+        "thru": "",
+        "r1": "73.0",
+        "r2": "71.0",
+        "r3": "66.0",
+        "r4": "0.0",
+        "numeric_score": -6
+      },
+      {
+        "pos": "49",
+        "player": "Corey Conners",
+        "score": "+5",
+        "today": "",
+        "thru": "",
+        "r1": "75.0",
+        "r2": "73.0",
+        "r3": "71.0",
+        "r4": "66.0",
+        "numeric_score": 5
+      },
+      {
+        "pos": "28",
+        "player": "Maverick McNealy",
+        "score": "-2",
+        "today": "",
+        "thru": "",
+        "r1": "77.0",
+        "r2": "70.0",
+        "r3": "70.0",
+        "r4": "53.0",
+        "numeric_score": -2
+      },
+      {
+        "pos": "55",
+        "player": "Harry Hall",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "77.0",
+        "r2": "72.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "32",
+        "player": "Nick Taylor",
+        "score": "-2",
+        "today": "",
+        "thru": "",
+        "r1": "71.0",
+        "r2": "72.0",
+        "r3": "70.0",
+        "r4": "24.0",
+        "numeric_score": -2
+      },
+      {
+        "pos": "72",
+        "player": "Michael Kim",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "75.0",
+        "r2": "77.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "57",
+        "player": "Danny Willett",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "76.0",
+        "r2": "73.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      },
+      {
+        "pos": "86",
+        "player": "Naoyuki Kataoka",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "84.0",
+        "r2": "75.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null
+      }
+    ],
+    "best3_total": -10,
     "scores_entered": 5,
     "roster_loaded": 9
   }
