@@ -527,16 +527,16 @@
         "numeric_score": -9
       },
       {
-        "pos": "25",
+        "pos": "23",
         "player": "Keegan Bradley",
-        "score": "-2",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
         "r3": "73.0",
-        "r4": "63.0",
-        "numeric_score": -2
+        "r4": "66.0",
+        "numeric_score": -3
       },
       {
         "pos": "35",
@@ -587,7 +587,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -17,
+    "best3_total": -18,
     "scores_entered": 6,
     "roster_loaded": 9
   },
@@ -619,7 +619,7 @@
         "numeric_score": null
       },
       {
-        "pos": "23",
+        "pos": "24",
         "player": "Chris Gotterup",
         "score": "-3",
         "today": "",
@@ -783,7 +783,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Michael Brennan",
         "score": "-3",
         "today": "",
