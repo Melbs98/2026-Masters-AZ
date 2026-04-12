@@ -613,6 +613,18 @@
   },
   {
     "pos": "52",
+    "player": "Rasmus Højgaard",
+    "score": "+7",
+    "today": "",
+    "thru": "",
+    "r1": "78.0",
+    "r2": "70.0",
+    "r3": "73.0",
+    "r4": "34.0",
+    "numeric_score": 7
+  },
+  {
+    "pos": "53",
     "player": "Sergio García",
     "score": "+7",
     "today": "",
@@ -622,18 +634,6 @@
     "r3": "74.0",
     "r4": "34.0",
     "numeric_score": 7
-  },
-  {
-    "pos": "53",
-    "player": "Rasmus Højgaard",
-    "score": "+8",
-    "today": "",
-    "thru": "",
-    "r1": "78.0",
-    "r2": "70.0",
-    "r3": "73.0",
-    "r4": "30.0",
-    "numeric_score": 8
   },
   {
     "pos": "54",
