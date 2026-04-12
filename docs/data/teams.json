@@ -179,7 +179,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "38",
+        "pos": "39",
         "player": "Sam Stevens",
         "score": "E",
         "today": "",
@@ -527,16 +527,16 @@
         "numeric_score": -6
       },
       {
-        "pos": "40",
+        "pos": "37",
         "player": "Harris English",
-        "score": "E",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "71.0",
         "r3": "71.0",
-        "r4": "5.0",
-        "numeric_score": 0
+        "r4": "9.0",
+        "numeric_score": -1
       },
       {
         "pos": "51",
@@ -651,7 +651,7 @@
         "r1": "76.0",
         "r2": "69.0",
         "r3": "71.0",
-        "r4": "10.0",
+        "r4": "14.0",
         "numeric_score": 1
       },
       {
@@ -771,7 +771,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "37",
+        "pos": "38",
         "player": "Alex Noren",
         "score": "E",
         "today": "",
@@ -779,7 +779,7 @@
         "r1": "77.0",
         "r2": "71.0",
         "r3": "69.0",
-        "r4": "15.0",
+        "r4": "19.0",
         "numeric_score": 0
       },
       {
@@ -887,7 +887,7 @@
         "numeric_score": 7
       },
       {
-        "pos": "39",
+        "pos": "40",
         "player": "Brian Harman",
         "score": "E",
         "today": "",
