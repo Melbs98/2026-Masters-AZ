@@ -167,7 +167,7 @@
         "numeric_score": -8
       },
       {
-        "pos": "46",
+        "pos": "47",
         "player": "Gary Woodland",
         "score": "+3",
         "today": "",
@@ -943,16 +943,16 @@
     "team": "Bryan",
     "golfers": [
       {
-        "pos": "47",
+        "pos": "45",
         "player": "Jon Rahm",
-        "score": "+3",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "78.0",
         "r2": "70.0",
         "r3": "73.0",
-        "r4": "30.0",
-        "numeric_score": 3
+        "r4": "33.0",
+        "numeric_score": 2
       },
       {
         "pos": "10",
@@ -1107,7 +1107,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "45",
+        "pos": "46",
         "player": "Dustin Johnson",
         "score": "+2",
         "today": "",
