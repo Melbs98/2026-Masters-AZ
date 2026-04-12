@@ -493,6 +493,18 @@
   },
   {
     "pos": "42",
+    "player": "Keegan Bradley",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "74.0",
+    "r3": "73.0",
+    "r4": "25.0",
+    "numeric_score": 1
+  },
+  {
+    "pos": "43",
     "player": "Matt McCarty",
     "score": "+1",
     "today": "",
@@ -504,7 +516,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "43",
+    "pos": "44",
     "player": "Marco Penge",
     "score": "+1",
     "today": "",
@@ -516,7 +528,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "44",
+    "pos": "45",
     "player": "Si Woo Kim",
     "score": "+2",
     "today": "",
@@ -525,18 +537,6 @@
     "r2": "73.0",
     "r3": "72.0",
     "r4": "25.0",
-    "numeric_score": 2
-  },
-  {
-    "pos": "45",
-    "player": "Keegan Bradley",
-    "score": "+2",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "74.0",
-    "r3": "73.0",
-    "r4": "22.0",
     "numeric_score": 2
   },
   {
