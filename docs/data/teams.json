@@ -63,7 +63,7 @@
         "numeric_score": null
       },
       {
-        "pos": "16",
+        "pos": "17",
         "player": "Ryan Gerard",
         "score": "-4",
         "today": "",
@@ -119,7 +119,7 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "21",
+        "pos": "22",
         "player": "Tommy Fleetwood",
         "score": "-4",
         "today": "",
@@ -131,7 +131,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "29",
+        "pos": "30",
         "player": "Matt Fitzpatrick",
         "score": "-3",
         "today": "",
@@ -259,7 +259,7 @@
         "numeric_score": null
       },
       {
-        "pos": "18",
+        "pos": "19",
         "player": "Brooks Koepka",
         "score": "-4",
         "today": "",
@@ -375,7 +375,7 @@
         "numeric_score": -11
       },
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Hideki Matsuyama",
         "score": "-3",
         "today": "",
@@ -435,7 +435,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "25",
+        "pos": "27",
         "player": "Kristoffer Reitan",
         "score": "-3",
         "today": "",
@@ -447,7 +447,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Brian Campbell",
         "score": "-3",
         "today": "",
@@ -511,7 +511,7 @@
         "r1": "72.0",
         "r2": "69.0",
         "r3": "72.0",
-        "r4": "13.0",
+        "r4": "16.0",
         "numeric_score": -3
       },
       {
@@ -655,7 +655,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "20",
+        "pos": "21",
         "player": "Wyndham Clark",
         "score": "-4",
         "today": "",
@@ -667,7 +667,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "26",
+        "pos": "25",
         "player": "Michael Brennan",
         "score": "-3",
         "today": "",
@@ -675,7 +675,7 @@
         "r1": "72.0",
         "r2": "71.0",
         "r3": "70.0",
-        "r4": "9.0",
+        "r4": "13.0",
         "numeric_score": -3
       },
       {
@@ -711,16 +711,16 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "30",
+        "pos": "16",
         "player": "Ludvig Åberg",
-        "score": "-3",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "74.0",
         "r2": "70.0",
         "r3": "69.0",
-        "r4": "0.0",
-        "numeric_score": -3
+        "r4": "3.0",
+        "numeric_score": -4
       },
       {
         "pos": "48",
@@ -819,7 +819,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -13,
+    "best3_total": -14,
     "scores_entered": 6,
     "roster_loaded": 9
   },
@@ -887,7 +887,7 @@
         "numeric_score": null
       },
       {
-        "pos": "28",
+        "pos": "29",
         "player": "Nick Taylor",
         "score": "-3",
         "today": "",
@@ -943,7 +943,7 @@
     "team": "Coulter",
     "golfers": [
       {
-        "pos": "17",
+        "pos": "18",
         "player": "Xander Schauffele",
         "score": "-4",
         "today": "",
@@ -979,7 +979,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "19",
+        "pos": "20",
         "player": "Tyrrell Hatton",
         "score": "-4",
         "today": "",
@@ -1083,7 +1083,7 @@
         "numeric_score": null
       },
       {
-        "pos": "23",
+        "pos": "26",
         "player": "Max Homa",
         "score": "-3",
         "today": "",
@@ -1115,7 +1115,7 @@
         "r1": "78.0",
         "r2": "70.0",
         "r3": "73.0",
-        "r4": "50.0",
+        "r4": "55.0",
         "numeric_score": 8
       },
       {
