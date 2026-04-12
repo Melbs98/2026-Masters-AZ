@@ -63,7 +63,7 @@
         "numeric_score": null
       },
       {
-        "pos": "16",
+        "pos": "17",
         "player": "Ryan Gerard",
         "score": "-4",
         "today": "",
@@ -175,7 +175,7 @@
         "r1": "69.0",
         "r2": "79.0",
         "r3": "75.0",
-        "r4": "46.0",
+        "r4": "51.0",
         "numeric_score": 6
       },
       {
@@ -191,16 +191,16 @@
         "numeric_score": -1
       },
       {
-        "pos": "26",
+        "pos": "16",
         "player": "Kristoffer Reitan",
-        "score": "-3",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "68.0",
         "r3": "73.0",
-        "r4": "4.0",
-        "numeric_score": -3
+        "r4": "8.0",
+        "numeric_score": -4
       },
       {
         "pos": "28",
@@ -235,7 +235,7 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "21",
+        "pos": "22",
         "player": "Tommy Fleetwood",
         "score": "-4",
         "today": "",
@@ -259,7 +259,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Viktor Hovland",
         "score": "-3",
         "today": "",
@@ -375,7 +375,7 @@
         "numeric_score": null
       },
       {
-        "pos": "18",
+        "pos": "19",
         "player": "Brooks Koepka",
         "score": "-4",
         "today": "",
@@ -503,7 +503,7 @@
         "numeric_score": null
       },
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Chris Gotterup",
         "score": "-3",
         "today": "",
@@ -655,7 +655,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "20",
+        "pos": "21",
         "player": "Wyndham Clark",
         "score": "-4",
         "today": "",
@@ -779,7 +779,7 @@
         "r1": "77.0",
         "r2": "71.0",
         "r3": "69.0",
-        "r4": "26.0",
+        "r4": "31.0",
         "numeric_score": 0
       },
       {
@@ -827,7 +827,7 @@
     "team": "Coulter",
     "golfers": [
       {
-        "pos": "17",
+        "pos": "18",
         "player": "Xander Schauffele",
         "score": "-4",
         "today": "",
@@ -839,7 +839,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "23",
+        "pos": "24",
         "player": "Jordan Spieth",
         "score": "-3",
         "today": "",
@@ -863,7 +863,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "19",
+        "pos": "20",
         "player": "Tyrrell Hatton",
         "score": "-4",
         "today": "",
@@ -1083,7 +1083,7 @@
         "numeric_score": null
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Max Homa",
         "score": "-3",
         "today": "",
