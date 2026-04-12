@@ -15,7 +15,7 @@
         "numeric_score": -11
       },
       {
-        "pos": "11",
+        "pos": "10",
         "player": "Hideki Matsuyama",
         "score": "-6",
         "today": "",
@@ -87,7 +87,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "36",
+        "pos": "32",
         "player": "Brian Campbell",
         "score": "-2",
         "today": "",
@@ -119,7 +119,7 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "32",
+        "pos": "33",
         "player": "Tommy Fleetwood",
         "score": "-2",
         "today": "",
@@ -131,7 +131,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "23",
+        "pos": "22",
         "player": "Matt Fitzpatrick",
         "score": "-4",
         "today": "",
@@ -167,7 +167,7 @@
         "numeric_score": -8
       },
       {
-        "pos": "37",
+        "pos": "36",
         "player": "Gary Woodland",
         "score": "E",
         "today": "",
@@ -247,7 +247,7 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "12",
+        "pos": "11",
         "player": "Ludvig Åberg",
         "score": "-6",
         "today": "",
@@ -307,7 +307,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Alex Noren",
         "score": "-1",
         "today": "",
@@ -387,7 +387,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "14",
+        "pos": "13",
         "player": "Jake Knapp",
         "score": "-6",
         "today": "",
@@ -515,7 +515,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "10",
+        "pos": "14",
         "player": "Patrick Cantlay",
         "score": "-6",
         "today": "",
@@ -527,7 +527,7 @@
         "numeric_score": -6
       },
       {
-        "pos": "34",
+        "pos": "35",
         "player": "Harris English",
         "score": "-1",
         "today": "",
@@ -747,7 +747,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "13",
+        "pos": "12",
         "player": "Tyrrell Hatton",
         "score": "-6",
         "today": "",
@@ -759,7 +759,7 @@
         "numeric_score": -6
       },
       {
-        "pos": "38",
+        "pos": "37",
         "player": "Dustin Johnson",
         "score": "E",
         "today": "",
@@ -963,7 +963,7 @@
         "r1": "73.0",
         "r2": "71.0",
         "r3": "66.0",
-        "r4": "18.0",
+        "r4": "21.0",
         "numeric_score": -8
       },
       {
@@ -1011,7 +1011,7 @@
         "r1": "71.0",
         "r2": "72.0",
         "r3": "70.0",
-        "r4": "48.0",
+        "r4": "51.0",
         "numeric_score": 1
       },
       {
@@ -1083,7 +1083,7 @@
         "numeric_score": null
       },
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Max Homa",
         "score": "-4",
         "today": "",
@@ -1119,16 +1119,16 @@
         "numeric_score": 10
       },
       {
-        "pos": "35",
+        "pos": "38",
         "player": "Brian Harman",
-        "score": "-1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "79.0",
         "r2": "69.0",
         "r3": "67.0",
-        "r4": "64.0",
-        "numeric_score": -1
+        "r4": "69.0",
+        "numeric_score": 0
       },
       {
         "pos": "62",
@@ -1167,7 +1167,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -10,
+    "best3_total": -9,
     "scores_entered": 5,
     "roster_loaded": 9
   }
