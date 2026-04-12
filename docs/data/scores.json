@@ -409,6 +409,18 @@
   },
   {
     "pos": "35",
+    "player": "Matt McCarty",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "73.0",
+    "r3": "72.0",
+    "r4": "34.0",
+    "numeric_score": -1
+  },
+  {
+    "pos": "36",
     "player": "Maverick McNealy",
     "score": "-1",
     "today": "",
@@ -420,7 +432,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "36",
+    "pos": "37",
     "player": "Adam Scott",
     "score": "-1",
     "today": "",
@@ -432,7 +444,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "37",
+    "pos": "38",
     "player": "Brian Harman",
     "score": "-1",
     "today": "",
@@ -442,18 +454,6 @@
     "r3": "67.0",
     "r4": "13.0",
     "numeric_score": -1
-  },
-  {
-    "pos": "38",
-    "player": "Matt McCarty",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "73.0",
-    "r3": "72.0",
-    "r4": "31.0",
-    "numeric_score": 0
   },
   {
     "pos": "39",
@@ -488,7 +488,7 @@
     "r1": "76.0",
     "r2": "69.0",
     "r3": "69.0",
-    "r4": "11.0",
+    "r4": "15.0",
     "numeric_score": 0
   },
   {
@@ -560,7 +560,7 @@
     "r1": "72.0",
     "r2": "74.0",
     "r3": "71.0",
-    "r4": "28.0",
+    "r4": "33.0",
     "numeric_score": 2
   },
   {
@@ -584,7 +584,7 @@
     "r1": "75.0",
     "r2": "73.0",
     "r3": "71.0",
-    "r4": "33.0",
+    "r4": "37.0",
     "numeric_score": 4
   },
   {
