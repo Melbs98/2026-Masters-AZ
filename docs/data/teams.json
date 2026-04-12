@@ -131,7 +131,7 @@
         "numeric_score": null
       },
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Brooks Koepka",
         "score": "-4",
         "today": "",
@@ -479,7 +479,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "20",
+        "pos": "21",
         "player": "Matt Fitzpatrick",
         "score": "-4",
         "today": "",
@@ -491,7 +491,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "19",
+        "pos": "20",
         "player": "Viktor Hovland",
         "score": "-4",
         "today": "",
@@ -503,7 +503,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "17",
+        "pos": "18",
         "player": "Jason Day",
         "score": "-5",
         "today": "",
@@ -511,7 +511,7 @@
         "r1": "69.0",
         "r2": "71.0",
         "r3": "68.0",
-        "r4": "35.0",
+        "r4": "39.0",
         "numeric_score": -5
       },
       {
@@ -723,7 +723,7 @@
         "numeric_score": -10
       },
       {
-        "pos": "16",
+        "pos": "17",
         "player": "Patrick Reed",
         "score": "-5",
         "today": "",
@@ -731,7 +731,7 @@
         "r1": "69.0",
         "r2": "69.0",
         "r3": "72.0",
-        "r4": "45.0",
+        "r4": "48.0",
         "numeric_score": -5
       },
       {
@@ -771,7 +771,7 @@
         "numeric_score": null
       },
       {
-        "pos": "45",
+        "pos": "44",
         "player": "Ryan Gerard",
         "score": "+2",
         "today": "",
@@ -863,7 +863,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "18",
+        "pos": "19",
         "player": "Maverick McNealy",
         "score": "-4",
         "today": "",
@@ -887,16 +887,16 @@
         "numeric_score": null
       },
       {
-        "pos": "44",
+        "pos": "46",
         "player": "Nick Taylor",
-        "score": "+2",
+        "score": "+3",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "72.0",
         "r3": "70.0",
-        "r4": "69.0",
-        "numeric_score": 2
+        "r4": "74.0",
+        "numeric_score": 3
       },
       {
         "pos": "72",
@@ -943,7 +943,7 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "21",
+        "pos": "22",
         "player": "Ludvig Åberg",
         "score": "-4",
         "today": "",
@@ -1059,16 +1059,16 @@
     "team": "Asshole Garrett",
     "golfers": [
       {
-        "pos": "23",
+        "pos": "16",
         "player": "Collin Morikawa",
-        "score": "-4",
+        "score": "-5",
         "today": "",
         "thru": "",
         "r1": "74.0",
         "r2": "69.0",
         "r3": "68.0",
-        "r4": "45.0",
-        "numeric_score": -4
+        "r4": "47.0",
+        "numeric_score": -5
       },
       {
         "pos": "82",
@@ -1095,7 +1095,7 @@
         "numeric_score": -7
       },
       {
-        "pos": "46",
+        "pos": "45",
         "player": "Sungjae Im",
         "score": "+3",
         "today": "",
@@ -1167,7 +1167,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -11,
+    "best3_total": -12,
     "scores_entered": 5,
     "roster_loaded": 9
   }
