@@ -61,6 +61,18 @@
   },
   {
     "pos": "6",
+    "player": "Tyrrell Hatton",
+    "score": "-8",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "66.0",
+    "r3": "72.0",
+    "r4": "52.0",
+    "numeric_score": -8
+  },
+  {
+    "pos": "7",
     "player": "Sam Burns",
     "score": "-8",
     "today": "",
@@ -72,7 +84,7 @@
     "numeric_score": -8
   },
   {
-    "pos": "7",
+    "pos": "8",
     "player": "Max Homa",
     "score": "-7",
     "today": "",
@@ -81,18 +93,6 @@
     "r2": "70.0",
     "r3": "71.0",
     "r4": "60.0",
-    "numeric_score": -7
-  },
-  {
-    "pos": "8",
-    "player": "Tyrrell Hatton",
-    "score": "-7",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "66.0",
-    "r3": "72.0",
-    "r4": "49.0",
     "numeric_score": -7
   },
   {
