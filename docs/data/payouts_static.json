@@ -25,7 +25,15 @@
     },
     {
       "title": "Day 3",
-      "items": []
+      "items": [
+        {
+          "label": "Leader",
+          "winners": [
+            { "name": "Roth", "amount": 37.5 },
+            { "name": "Adam & Kevin", "amount": 37.5 }
+          ]
+        }
+      ]
     },
     {
       "title": "Final",
