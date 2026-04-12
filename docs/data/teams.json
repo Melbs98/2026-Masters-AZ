@@ -431,7 +431,7 @@
         "r1": "72.0",
         "r2": "73.0",
         "r3": "72.0",
-        "r4": "7.0",
+        "r4": "11.0",
         "numeric_score": -1
       },
       {
@@ -767,7 +767,7 @@
         "r1": "72.0",
         "r2": "74.0",
         "r3": "73.0",
-        "r4": "12.0",
+        "r4": "15.0",
         "numeric_score": 2
       },
       {
@@ -979,7 +979,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "37",
+        "pos": "38",
         "player": "Maverick McNealy",
         "score": "E",
         "today": "",
@@ -1083,7 +1083,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "38",
+        "pos": "37",
         "player": "Justin Thomas",
         "score": "E",
         "today": "",
