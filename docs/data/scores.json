@@ -301,18 +301,6 @@
   },
   {
     "pos": "26",
-    "player": "Wyndham Clark",
-    "score": "-3",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "68.0",
-    "r3": "72.0",
-    "r4": "14.0",
-    "numeric_score": -3
-  },
-  {
-    "pos": "27",
     "player": "Keegan Bradley",
     "score": "-2",
     "today": "",
@@ -321,6 +309,18 @@
     "r2": "74.0",
     "r3": "73.0",
     "r4": "63.0",
+    "numeric_score": -2
+  },
+  {
+    "pos": "27",
+    "player": "Matt McCarty",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "73.0",
+    "r3": "72.0",
+    "r4": "61.0",
     "numeric_score": -2
   },
   {
@@ -397,15 +397,15 @@
   },
   {
     "pos": "34",
-    "player": "Matt McCarty",
-    "score": "-1",
+    "player": "Wyndham Clark",
+    "score": "-2",
     "today": "",
     "thru": "",
     "r1": "72.0",
-    "r2": "73.0",
+    "r2": "68.0",
     "r3": "72.0",
-    "r4": "59.0",
-    "numeric_score": -1
+    "r4": "18.0",
+    "numeric_score": -2
   },
   {
     "pos": "35",
@@ -421,14 +421,14 @@
   },
   {
     "pos": "36",
-    "player": "Kristoffer Reitan",
+    "player": "Jacob Bridgeman",
     "score": "-1",
     "today": "",
     "thru": "",
-    "r1": "72.0",
-    "r2": "68.0",
-    "r3": "73.0",
-    "r4": "29.0",
+    "r1": "71.0",
+    "r2": "74.0",
+    "r3": "69.0",
+    "r4": "37.0",
     "numeric_score": -1
   },
   {
@@ -452,7 +452,7 @@
     "r1": "73.0",
     "r2": "71.0",
     "r3": "75.0",
-    "r4": "61.0",
+    "r4": "65.0",
     "numeric_score": 0
   },
   {
@@ -481,18 +481,6 @@
   },
   {
     "pos": "41",
-    "player": "Jacob Bridgeman",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "74.0",
-    "r3": "69.0",
-    "r4": "34.0",
-    "numeric_score": 0
-  },
-  {
-    "pos": "42",
     "player": "Sepp Straka",
     "score": "E",
     "today": "",
@@ -501,6 +489,18 @@
     "r2": "72.0",
     "r3": "69.0",
     "r4": "34.0",
+    "numeric_score": 0
+  },
+  {
+    "pos": "42",
+    "player": "Kristoffer Reitan",
+    "score": "E",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "68.0",
+    "r3": "73.0",
+    "r4": "35.0",
     "numeric_score": 0
   },
   {
@@ -553,6 +553,18 @@
   },
   {
     "pos": "47",
+    "player": "Si Woo Kim",
+    "score": "+4",
+    "today": "",
+    "thru": "",
+    "r1": "75.0",
+    "r2": "73.0",
+    "r3": "72.0",
+    "r4": "72.0",
+    "numeric_score": 4
+  },
+  {
+    "pos": "48",
     "player": "Aaron Rai",
     "score": "+5",
     "today": "",
@@ -561,18 +573,6 @@
     "r2": "74.0",
     "r3": "78.0",
     "r4": "70.0",
-    "numeric_score": 5
-  },
-  {
-    "pos": "48",
-    "player": "Si Woo Kim",
-    "score": "+5",
-    "today": "",
-    "thru": "",
-    "r1": "75.0",
-    "r2": "73.0",
-    "r3": "72.0",
-    "r4": "69.0",
     "numeric_score": 5
   },
   {
