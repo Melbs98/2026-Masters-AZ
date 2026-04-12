@@ -167,7 +167,7 @@
         "numeric_score": -8
       },
       {
-        "pos": "35",
+        "pos": "36",
         "player": "Gary Woodland",
         "score": "E",
         "today": "",
@@ -423,7 +423,7 @@
         "numeric_score": 7
       },
       {
-        "pos": "37",
+        "pos": "38",
         "player": "Matt McCarty",
         "score": "E",
         "today": "",
@@ -435,7 +435,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "24",
+        "pos": "26",
         "player": "Kristoffer Reitan",
         "score": "-3",
         "today": "",
@@ -503,7 +503,7 @@
         "numeric_score": null
       },
       {
-        "pos": "23",
+        "pos": "25",
         "player": "Chris Gotterup",
         "score": "-3",
         "today": "",
@@ -527,7 +527,7 @@
         "numeric_score": -6
       },
       {
-        "pos": "39",
+        "pos": "40",
         "player": "Harris English",
         "score": "E",
         "today": "",
@@ -667,7 +667,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "25",
+        "pos": "23",
         "player": "Michael Brennan",
         "score": "-3",
         "today": "",
@@ -675,7 +675,7 @@
         "r1": "72.0",
         "r2": "71.0",
         "r3": "70.0",
-        "r4": "13.0",
+        "r4": "16.0",
         "numeric_score": -3
       },
       {
@@ -771,7 +771,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "38",
+        "pos": "39",
         "player": "Alex Noren",
         "score": "E",
         "today": "",
@@ -963,7 +963,7 @@
         "r1": "72.0",
         "r2": "73.0",
         "r3": "70.0",
-        "r4": "22.0",
+        "r4": "26.0",
         "numeric_score": -2
       },
       {
@@ -991,7 +991,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "36",
+        "pos": "37",
         "player": "Dustin Johnson",
         "score": "E",
         "today": "",
@@ -999,7 +999,7 @@
         "r1": "73.0",
         "r2": "71.0",
         "r3": "75.0",
-        "r4": "44.0",
+        "r4": "49.0",
         "numeric_score": 0
       },
       {
@@ -1083,7 +1083,7 @@
         "numeric_score": null
       },
       {
-        "pos": "26",
+        "pos": "24",
         "player": "Max Homa",
         "score": "-3",
         "today": "",
@@ -1119,7 +1119,7 @@
         "numeric_score": 8
       },
       {
-        "pos": "40",
+        "pos": "35",
         "player": "Brian Harman",
         "score": "E",
         "today": "",
