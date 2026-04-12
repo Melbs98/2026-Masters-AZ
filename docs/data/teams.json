@@ -259,7 +259,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "21",
+        "pos": "20",
         "player": "Viktor Hovland",
         "score": "-4",
         "today": "",
@@ -307,7 +307,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "19",
+        "pos": "18",
         "player": "Haotong Li",
         "score": "-5",
         "today": "",
@@ -783,7 +783,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "22",
+        "pos": "21",
         "player": "Michael Brennan",
         "score": "-4",
         "today": "",
@@ -863,7 +863,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "20",
+        "pos": "19",
         "player": "Maverick McNealy",
         "score": "-4",
         "today": "",
@@ -943,7 +943,7 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "23",
+        "pos": "22",
         "player": "Ludvig Åberg",
         "score": "-4",
         "today": "",
@@ -1059,16 +1059,16 @@
     "team": "Asshole Garrett",
     "golfers": [
       {
-        "pos": "18",
+        "pos": "23",
         "player": "Collin Morikawa",
-        "score": "-5",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "74.0",
         "r2": "69.0",
         "r3": "68.0",
-        "r4": "32.0",
-        "numeric_score": -5
+        "r4": "37.0",
+        "numeric_score": -4
       },
       {
         "pos": "82",
@@ -1167,7 +1167,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -11,
+    "best3_total": -10,
     "scores_entered": 5,
     "roster_loaded": 9
   }
