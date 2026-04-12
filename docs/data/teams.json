@@ -131,7 +131,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "34",
+        "pos": "35",
         "player": "Matt Fitzpatrick",
         "score": "-1",
         "today": "",
@@ -167,7 +167,7 @@
         "numeric_score": -8
       },
       {
-        "pos": "35",
+        "pos": "36",
         "player": "Gary Woodland",
         "score": "E",
         "today": "",
@@ -423,19 +423,19 @@
         "numeric_score": 7
       },
       {
-        "pos": "38",
+        "pos": "33",
         "player": "Matt McCarty",
-        "score": "E",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "73.0",
         "r3": "72.0",
-        "r4": "55.0",
-        "numeric_score": 0
+        "r4": "59.0",
+        "numeric_score": -1
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Kristoffer Reitan",
         "score": "-1",
         "today": "",
@@ -651,7 +651,7 @@
         "r1": "73.0",
         "r2": "71.0",
         "r3": "71.0",
-        "r4": "42.0",
+        "r4": "46.0",
         "numeric_score": 1
       },
       {
@@ -827,7 +827,7 @@
     "team": "Bryan",
     "golfers": [
       {
-        "pos": "36",
+        "pos": "37",
         "player": "Jon Rahm",
         "score": "E",
         "today": "",
@@ -991,7 +991,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "37",
+        "pos": "38",
         "player": "Dustin Johnson",
         "score": "E",
         "today": "",
@@ -1127,7 +1127,7 @@
         "r1": "79.0",
         "r2": "69.0",
         "r3": "67.0",
-        "r4": "38.0",
+        "r4": "42.0",
         "numeric_score": 1
       },
       {
