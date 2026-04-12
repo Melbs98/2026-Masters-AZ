@@ -747,7 +747,7 @@
         "numeric_score": null
       },
       {
-        "pos": "40",
+        "pos": "41",
         "player": "Sepp Straka",
         "score": "+1",
         "today": "",
@@ -851,7 +851,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "41",
+        "pos": "40",
         "player": "Jacob Bridgeman",
         "score": "+1",
         "today": "",
@@ -859,7 +859,7 @@
         "r1": "71.0",
         "r2": "74.0",
         "r3": "69.0",
-        "r4": "64.0",
+        "r4": "67.0",
         "numeric_score": 1
       },
       {
@@ -1067,7 +1067,7 @@
         "r1": "74.0",
         "r2": "69.0",
         "r3": "68.0",
-        "r4": "27.0",
+        "r4": "32.0",
         "numeric_score": -5
       },
       {
