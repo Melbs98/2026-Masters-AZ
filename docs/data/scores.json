@@ -176,7 +176,7 @@
     "r1": "73.0",
     "r2": "69.0",
     "r3": "69.0",
-    "r4": "44.0",
+    "r4": "47.0",
     "numeric_score": -5
   },
   {
@@ -469,18 +469,6 @@
   },
   {
     "pos": "40",
-    "player": "Nick Taylor",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "72.0",
-    "r3": "70.0",
-    "r4": "60.0",
-    "numeric_score": 1
-  },
-  {
-    "pos": "41",
     "player": "Justin Thomas",
     "score": "+2",
     "today": "",
@@ -492,7 +480,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "42",
+    "pos": "41",
     "player": "Jacob Bridgeman",
     "score": "+2",
     "today": "",
@@ -504,7 +492,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "43",
+    "pos": "42",
     "player": "Sepp Straka",
     "score": "+2",
     "today": "",
@@ -516,7 +504,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "44",
+    "pos": "43",
     "player": "Kristoffer Reitan",
     "score": "+2",
     "today": "",
@@ -525,6 +513,18 @@
     "r2": "68.0",
     "r3": "73.0",
     "r4": "73.0",
+    "numeric_score": 2
+  },
+  {
+    "pos": "44",
+    "player": "Nick Taylor",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "72.0",
+    "r3": "70.0",
+    "r4": "66.0",
     "numeric_score": 2
   },
   {
