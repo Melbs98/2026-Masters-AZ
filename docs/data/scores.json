@@ -85,18 +85,6 @@
   },
   {
     "pos": "8",
-    "player": "Jake Knapp",
-    "score": "-7",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "69.0",
-    "r3": "69.0",
-    "r4": "14.0",
-    "numeric_score": -7
-  },
-  {
-    "pos": "9",
     "player": "Russell Henley",
     "score": "-7",
     "today": "",
@@ -108,7 +96,7 @@
     "numeric_score": -7
   },
   {
-    "pos": "10",
+    "pos": "9",
     "player": "Ludvig Åberg",
     "score": "-6",
     "today": "",
@@ -120,7 +108,7 @@
     "numeric_score": -6
   },
   {
-    "pos": "11",
+    "pos": "10",
     "player": "Tyrrell Hatton",
     "score": "-6",
     "today": "",
@@ -129,6 +117,18 @@
     "r2": "66.0",
     "r3": "72.0",
     "r4": "25.0",
+    "numeric_score": -6
+  },
+  {
+    "pos": "11",
+    "player": "Jake Knapp",
+    "score": "-6",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "69.0",
+    "r3": "69.0",
+    "r4": "19.0",
     "numeric_score": -6
   },
   {
@@ -337,6 +337,18 @@
   },
   {
     "pos": "29",
+    "player": "Brian Campbell",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "73.0",
+    "r3": "69.0",
+    "r4": "33.0",
+    "numeric_score": -2
+  },
+  {
+    "pos": "30",
     "player": "Nick Taylor",
     "score": "-2",
     "today": "",
@@ -348,7 +360,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "30",
+    "pos": "31",
     "player": "Brooks Koepka",
     "score": "-2",
     "today": "",
@@ -360,7 +372,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "31",
+    "pos": "32",
     "player": "Wyndham Clark",
     "score": "-2",
     "today": "",
@@ -372,7 +384,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "32",
+    "pos": "33",
     "player": "Ryan Gerard",
     "score": "-2",
     "today": "",
@@ -384,7 +396,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "33",
+    "pos": "34",
     "player": "Alex Noren",
     "score": "-1",
     "today": "",
@@ -396,7 +408,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "34",
+    "pos": "35",
     "player": "Harris English",
     "score": "-1",
     "today": "",
@@ -405,18 +417,6 @@
     "r2": "71.0",
     "r3": "71.0",
     "r4": "56.0",
-    "numeric_score": -1
-  },
-  {
-    "pos": "35",
-    "player": "Brian Campbell",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "73.0",
-    "r3": "69.0",
-    "r4": "29.0",
     "numeric_score": -1
   },
   {
