@@ -85,18 +85,6 @@
   },
   {
     "pos": "8",
-    "player": "Jason Day",
-    "score": "-7",
-    "today": "",
-    "thru": "",
-    "r1": "69.0",
-    "r2": "71.0",
-    "r3": "68.0",
-    "r4": "24.0",
-    "numeric_score": -7
-  },
-  {
-    "pos": "9",
     "player": "Max Homa",
     "score": "-6",
     "today": "",
@@ -108,7 +96,7 @@
     "numeric_score": -6
   },
   {
-    "pos": "10",
+    "pos": "9",
     "player": "Patrick Cantlay",
     "score": "-6",
     "today": "",
@@ -120,7 +108,7 @@
     "numeric_score": -6
   },
   {
-    "pos": "11",
+    "pos": "10",
     "player": "Shane Lowry",
     "score": "-6",
     "today": "",
@@ -132,7 +120,7 @@
     "numeric_score": -6
   },
   {
-    "pos": "12",
+    "pos": "11",
     "player": "Jordan Spieth",
     "score": "-5",
     "today": "",
@@ -144,7 +132,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "13",
+    "pos": "12",
     "player": "Hideki Matsuyama",
     "score": "-5",
     "today": "",
@@ -156,7 +144,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "14",
+    "pos": "13",
     "player": "Matt Fitzpatrick",
     "score": "-5",
     "today": "",
@@ -168,7 +156,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "15",
+    "pos": "14",
     "player": "Xander Schauffele",
     "score": "-5",
     "today": "",
@@ -180,7 +168,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "16",
+    "pos": "15",
     "player": "Jake Knapp",
     "score": "-5",
     "today": "",
@@ -192,7 +180,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "17",
+    "pos": "16",
     "player": "Patrick Reed",
     "score": "-5",
     "today": "",
@@ -204,7 +192,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "18",
+    "pos": "17",
     "player": "Haotong Li",
     "score": "-5",
     "today": "",
@@ -213,6 +201,18 @@
     "r2": "69.0",
     "r3": "69.0",
     "r4": "29.0",
+    "numeric_score": -5
+  },
+  {
+    "pos": "18",
+    "player": "Jason Day",
+    "score": "-5",
+    "today": "",
+    "thru": "",
+    "r1": "69.0",
+    "r2": "71.0",
+    "r3": "68.0",
+    "r4": "30.0",
     "numeric_score": -5
   },
   {
@@ -296,7 +296,7 @@
     "r1": "72.0",
     "r2": "69.0",
     "r3": "72.0",
-    "r4": "64.0",
+    "r4": "68.0",
     "numeric_score": -3
   },
   {
@@ -397,18 +397,6 @@
   },
   {
     "pos": "34",
-    "player": "Wyndham Clark",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "68.0",
-    "r3": "72.0",
-    "r4": "50.0",
-    "numeric_score": -1
-  },
-  {
-    "pos": "35",
     "player": "Tommy Fleetwood",
     "score": "-1",
     "today": "",
@@ -416,6 +404,18 @@
     "r1": "71.0",
     "r2": "68.0",
     "r3": "73.0",
+    "r4": "55.0",
+    "numeric_score": -1
+  },
+  {
+    "pos": "35",
+    "player": "Wyndham Clark",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "68.0",
+    "r3": "72.0",
     "r4": "50.0",
     "numeric_score": -1
   },
