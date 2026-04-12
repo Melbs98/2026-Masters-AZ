@@ -179,7 +179,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "42",
+        "pos": "40",
         "player": "Sam Stevens",
         "score": "E",
         "today": "",
@@ -187,7 +187,7 @@
         "r1": "72.0",
         "r2": "74.0",
         "r3": "70.0",
-        "r4": "0.0",
+        "r4": "4.0",
         "numeric_score": 0
       },
       {
@@ -423,7 +423,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "38",
+        "pos": "37",
         "player": "Matt McCarty",
         "score": "E",
         "today": "",
@@ -527,16 +527,16 @@
         "numeric_score": -6
       },
       {
-        "pos": "37",
+        "pos": "42",
         "player": "Harris English",
-        "score": "-1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "71.0",
         "r3": "71.0",
-        "r4": "0.0",
-        "numeric_score": -1
+        "r4": "5.0",
+        "numeric_score": 0
       },
       {
         "pos": "51",
@@ -631,7 +631,7 @@
         "numeric_score": null
       },
       {
-        "pos": "40",
+        "pos": "39",
         "player": "Adam Scott",
         "score": "E",
         "today": "",
@@ -1083,7 +1083,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "39",
+        "pos": "38",
         "player": "Justin Thomas",
         "score": "E",
         "today": "",
