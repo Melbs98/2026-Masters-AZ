@@ -235,7 +235,7 @@
         "r1": "72.0",
         "r2": "75.0",
         "r3": "74.0",
-        "r4": "42.0",
+        "r4": "46.0",
         "numeric_score": 7
       }
     ],
@@ -423,7 +423,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "39",
+        "pos": "38",
         "player": "Matt McCarty",
         "score": "E",
         "today": "",
@@ -527,16 +527,16 @@
         "numeric_score": -6
       },
       {
-        "pos": "37",
+        "pos": "40",
         "player": "Harris English",
-        "score": "-1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "71.0",
         "r3": "71.0",
-        "r4": "13.0",
-        "numeric_score": -1
+        "r4": "17.0",
+        "numeric_score": 0
       },
       {
         "pos": "50",
@@ -687,7 +687,7 @@
         "r1": "75.0",
         "r2": "73.0",
         "r3": "77.0",
-        "r4": "50.0",
+        "r4": "55.0",
         "numeric_score": 12
       },
       {
@@ -735,7 +735,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "38",
+        "pos": "37",
         "player": "Jacob Bridgeman",
         "score": "-1",
         "today": "",
@@ -771,7 +771,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "40",
+        "pos": "39",
         "player": "Alex Noren",
         "score": "E",
         "today": "",
@@ -951,7 +951,7 @@
         "r1": "78.0",
         "r2": "70.0",
         "r3": "73.0",
-        "r4": "37.0",
+        "r4": "41.0",
         "numeric_score": 2
       },
       {
@@ -987,7 +987,7 @@
         "r1": "77.0",
         "r2": "70.0",
         "r3": "70.0",
-        "r4": "21.0",
+        "r4": "25.0",
         "numeric_score": -1
       },
       {
