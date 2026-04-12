@@ -119,7 +119,7 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "26",
+        "pos": "25",
         "player": "Tommy Fleetwood",
         "score": "-3",
         "today": "",
@@ -127,7 +127,7 @@
         "r1": "71.0",
         "r2": "68.0",
         "r3": "73.0",
-        "r4": "14.0",
+        "r4": "17.0",
         "numeric_score": -3
       },
       {
@@ -771,7 +771,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Wyndham Clark",
         "score": "-3",
         "today": "",
@@ -1091,7 +1091,7 @@
         "r1": "72.0",
         "r2": "70.0",
         "r3": "71.0",
-        "r4": "22.0",
+        "r4": "26.0",
         "numeric_score": -4
       },
       {
