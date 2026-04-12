@@ -1,6 +1,18 @@
 [
   {
     "pos": "1",
+    "player": "Rory McIlroy",
+    "score": "-12",
+    "today": "",
+    "thru": "",
+    "r1": "67.0",
+    "r2": "65.0",
+    "r3": "73.0",
+    "r4": "12.0",
+    "numeric_score": -12
+  },
+  {
+    "pos": "2",
     "player": "Cameron Young",
     "score": "-12",
     "today": "",
@@ -10,18 +22,6 @@
     "r3": "65.0",
     "r4": "8.0",
     "numeric_score": -12
-  },
-  {
-    "pos": "2",
-    "player": "Rory McIlroy",
-    "score": "-11",
-    "today": "",
-    "thru": "",
-    "r1": "67.0",
-    "r2": "65.0",
-    "r3": "73.0",
-    "r4": "9.0",
-    "numeric_score": -11
   },
   {
     "pos": "3",
@@ -37,18 +37,6 @@
   },
   {
     "pos": "4",
-    "player": "Shane Lowry",
-    "score": "-9",
-    "today": "",
-    "thru": "",
-    "r1": "70.0",
-    "r2": "69.0",
-    "r3": "68.0",
-    "r4": "13.0",
-    "numeric_score": -9
-  },
-  {
-    "pos": "5",
     "player": "Russell Henley",
     "score": "-8",
     "today": "",
@@ -60,7 +48,7 @@
     "numeric_score": -8
   },
   {
-    "pos": "6",
+    "pos": "5",
     "player": "Jason Day",
     "score": "-8",
     "today": "",
@@ -72,7 +60,7 @@
     "numeric_score": -8
   },
   {
-    "pos": "7",
+    "pos": "6",
     "player": "Justin Rose",
     "score": "-8",
     "today": "",
@@ -81,6 +69,18 @@
     "r2": "69.0",
     "r3": "69.0",
     "r4": "16.0",
+    "numeric_score": -8
+  },
+  {
+    "pos": "7",
+    "player": "Shane Lowry",
+    "score": "-8",
+    "today": "",
+    "thru": "",
+    "r1": "70.0",
+    "r2": "69.0",
+    "r3": "68.0",
+    "r4": "17.0",
     "numeric_score": -8
   },
   {
@@ -481,6 +481,18 @@
   },
   {
     "pos": "41",
+    "player": "Sepp Straka",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "72.0",
+    "r3": "69.0",
+    "r4": "64.0",
+    "numeric_score": 1
+  },
+  {
+    "pos": "42",
     "player": "Jacob Bridgeman",
     "score": "+1",
     "today": "",
@@ -492,7 +504,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "42",
+    "pos": "43",
     "player": "Nick Taylor",
     "score": "+1",
     "today": "",
@@ -504,7 +516,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "43",
+    "pos": "44",
     "player": "Justin Thomas",
     "score": "+2",
     "today": "",
@@ -513,18 +525,6 @@
     "r2": "74.0",
     "r3": "71.0",
     "r4": "73.0",
-    "numeric_score": 2
-  },
-  {
-    "pos": "44",
-    "player": "Sepp Straka",
-    "score": "+2",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "72.0",
-    "r3": "69.0",
-    "r4": "60.0",
     "numeric_score": 2
   },
   {
