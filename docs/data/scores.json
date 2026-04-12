@@ -409,6 +409,18 @@
   },
   {
     "pos": "35",
+    "player": "Kristoffer Reitan",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "68.0",
+    "r3": "73.0",
+    "r4": "29.0",
+    "numeric_score": -1
+  },
+  {
+    "pos": "36",
     "player": "Gary Woodland",
     "score": "E",
     "today": "",
@@ -420,7 +432,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "36",
+    "pos": "37",
     "player": "Jon Rahm",
     "score": "E",
     "today": "",
@@ -428,11 +440,11 @@
     "r1": "78.0",
     "r2": "70.0",
     "r3": "73.0",
-    "r4": "59.0",
+    "r4": "63.0",
     "numeric_score": 0
   },
   {
-    "pos": "37",
+    "pos": "38",
     "player": "Dustin Johnson",
     "score": "E",
     "today": "",
@@ -444,7 +456,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "38",
+    "pos": "39",
     "player": "Matt McCarty",
     "score": "E",
     "today": "",
@@ -456,7 +468,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "39",
+    "pos": "40",
     "player": "Harris English",
     "score": "E",
     "today": "",
@@ -468,7 +480,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "40",
+    "pos": "41",
     "player": "Brian Harman",
     "score": "E",
     "today": "",
@@ -480,7 +492,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "41",
+    "pos": "42",
     "player": "Sungjae Im",
     "score": "E",
     "today": "",
@@ -489,18 +501,6 @@
     "r2": "69.0",
     "r3": "69.0",
     "r4": "34.0",
-    "numeric_score": 0
-  },
-  {
-    "pos": "42",
-    "player": "Kristoffer Reitan",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "68.0",
-    "r3": "73.0",
-    "r4": "26.0",
     "numeric_score": 0
   },
   {
