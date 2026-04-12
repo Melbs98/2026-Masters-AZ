@@ -235,16 +235,16 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "34",
+        "pos": "36",
         "player": "Tommy Fleetwood",
-        "score": "-2",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "68.0",
         "r3": "73.0",
-        "r4": "22.0",
-        "numeric_score": -2
+        "r4": "26.0",
+        "numeric_score": -1
       },
       {
         "pos": "31",
@@ -431,7 +431,7 @@
         "r1": "72.0",
         "r2": "73.0",
         "r3": "72.0",
-        "r4": "61.0",
+        "r4": "65.0",
         "numeric_score": -2
       },
       {
@@ -503,7 +503,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "36",
+        "pos": "35",
         "player": "Jacob Bridgeman",
         "score": "-1",
         "today": "",
@@ -539,7 +539,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "35",
+        "pos": "34",
         "player": "Alex Noren",
         "score": "-1",
         "today": "",
@@ -871,7 +871,7 @@
         "r1": "74.0",
         "r2": "66.0",
         "r3": "72.0",
-        "r4": "20.0",
+        "r4": "23.0",
         "numeric_score": -4
       },
       {
@@ -1091,7 +1091,7 @@
         "r1": "75.0",
         "r2": "73.0",
         "r3": "71.0",
-        "r4": "66.0",
+        "r4": "70.0",
         "numeric_score": 5
       },
       {
