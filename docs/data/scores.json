@@ -8,7 +8,7 @@
     "r1": "67.0",
     "r2": "65.0",
     "r3": "73.0",
-    "r4": "54.0",
+    "r4": "59.0",
     "numeric_score": -13
   },
   {
@@ -61,6 +61,18 @@
   },
   {
     "pos": "6",
+    "player": "Sam Burns",
+    "score": "-10",
+    "today": "",
+    "thru": "",
+    "r1": "67.0",
+    "r2": "71.0",
+    "r3": "68.0",
+    "r4": "64.0",
+    "numeric_score": -10
+  },
+  {
+    "pos": "7",
     "player": "Cameron Young",
     "score": "-10",
     "today": "",
@@ -72,7 +84,7 @@
     "numeric_score": -10
   },
   {
-    "pos": "7",
+    "pos": "8",
     "player": "Collin Morikawa",
     "score": "-9",
     "today": "",
@@ -81,18 +93,6 @@
     "r2": "69.0",
     "r3": "68.0",
     "r4": "68.0",
-    "numeric_score": -9
-  },
-  {
-    "pos": "8",
-    "player": "Sam Burns",
-    "score": "-9",
-    "today": "",
-    "thru": "",
-    "r1": "67.0",
-    "r2": "71.0",
-    "r3": "68.0",
-    "r4": "62.0",
     "numeric_score": -9
   },
   {
