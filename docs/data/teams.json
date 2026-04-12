@@ -131,7 +131,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "26",
+        "pos": "27",
         "player": "Matt Fitzpatrick",
         "score": "-3",
         "today": "",
@@ -435,7 +435,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "30",
+        "pos": "24",
         "player": "Kristoffer Reitan",
         "score": "-3",
         "today": "",
@@ -443,11 +443,11 @@
         "r1": "72.0",
         "r2": "68.0",
         "r3": "73.0",
-        "r4": "0.0",
+        "r4": "4.0",
         "numeric_score": -3
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Brian Campbell",
         "score": "-3",
         "today": "",
@@ -527,7 +527,7 @@
         "numeric_score": -6
       },
       {
-        "pos": "36",
+        "pos": "37",
         "player": "Harris English",
         "score": "-1",
         "today": "",
@@ -651,7 +651,7 @@
         "r1": "76.0",
         "r2": "69.0",
         "r3": "71.0",
-        "r4": "17.0",
+        "r4": "21.0",
         "numeric_score": 1
       },
       {
@@ -667,7 +667,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Michael Brennan",
         "score": "-3",
         "today": "",
@@ -711,7 +711,7 @@
     "team": "Dan 'Full Swing' Clark",
     "golfers": [
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Ludvig Åberg",
         "score": "-3",
         "today": "",
@@ -1003,7 +1003,7 @@
         "numeric_score": null
       },
       {
-        "pos": "28",
+        "pos": "29",
         "player": "Nick Taylor",
         "score": "-3",
         "today": "",
@@ -1083,7 +1083,7 @@
         "numeric_score": null
       },
       {
-        "pos": "29",
+        "pos": "30",
         "player": "Max Homa",
         "score": "-3",
         "today": "",
@@ -1119,7 +1119,7 @@
         "numeric_score": 8
       },
       {
-        "pos": "37",
+        "pos": "36",
         "player": "Brian Harman",
         "score": "-1",
         "today": "",
@@ -1127,7 +1127,7 @@
         "r1": "79.0",
         "r2": "69.0",
         "r3": "67.0",
-        "r4": "9.0",
+        "r4": "13.0",
         "numeric_score": -1
       },
       {
