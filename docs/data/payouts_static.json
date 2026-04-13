@@ -35,9 +35,85 @@
         }
       ]
     },
-    {
       "title": "Final",
-      "items": []
+      "items": [
+        {
+          "label": "Leader",
+          "winners": [
+            { "name": "Roth", "amount": 300 },
+          ]
+        },
+                {
+          "label": "2nd Place",
+          "winners": [
+            { "name": "Ross", "amount": 150 },
+          ]
+        },
+                {
+          "label": "3rd Place",
+          "winners": [
+            { "name": "Coulter", "amount": 18.75 },
+            { "name": "Klooster", "amount": 18.75 },
+            { "name": "Bryan", "amount": 18.75 },
+            { "name": "Adam & Kevin", "amount": 18.75 },
+          ]
+        },
+        {
+          "label": "Best 3-Man Team",
+          "winners": [
+            { "name": "Coulter", "amount": 250 }
+          ]
+        }
+      ]
+          "title": "Final Payout Totals",
+      "items": [
+        {
+          "label": "Total",
+          "winners": [
+            { "name": "Roth", "amount": 450 },
+          ]
+        },
+                {
+          "label": "Total",
+          "winners": [
+            { "name": "Coulter", "amount": 150 },
+          ]
+        },
+                {
+          "label": "Total",
+          "winners": [
+            { "name": "Ross", "amount": 150 },
+          ]
+        },
+                        {
+          "label": "Total",
+          "winners": [
+            { "name": "Adam & Kevin", "amount": 56.25 },
+          ]
+        },
+                        {
+          "label": "Total",
+          "winners": [
+            { "name": "Melbye", "amount": 37.50 },
+          ]
+        },
+                        {
+          "label": "Total",
+          "winners": [
+            { "name": "Klooster", "amount": 18.75 },
+          ]
+        },
+                                {
+          "label": "Total",
+          "winners": [
+            { "name": "Kevin", "amount": 18.75 },
+          ]
+        },
+        {
+          "label": "Best 3-Man Team",
+          "winners": [
+            { "name": "Coulter", "amount": 275 }
+          ]
+        }
+      ]
     }
-  ]
-}
