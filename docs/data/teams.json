@@ -131,12 +131,12 @@
         "numeric_score": 0
       },
       {
-        "pos": "18",
+        "pos": "15",
         "player": "Min Woo Lee",
         "score": "CUT",
         "today": "",
         "thru": "",
-        "r1": "0.0",
+        "r1": "4.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -783,12 +783,12 @@
         "numeric_score": 0
       },
       {
-        "pos": "14",
+        "pos": "13",
         "player": "Michael Brennan",
         "score": "E",
         "today": "",
         "thru": "",
-        "r1": "0.0",
+        "r1": "13.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -1027,16 +1027,16 @@
         "numeric_score": null
       },
       {
-        "pos": "6",
+        "pos": "2",
         "player": "Brian Campbell",
-        "score": "+1",
+        "score": "E",
         "today": "",
         "thru": "",
-        "r1": "10.0",
+        "r1": "27.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 1
+        "numeric_score": 0
       },
       {
         "pos": "",
