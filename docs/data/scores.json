@@ -97,6 +97,18 @@
   },
   {
     "pos": "9",
+    "player": "Matt Fitzpatrick",
+    "score": "-6",
+    "today": "",
+    "thru": "",
+    "r1": "65.0",
+    "r2": "",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -6
+  },
+  {
+    "pos": "10",
     "player": "Robert MacIntyre",
     "score": "CUT",
     "today": "",
@@ -108,7 +120,7 @@
     "numeric_score": null
   },
   {
-    "pos": "10",
+    "pos": "11",
     "player": "Sungjae Im",
     "score": "-5",
     "today": "",
@@ -120,7 +132,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "11",
+    "pos": "12",
     "player": "Sepp Straka",
     "score": "-5",
     "today": "",
@@ -132,7 +144,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "12",
+    "pos": "13",
     "player": "Daniel Berger",
     "score": "CUT",
     "today": "",
@@ -144,7 +156,7 @@
     "numeric_score": null
   },
   {
-    "pos": "13",
+    "pos": "14",
     "player": "Si Woo Kim",
     "score": "-5",
     "today": "",
@@ -156,7 +168,7 @@
     "numeric_score": -5
   },
   {
-    "pos": "14",
+    "pos": "15",
     "player": "Joe Highsmith",
     "score": "-4",
     "today": "",
@@ -168,7 +180,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "15",
+    "pos": "16",
     "player": "Aldrich Potgieter",
     "score": "CUT",
     "today": "",
@@ -180,7 +192,7 @@
     "numeric_score": null
   },
   {
-    "pos": "16",
+    "pos": "17",
     "player": "Keegan Bradley",
     "score": "-4",
     "today": "",
@@ -192,7 +204,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "17",
+    "pos": "18",
     "player": "Corey Conners",
     "score": "-4",
     "today": "",
@@ -204,24 +216,12 @@
     "numeric_score": -4
   },
   {
-    "pos": "18",
+    "pos": "19",
     "player": "Collin Morikawa",
     "score": "-4",
     "today": "",
     "thru": "",
     "r1": "67.0",
-    "r2": "",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -4
-  },
-  {
-    "pos": "19",
-    "player": "Matt Fitzpatrick",
-    "score": "-4",
-    "today": "",
-    "thru": "",
-    "r1": "56.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -293,7 +293,7 @@
     "score": "-3",
     "today": "",
     "thru": "",
-    "r1": "64.0",
+    "r1": "68.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -305,7 +305,7 @@
     "score": "-3",
     "today": "",
     "thru": "",
-    "r1": "57.0",
+    "r1": "68.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -509,7 +509,7 @@
     "score": "-2",
     "today": "",
     "thru": "",
-    "r1": "65.0",
+    "r1": "69.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -605,7 +605,7 @@
     "score": "-1",
     "today": "",
     "thru": "",
-    "r1": "63.0",
+    "r1": "70.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -617,7 +617,7 @@
     "score": "-1",
     "today": "",
     "thru": "",
-    "r1": "54.0",
+    "r1": "66.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -625,6 +625,18 @@
   },
   {
     "pos": "53",
+    "player": "Jake Knapp",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "66.0",
+    "r2": "",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -1
+  },
+  {
+    "pos": "54",
     "player": "Chandler Blanchet",
     "score": "E",
     "today": "",
@@ -636,7 +648,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "54",
+    "pos": "55",
     "player": "J.T. Poston",
     "score": "E",
     "today": "",
@@ -648,7 +660,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "55",
+    "pos": "56",
     "player": "Tom Hoge",
     "score": "E",
     "today": "",
@@ -660,7 +672,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "56",
+    "pos": "57",
     "player": "Brian Harman",
     "score": "E",
     "today": "",
@@ -672,7 +684,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "57",
+    "pos": "58",
     "player": "Cameron Young",
     "score": "E",
     "today": "",
@@ -684,7 +696,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "58",
+    "pos": "59",
     "player": "Billy Horschel",
     "score": "E",
     "today": "",
@@ -696,7 +708,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "59",
+    "pos": "60",
     "player": "Andrew Putnam",
     "score": "E",
     "today": "",
@@ -708,24 +720,12 @@
     "numeric_score": 0
   },
   {
-    "pos": "60",
-    "player": "Jake Knapp",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "55.0",
-    "r2": "",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 0
-  },
-  {
     "pos": "61",
     "player": "Max Homa",
     "score": "E",
     "today": "",
     "thru": "",
-    "r1": "55.0",
+    "r1": "67.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -893,7 +893,7 @@
     "score": "+3",
     "today": "",
     "thru": "",
-    "r1": "58.0",
+    "r1": "70.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -965,7 +965,7 @@
     "score": "+5",
     "today": "",
     "thru": "",
-    "r1": "69.0",
+    "r1": "76.0",
     "r2": "",
     "r3": "",
     "r4": "",
