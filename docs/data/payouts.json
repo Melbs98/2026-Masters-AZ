@@ -1,3 +1,17 @@
 {
-  "items": []
+  "items": [
+    {
+      "label": "Leader after Day 2",
+      "winners": [
+        {
+          "name": "Klooster",
+          "amount": 37.5
+        },
+        {
+          "name": "Roth",
+          "amount": 37.5
+        }
+      ]
+    }
+  ]
 }
