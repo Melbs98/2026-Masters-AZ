@@ -8,32 +8,32 @@
     "r1": "65.0",
     "r2": "63.0",
     "r3": "68.0",
-    "r4": "50.0",
+    "r4": "58.0",
     "numeric_score": -19
   },
   {
     "pos": "2",
     "player": "Si Woo Kim",
-    "score": "-16",
+    "score": "-17",
     "today": "",
     "thru": "",
     "r1": "66.0",
     "r2": "68.0",
     "r3": "66.0",
-    "r4": "52.0",
-    "numeric_score": -16
+    "r4": "60.0",
+    "numeric_score": -17
   },
   {
     "pos": "3",
     "player": "Scottie Scheffler",
-    "score": "-16",
+    "score": "-17",
     "today": "",
     "thru": "",
     "r1": "68.0",
     "r2": "67.0",
     "r3": "64.0",
-    "r4": "50.0",
-    "numeric_score": -16
+    "r4": "57.0",
+    "numeric_score": -17
   },
   {
     "pos": "4",
@@ -61,18 +61,6 @@
   },
   {
     "pos": "6",
-    "player": "Bud Cauley",
-    "score": "-13",
-    "today": "",
-    "thru": "",
-    "r1": "68.0",
-    "r2": "69.0",
-    "r3": "65.0",
-    "r4": "65.0",
-    "numeric_score": -13
-  },
-  {
-    "pos": "7",
     "player": "Ludvig Åberg",
     "score": "-13",
     "today": "",
@@ -80,23 +68,23 @@
     "r1": "63.0",
     "r2": "70.0",
     "r3": "68.0",
-    "r4": "63.0",
+    "r4": "70.0",
     "numeric_score": -13
   },
   {
-    "pos": "8",
-    "player": "Patrick Cantlay",
+    "pos": "7",
+    "player": "Bud Cauley",
     "score": "-12",
     "today": "",
     "thru": "",
-    "r1": "69.0",
-    "r2": "64.0",
-    "r3": "68.0",
-    "r4": "64.0",
+    "r1": "68.0",
+    "r2": "69.0",
+    "r3": "65.0",
+    "r4": "70.0",
     "numeric_score": -12
   },
   {
-    "pos": "9",
+    "pos": "8",
     "player": "Rickie Fowler",
     "score": "-11",
     "today": "",
@@ -108,7 +96,7 @@
     "numeric_score": -11
   },
   {
-    "pos": "10",
+    "pos": "9",
     "player": "Kurt Kitayama",
     "score": "-11",
     "today": "",
@@ -120,7 +108,31 @@
     "numeric_score": -11
   },
   {
+    "pos": "10",
+    "player": "Gary Woodland",
+    "score": "-11",
+    "today": "",
+    "thru": "",
+    "r1": "65.0",
+    "r2": "70.0",
+    "r3": "66.0",
+    "r4": "72.0",
+    "numeric_score": -11
+  },
+  {
     "pos": "11",
+    "player": "Patrick Cantlay",
+    "score": "-11",
+    "today": "",
+    "thru": "",
+    "r1": "69.0",
+    "r2": "64.0",
+    "r3": "68.0",
+    "r4": "72.0",
+    "numeric_score": -11
+  },
+  {
+    "pos": "12",
     "player": "Matt McCarty",
     "score": "-10",
     "today": "",
@@ -132,7 +144,7 @@
     "numeric_score": -10
   },
   {
-    "pos": "12",
+    "pos": "13",
     "player": "Keegan Bradley",
     "score": "-10",
     "today": "",
@@ -144,7 +156,7 @@
     "numeric_score": -10
   },
   {
-    "pos": "13",
+    "pos": "14",
     "player": "Xander Schauffele",
     "score": "-10",
     "today": "",
@@ -156,7 +168,7 @@
     "numeric_score": -10
   },
   {
-    "pos": "14",
+    "pos": "15",
     "player": "Steven Fisk",
     "score": "-10",
     "today": "",
@@ -165,18 +177,6 @@
     "r2": "67.0",
     "r3": "67.0",
     "r4": "71.0",
-    "numeric_score": -10
-  },
-  {
-    "pos": "15",
-    "player": "Gary Woodland",
-    "score": "-10",
-    "today": "",
-    "thru": "",
-    "r1": "65.0",
-    "r2": "70.0",
-    "r3": "66.0",
-    "r4": "62.0",
     "numeric_score": -10
   },
   {
@@ -272,23 +272,11 @@
     "r1": "69.0",
     "r2": "68.0",
     "r3": "65.0",
-    "r4": "69.0",
+    "r4": "73.0",
     "numeric_score": -9
   },
   {
     "pos": "24",
-    "player": "Aldrich Potgieter",
-    "score": "CUT",
-    "today": "",
-    "thru": "",
-    "r1": "67.0",
-    "r2": "67.0",
-    "r3": "67.0",
-    "r4": "63.0",
-    "numeric_score": null
-  },
-  {
-    "pos": "25",
     "player": "Andrew Novak",
     "score": "CUT",
     "today": "",
@@ -296,7 +284,19 @@
     "r1": "65.0",
     "r2": "71.0",
     "r3": "65.0",
-    "r4": "58.0",
+    "r4": "70.0",
+    "numeric_score": null
+  },
+  {
+    "pos": "25",
+    "player": "Aldrich Potgieter",
+    "score": "CUT",
+    "today": "",
+    "thru": "",
+    "r1": "67.0",
+    "r2": "67.0",
+    "r3": "67.0",
+    "r4": "70.0",
     "numeric_score": null
   },
   {
@@ -308,7 +308,7 @@
     "r1": "71.0",
     "r2": "66.0",
     "r3": "63.0",
-    "r4": "59.0",
+    "r4": "68.0",
     "numeric_score": -9
   },
   {
@@ -385,6 +385,18 @@
   },
   {
     "pos": "33",
+    "player": "Sepp Straka",
+    "score": "-8",
+    "today": "",
+    "thru": "",
+    "r1": "66.0",
+    "r2": "67.0",
+    "r3": "67.0",
+    "r4": "72.0",
+    "numeric_score": -8
+  },
+  {
+    "pos": "34",
     "player": "Michael Thorbjornsen",
     "score": "-7",
     "today": "",
@@ -396,7 +408,7 @@
     "numeric_score": -7
   },
   {
-    "pos": "34",
+    "pos": "35",
     "player": "Ryan Gerard",
     "score": "-7",
     "today": "",
@@ -408,7 +420,7 @@
     "numeric_score": -7
   },
   {
-    "pos": "35",
+    "pos": "36",
     "player": "Adam Schenk",
     "score": "-7",
     "today": "",
@@ -420,7 +432,7 @@
     "numeric_score": -7
   },
   {
-    "pos": "36",
+    "pos": "37",
     "player": "Jordan Spieth",
     "score": "-7",
     "today": "",
@@ -432,7 +444,7 @@
     "numeric_score": -7
   },
   {
-    "pos": "37",
+    "pos": "38",
     "player": "Ben Griffin",
     "score": "-7",
     "today": "",
@@ -444,7 +456,7 @@
     "numeric_score": -7
   },
   {
-    "pos": "38",
+    "pos": "39",
     "player": "Karl Vilips",
     "score": "-7",
     "today": "",
@@ -456,7 +468,7 @@
     "numeric_score": -7
   },
   {
-    "pos": "39",
+    "pos": "40",
     "player": "Chandler Blanchet",
     "score": "-7",
     "today": "",
@@ -468,7 +480,7 @@
     "numeric_score": -7
   },
   {
-    "pos": "40",
+    "pos": "41",
     "player": "Jacob Bridgeman",
     "score": "-7",
     "today": "",
@@ -480,7 +492,7 @@
     "numeric_score": -7
   },
   {
-    "pos": "41",
+    "pos": "42",
     "player": "Joe Highsmith",
     "score": "-7",
     "today": "",
@@ -489,18 +501,6 @@
     "r2": "68.0",
     "r3": "69.0",
     "r4": "73.0",
-    "numeric_score": -7
-  },
-  {
-    "pos": "42",
-    "player": "Sepp Straka",
-    "score": "-7",
-    "today": "",
-    "thru": "",
-    "r1": "66.0",
-    "r2": "67.0",
-    "r3": "67.0",
-    "r4": "66.0",
     "numeric_score": -7
   },
   {
