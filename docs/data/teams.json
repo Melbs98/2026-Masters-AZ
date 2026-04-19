@@ -3,7 +3,7 @@
     "team": "Cool Tony",
     "golfers": [
       {
-        "pos": "64",
+        "pos": "69",
         "player": "Tommy Fleetwood",
         "score": "-1",
         "today": "",
@@ -39,16 +39,16 @@
         "numeric_score": -11
       },
       {
-        "pos": "76",
+        "pos": "55",
         "player": "Jason Day",
-        "score": "+1",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "72.0",
         "r3": "72.0",
-        "r4": "0.0",
-        "numeric_score": 1
+        "r4": "13.0",
+        "numeric_score": -2
       },
       {
         "pos": "7",
@@ -155,7 +155,7 @@
         "numeric_score": null
       },
       {
-        "pos": "57",
+        "pos": "59",
         "player": "Chris Gotterup",
         "score": "-2",
         "today": "",
@@ -307,7 +307,7 @@
         "numeric_score": -7
       },
       {
-        "pos": "62",
+        "pos": "67",
         "player": "Alex Noren",
         "score": "-1",
         "today": "",
@@ -387,16 +387,16 @@
         "numeric_score": null
       },
       {
-        "pos": "66",
+        "pos": "65",
         "player": "Max Homa",
-        "score": "E",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "70.0",
         "r3": "74.0",
-        "r4": "8.0",
-        "numeric_score": 0
+        "r4": "19.0",
+        "numeric_score": -1
       },
       {
         "pos": "45",
@@ -681,14 +681,14 @@
       {
         "pos": "72",
         "player": "Brian Campbell",
-        "score": "+1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "68.0",
         "r2": "72.0",
         "r3": "74.0",
-        "r4": "4.0",
-        "numeric_score": 1
+        "r4": "15.0",
+        "numeric_score": 0
       },
       {
         "pos": "",
@@ -759,7 +759,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "61",
+        "pos": "63",
         "player": "Harry Hall",
         "score": "CUT",
         "today": "",
@@ -783,7 +783,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "75",
+        "pos": "71",
         "player": "Michael Kim",
         "score": "CUT",
         "today": "",
@@ -791,7 +791,7 @@
         "r1": "69.0",
         "r2": "73.0",
         "r3": "72.0",
-        "r4": "0.0",
+        "r4": "15.0",
         "numeric_score": null
       },
       {
@@ -851,7 +851,7 @@
         "numeric_score": null
       },
       {
-        "pos": "58",
+        "pos": "60",
         "player": "Nicolai Højgaard",
         "score": "CUT",
         "today": "",
@@ -875,16 +875,16 @@
         "numeric_score": null
       },
       {
-        "pos": "73",
+        "pos": "78",
         "player": "Marco Penge",
-        "score": "+1",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "73.0",
         "r3": "68.0",
-        "r4": "0.0",
-        "numeric_score": 1
+        "r4": "14.0",
+        "numeric_score": 2
       },
       {
         "pos": "34",
@@ -935,7 +935,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -13,
+    "best3_total": -12,
     "scores_entered": 3,
     "roster_loaded": 9
   },
@@ -967,16 +967,16 @@
         "numeric_score": -5
       },
       {
-        "pos": "80",
+        "pos": "79",
         "player": "Justin Thomas",
-        "score": "+7",
+        "score": "+5",
         "today": "",
         "thru": "",
         "r1": "76.0",
         "r2": "75.0",
         "r3": "70.0",
-        "r4": "15.0",
-        "numeric_score": 7
+        "r4": "25.0",
+        "numeric_score": 5
       },
       {
         "pos": "",
@@ -1003,7 +1003,7 @@
         "numeric_score": null
       },
       {
-        "pos": "67",
+        "pos": "74",
         "player": "Nico Echavarria",
         "score": "CUT",
         "today": "",
@@ -1011,7 +1011,7 @@
         "r1": "75.0",
         "r2": "70.0",
         "r3": "68.0",
-        "r4": "0.0",
+        "r4": "4.0",
         "numeric_score": null
       },
       {
@@ -1051,7 +1051,7 @@
         "numeric_score": null
       }
     ],
-    "best3_total": -6,
+    "best3_total": -8,
     "scores_entered": 3,
     "roster_loaded": 9
   },
@@ -1083,16 +1083,16 @@
         "numeric_score": null
       },
       {
-        "pos": "70",
+        "pos": "64",
         "player": "Jake Knapp",
-        "score": "+1",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "75.0",
         "r3": "69.0",
-        "r4": "8.0",
-        "numeric_score": 1
+        "r4": "18.0",
+        "numeric_score": -1
       },
       {
         "pos": "19",
